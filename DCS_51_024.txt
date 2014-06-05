@@ -1,0 +1,59 @@
+-23-
+
+2.- CONSTRUCTION DE LA BASE DE DONNEES.
+
+2.1.- Le choix des séries.
+
+Comme nous l'avons exposé, un point sensible de l'organisa-
+tion de notre travail était la sélection des données retenues pour
+cette première étape de la construction de la base DAVIDO.
+
+Notre démarche commençant par la reprise d'un travail ancien,
+la première orientation fut de rechercher si tout ce qui nous
+semblait utile de relever l'était dans les fichiers hérités de
+l'Unité de Recherche de Sociologie Criminelle du C.E.S..
+
+Nous avons conservé comme début de nos séries l'année 1831,
+date de consolidation des statistiques criminelles quant à leur
+contenu : c'est en effet cette année qu'on voit apparaître pour la
+première fois dans le Compte général les tableaux concernant le
+parquet (renseignant notamment sur l'origine des affaires, la
+première orientation qui leur est donnée, les classements sans
+suite), ainsi que les tableaux concernant l'activité des juridic-
+tions d'instruction - soit 36 séries supplémentaires pour ce qui
+concerne notre base de données. Par ailleurs d'autres tableaux
+sont enrichis cette même année de nouveaux renseignements - en
+matière de détention provisoire, de récidive correctionnelle,
+d'exécution des peines d'emprisonnement correctionnel ou d'acti-
+vité des chambres d'accusation - soit 23 séries suplémentaires.
+
+En conclusion : sur les 225 séries de la base, plus de la
+moitié, sont renseignées en 1831 (soit 127, dont 68 sont antérieu-
+res à 1831 et 59 apparaissent cette année -sur ces 59 séries, 36
+
+correspondent à de nouveaux tableaux).
+D'autres renseignement, ne seront publiés que plus tard.
+
+C'est le cas des effectifs des agents de la police judiciaire
+(1842) ou des modes de jugements correctionnels (1856).
+
+ 
+
+Il apparaissait en revanche que des choix restrictifs avaient
+alors été faits en fonction des objectifs théoriques retenus par
+André DAVIDOVITCH. Dans 1e cadre d'une analyse de l'évolution du
+traitement de la criminalité, sous-tendue par l'idée que les
+normes sociales sont sujettes à une perpétuelle ré-évaluation se
+traduisant par des attitudes évoluant différemment selon le type
+d'illégalismes réprimés, l'accent était mis sur la nature de
+l'infraction. Selon cette vision, une série statistique n'a d'uti-
+lité que si elle peut être ventilée par types d'infractions.
+
+Pratiquement un tel choix n'est pas tenable sur l'ensemble de
+la période. En effet, après 1932, seules les séries concernant le
+jugement sont ventilées par types d'infractions, si bien qu'en
+grande partie les hypothèses faites (notamment sur le rôle du
+parquet dans l'ajustement des normes légales aux normes effecti-
+vement dominantes) deviennent invérifiables et qu'à s'en tenir au
+principe initial la base de données se réduirait à peu de choses.
+

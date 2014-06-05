@@ -1,0 +1,56 @@
+-l49-
+
+En 1920, à condition d'admettre l'hypothèse d'une erreur
+d'impression il faut lire 440 849 au lieu de 440 879.
+En 1934, pour la même raison que précédemment, il convient de
+
+lire 543 998 au lieu de 543 698.
+
+14.2.3.- APOLDEF (P4 - 1839 à 1975*).
+"Nombre des jugements rendus par défaut".
+
+Cette série a été constituée de la même manière que la
+
+précédente.
+En 1880, en supposant une erreur d'édition on doit lire
+
+80 908 au lieu de 88 908. De même, en 1941, on lira 108 662 au
+lieu de 108 652 (1).
+
+4.17.2.4.- APOLIMP (P5 - 1831 à 1975*).
+
+"Nombre des jugements rendus à la requête du ministère
+public".
+
+La série est relevée de 1831 à 1973, dans le tableau de 1831
+
+à 1878, puis en note au bas de ce tableau.
+En 1974 et 1975, les chiffres n'ont pas été publiés et sont
+
+reconstitués à partir des Cadres des parquets.
+Les renseiqnements ne sont pas disponibles pour les années
+
+1951 à 1953.
+
+14.2.5.- APOLIPC (P6 - 1831 à 1975*).
+
+"Nombre des jugements rendus à la requête de la partie
+civile".
+
+Cette série a été constituée de la même manière que la
+
+précédente.
+Les valeurs sont manquantes de 1950 à 1953.
+
+En 1937, en supposant une erreur d'impression il convient de
+lire 825 au lieu de 258.
+
+(1).- On traite ces erreurs comme des erreurs d'impression :
+c'est-à-dire qu'on observe 1a possibilité de retrouver la cohé-
+rence en ne modifiant qu'un chiffre dans l'un des deux nombres
+
+(APOLCONT ou APOLDETU. Cette règle n'est efficace que si la
+correction n'est ainsi possible que d'une seule facon. Ce qui est
+
+bien le cas ici.
+

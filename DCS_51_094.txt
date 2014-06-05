@@ -1,0 +1,58 @@
+-93-
+
+De 1831 à 1923, le renseignement est donné en note du tableau
+"Nature et durée des peines". Le chiffre est alors inclus dans la
+
+colonne des "acquittés" au niveau du tableau donnant le "Résultat
+des poursuites". A partir de 1924, il est relevé dans 1a colonne
+
+correspondante du tableau "Résultat des poursuites". Finalement la
+série PPARENTA représente une partie de PACQUIT.
+
+9.2.5.- PMAISONA (V20 - 1831 à 1952).
+
+Nombre des "enfants âgés de moins de 16 ans envoyés dans une
+maison de correction (Art. 66 du C.P.)".
+
+En 1908, le libellé devient : "enfants âoés de moins de 16
+ans envovés dans une colonie pénitentiaire (Art. 66 du C.P.)". A
+partir de 1912, il s'agit d'"enfants âgés de moins de 18 ans".
+
+Cette série est relevée dans les mêmes conditions que la
+
+précédente (PPARENTA), elle s'interrompt éqalement après 1952.
+Elle représente une partie de PCONDASS.
+
+9.2.6.- PCONDASS (V21 - 1831 à 1978).
+
+Nombre de condamnés par les cours d'assises (jusqu'en 1952)
+ou nombre de condamnations prononcées par les cours d'assises (à
+
+partir de 1953).
+
+Cette variation dans le titre à l'occasion du passaqe à
+l'exploitation des fiches de casier judiciaire n'implique pas de
+modification de contenu. De tout temps, les comptaaes concernant
+des personnes visent en fait les décisions-personnes sans éliminer
+les implications multiples d'un individu dans l'année (voir 1e
+
+chapitre 1.3 sur les unités de compte).
+
+Des condamnations à des peines non mentionnées sont incluses
+
+pour certaines années, la part en est alors la suivante : 1 en
+1956, 4 en 1972, 6 en 1973, 11 en 1974, 9 en 1975. 19 en 1976. 61
+
+en 1977 et 101 en 1978. Ces condamnations ont été comptées dans la
+série PCORRECT.
+
+Le mode de jugement;
+
+Seuls les arrêts contradictoires ont été pris en compte
+
+jusqu'en 1975 sauf en 1961. Pour cette année et à partir de 1976,
+les condamnations par contumace sont incluses. Ces remarques
+valent pour l'ensemble des séries ventilant les différentes peines
+
+prononcées et leurs durées.
+

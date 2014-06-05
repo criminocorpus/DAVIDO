@@ -1,0 +1,57 @@
+*115-
+
+10.3.2.3.- PRELAXE (X17 - 1831 à 1981).
+
+"Nombre des prévenus acquittés" par les tribunaux
+correctionnels.
+
+Cette série est relevée dans les mêmes conditions que
+
+PPREVENU.
+
+En ce qui concerne les mineurs la situation varie au cours de
+la période :
+- de 1832 à 1932, les mineurs acquittés sont pris en compte dans
+la colonne "acquittés", mais pas ceux "remis à parents", ni ceux
+"placés sous surveillance" lorsqu'il s'agit d'une mesure
+principale.
+
+- de 1933 à 1951, il n'existe plus qu'une seule rubrique intitulée
+"nombre de prévenus acquittés" dans laquelle les mineurs sont
+inclus, y compris ceux "remis à parents" ou "envoyés dans une
+colonie pénitentiaire (ou institution d'éducation)". On peut s'en
+assurer en comparant les chiffres avec ceux fournis dans le
+tableau ventilé par âge et par sexe (une note le précise au bas de
+
+ce tableau).
+- de 1952 à 1981, seuls les majeurs sont pris en compte.
+
+Pour rendre la série homogène jusqu'en 1951, il convient donc
+d'y ajouter les prévenus mineurs remis à leurs parents (PPARENTC)
+
+jusqu'en 1932, ce qui a été fait ici.
+
+10.3.2.4.- PPARENTC (X19 - 1832 à 1932).
+
+"Nombre des prévenus âgés de moins de 16 ans (18 ans à partir
+de 1907 -1oi du 12 avril 1906) remis à leurs parents ou à un
+tiers" par les tribunaux correctionnels.
+
+Cette série est relevée jusqu'en 1839. calculée de 1840 à
+1845 et de nouveau relevée jusqu'en 1932.
+
+Les jeunes vagabonds placés sous surveillance de la haute
+police sans autre peine sont inclus ici. Leur nombre est donné
+dans le tableau de 1832 à 1845, puis en note jusqu'en 1870 (avec
+la précision suivante : "ils sont classés dans le tableau parmi
+les enfants âgés de moins de 16 ans, remis à leurs parents"),
+ensuite le renseignement disparaît. En effet, la circulaire sur
+les statistiques du 25 novembre 1871 modifie ainsi 1e cadre du
+parquet correspondant : "la distinction, juqée superflue (...)
+
+disparaîtra (...), et les jeunes vagabonds, mis en surveillance
+seulement, seront réunis (...) aux prévenus acquittés ou remis à
+
+leurs parents".
+Cette série représente dans 1a base une partie de PRELAXE.
+

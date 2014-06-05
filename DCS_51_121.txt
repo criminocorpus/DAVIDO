@@ -1,0 +1,68 @@
+-l20-
+
+- "bacs de passage", en 1832 ;
+- "roulage", de 1851 à 1954 :
+
+- "mines", de 1831 à 1910 ;
+- "mines et carrières", en 1912 ;
+- "loyers", en 1951 ;
+- "sécurité sociale", de 1952 à 1954.
+Cette liste ne comprend pas, loin de là, toutes les infrac-
+tions à des législations extérieures au Code Pénal que le Çompte
+
+général faisait figurer parmi les "délits communs".
+
+ 
+
+10.3.2.14.- PSPEPREV (V9 - 1831 à 1954).
+
+"Nombre des prévenus" jugés pour des "délits spéciaux" par
+les tribunaux correctionnels.
+
+Cette série a été relevée dans les ggmpteslgénéraux.
+Les prévenus mineurs remis à leurs parents ou envoyés dans
+
+une maison de correction sont inclus dans cette série (voir
+PSPEPARE et PSPEMÀIS).
+
+A partir de 1851, on observe l'éqalité suivante :
+PSPEPREV = somme(PSPEACQU,PSPEPRIS,PSPEAMEN).
+De 1831 à 1850 (à l'exception de 1843 et 1847), la différence
+vient des prévenus poursuivis pour des contraventions forestières
+
+et condamnés à d'autres peines que l'emprisonnement ou l'amende
+(cf. PPREVENU).
+
+ 
+
+10.3.2.15.- PSPEÀCQU (V10 - 1831 à 1954).
+
+"Nombre des prévenus acquittés" par les tribunaux correc-
+tionnels qui avaient été poursuivis pour "délits spéciaux".
+
+Cette série a été relevée. Elle comprend la suivante
+(PSPEPARE).
+
+10.3.2.16.- PSPEPARE (X1 - 1832 à 1932).
+
+Nombre des prévenus mineurs "remis à leurs parents ou à un
+tiers" par les tribunaux correctionnels qui avaient été poursuivis
+pour des "délits spéciaux".
+
+Cette série ne débute qu'en 1832. Elle représente dans la
+base une partie de PSPEACQU.
+
+De 1832 à 1845. la part des jeunes vaqabonds placés sous
+surveillance de la haute police sans autre peine, dont le chiffre
+était donné dans une colonne distincte, est nulle. Ensuite. les
+
+tableaux des çomptes généraux ne distinguent plus les deux
+rubriques.
+
+De 1832 à 1839, les valeurs sont donc nulles par addition de
+
+valeurs manquantes (remis à parents) et de valeurs nulles (placés
+sous surveillance) tandis qu'en 1840, la valeur est nulle par
+
+addition de deux valeurs nulles.
+

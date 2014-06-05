@@ -1,0 +1,63 @@
+-78-
+
+De 1948 à 1951, les valeurs sont manquantes .
+
+De 1952 à 1955, le relevé provient du tableau concernant
+l'instruction puis à nouveau, en 1956, du tableau sur l'achèvement
+de la détention préVentive. A partir de ce moment, i1 n'v a plus
+concordance avec le total des miSes en liberté provisoire, même en
+ajoutant PDPMAIN qui distingue maintenant les mainlevées de mandat
+
+de dépôt. Voir à ce propos PLPTOT.
+
+8.2.2.7.- PDPRENV (V107 - 1956 à 1981).
+
+Nombre d'individus détenus préventivement dont la détention
+s'est achevée par renvoi devant le tribunal de police ou devant 1e
+tribunal correctionnel.
+
+De 1956 à 1958, la série vise les articles 129 et 131 du
+C.I.C. et ne contient pas les cas de renvoi devant le tribunal
+correctionnel avec une inculpation entraînant une peine d'empri-
+
+sonnement.
+De 1959 à 1981, elle vise les articles 178 et 179 du C.P.P..
+
+Cette série est relevée dans le tableau sur le mode d'achè-
+vement de la détention préventive. On peut noter que de 1854 à
+
+1947, on trouve dans le tableau de ventilation des mises en
+liberté provisoire 1e cas des articles 129 et 131 du C.I.C.
+(PLPRENV).
+
+8.2.2.8.- PDPONL (V108 - 1831 à 1981*).
+
+Nombre d'individus dont la détention préventive s'est achevée
+par une ordonnance de non-lieu.
+
+Cette série est relevée de 1831 à 1853 dans le tableau con-
+cernant les ordonnances de non-lieu (par infractions ou par cours
+d'appel). u
+
+De 1854 à 1932, elle figure à la fois dans ce tableau et dans
+celui concernant le mode d'achèvement de la détention préventive.
+Le chiffre est 1e même sauf en 1859, 1879 et 1882 avec des diffé-
+rences de 1, 8 et 8 respectivement. On a choisi de conserver le
+chiffre inclus dans la cohérence flux/stock, soit celui du mode
+d'achèvement.
+
+De 1933 à 1981, le relevé provient du tableau sur l'achève-
+
+ment de la détention préventive. Les valeurs sont manquantes de
+1948 à 1955.
+
+Cette série est relative aux ordonnances de non-lieu non
+frappées d'opposition (Cf. PONLTOT) ; elle comprend les individus
+déchargés des poursuites inculpés dans des affaires donnant lieu à
+poursuites pour d'autres co-inculpés (les notes figurant dans les
+tableaux sur le non-lieu sont explicites en ce sens ).
+
+Pour obtenir l'ensemble des inculpés détenus déchargés des
+poursuites après non-lieu, i1 convient d'ajouter à cette série
+celle des inculpés détenus bénéficiant d'un arrêt de non-lieu
+

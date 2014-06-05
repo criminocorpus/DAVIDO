@@ -1,0 +1,46 @@
+-90-
+
+9.2.2.- PACCUSE (V16 = 1831 à 1981*).
+"Nombre total des accusés" jugés par les cours d'assises.
+
+Il s'agit d'un comptage en personnes (voir le chapitre 1.3
+sur les unités de compte).
+
+De 1831 à 1952, 1e relevé est fait dans le Çompte qénéral et
+ne tient compte que des accusés jugés contradictoirement.
+
+Ensuite la statistique mécanoqraphique étant seule publiée,
+1a série est interrompue de 1953 à 1955.
+
+De 1956 à 1969, le relevé a été fait dans les Archives.
+
+A partir de 1970, la série provient de l'exploitation des
+gadrêâ (statistiques criminelles n°3B bis ou 3 bis).
+
+A partir de 1976, les Cadres des parquets ayant été modifiés,
+le nombre des accusés est obtenu en additionnant condamnés et
+acquittés. Afin que la source demeure homogène, on a utilisé pour
+ce calcul le nombre des condamnés provenant des cadres des
+parquets et non des tableaux publiés à partir de l'exploitation
+des fiches de casier judiciaire. En 1975, des estimations ont été
+
+réalisées pour 1a cour d'assises de Paris qui n'avait pu fournir
+ses chiffres.
+
+ 
+
+A partir de 1956, les accusés juqés par contumace sont inclus
+dans la série mais 1a part en est faible.
+
+En 1861, nous avons soustrait un accusé "condamné à 3 ans de
+suspension de fonctions publiques (art. 374 et 682 du C.P. sarde
+de 1859)". Le chiffre saisi diffère donc de celui donné par le
+ggmpte Général (soit 4 812 au lieu de 4 813).
+
+On observe jusqu'en 1952 l'éqalité suivante :
+PACCUSE = somme(PACQUIT,PCONDASS).
+Les mineurs remis à parents ou envoyés en maison de cor-
+
+rection sont donc inclus dans ce comptaae (cf. PPARENTA et
+PMAISONA).
+

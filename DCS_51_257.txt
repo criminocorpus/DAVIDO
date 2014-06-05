@@ -1,0 +1,137 @@
+FEXEGRAC Y18
+
+PEXEMORT V8
+
+PEXESTOP Y16
+
+FEXESURS Ylâ
+
+PEXETÛT Y12
+
+FFORCE V1
+
+PINCULPE
+FLFDRÛIT
+PLPFLAG
+
+P7
+V152
+V150
+
+PLFNAIN V129
+
+PLPOFFI V133
+
+PLPRENV V128
+
+PLPREOU
+PLPTOT
+PMAISONA
+
+V151
+V127
+V20
+
+PMAISONC X20
+
+PMORT
+PMPAMEN
+
+V22
+Y22
+
+PMPEMF Y21
+
+PMPRELA YZÛ
+PDNLARRE Y7
+PUNLTOT Y6
+
+PPARENTA V19
+
+PPARENTC X19
+
+-258-
+
+Prévenus condamnés à l'emprisonnement ferme ou envovés en
+correction par les tribunaux correctionnels et dont le
+iucement n'a pas été mis à exécution
+
+Condamnés par les cours d'assises à la peine de mort et
+exécutés
+
+Prévenus condamnés a l'emprisonnement ou envoyés en
+correction par les tribunaux correctionnels et non écroués
+car en fuite ou pour tout autre motif due grâce. décès ou
+transaction
+
+Prévenus condamnés à l'emprisonnement ou envovés en
+correction par les tribunaux correctionnels et non écroués
+par suite de sursis a l'exécution de la peine lavec ou sans
+détention préventive)
+
+Total des prévenus condamnés à l'emprisonnement ou envoyés
+en correction par les tribunaux correctionnels (total
+calculé 21
+
+Condamnés par les cours d'assises à une peine de travaux
+forcés à temps
+
+Total des inculpés iuoés par les tribunaux de simple police
+Mises en liberté provisoire de droit
+
+Mises en liberté provisoire prévues par l'article 5 de la
+loi du 20 mai 1863 sur les flagrants délits (report
+d'audience) puis par l'article 397 du c.P.P.
+
+Mises en liberté provisoire par mainlevée du mandat de dépôt
+ou d'arrét
+
+Mises en liberté
+d'instruction ou
+
+provisoire d'office par le iuqe
+
+sur reuuéte du prévenu (sans nécessairement
+obtenir l'accord préalable du ministère public)
+
+Mises en liberté provisoire par renvoi devant le tribunal de
+police ou devant le tribunal correctionnel sans encourir de
+peine d'emprisonnement
+
+Mises en liberté provisoire sur reauéte du prévenu
+
+Total des mises en liberté provisoire
+
+Mineurs ayant agi sans discernement envoyés dans une maison
+de correction ou en colonie pénitentiaire par les cours
+d'assises
+
+Prévenus mineurs envovés dans une maison de correction ou en
+colonie pénitentiaire par les tribunaux correctionnels
+Condamnés par les cours d'assises à la peine de mort
+Prévenus poursuivis par les tribunaux correctionnels à la
+reouéte du ministère public et condamnés à l'amende
+seulement
+
+Prévenus poursuivis par les
+reouéte du ministère public
+
+tribunaux correctiOnnels à la
+et condamnés a l'emprisonnement
+Prévenus poursuivis par les tribunaux correctionnels à la
+reouéte du ministère public et acquittés
+
+Inculpés arrêtés déchargés des poursuites par les iuqes
+d'instruction
+
+Total des inculpés déchargés des poursuites par les iuoes
+d'instruction
+
+Accusés mineurs ayant agi sans discernement remis a leurs
+parents.ou à un tiers. ou é une institution spécialisée. par
+les cours d'assises
+
+Prévenus mineurs avant agi sans discernement remis à leurs
+parents. ou a un tiers. ou s une institution spécialisée.
+par les tribunaux correctionnels
+

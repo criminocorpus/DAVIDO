@@ -1,0 +1,66 @@
+-53-
+
+peut être estimé à partir des précisions qu'apporte le Rapport du
+gompteqqénéral dem"1515, page XX, à ce sujet : 1e total des
+
+affaires dont ont eu à s'occuper les procureurs de la République
+(ATOTPARQ) en 1875 "est inférieur de 6 534 à celui de 1874 ; mais
+il ne décèle pas une réduction aussi considérable : il provient
+uniquement de ce qu'à dater de 1875, les affaires introduites à 1a
+requête des parties civiles, bien que portées par 1a citation
+
+directe à la connaissance du ministère public, cessent de fiqurer
+
+avec celles dont les parquets ont eu à s'occuper. Si on les ajou-
+taient aux 357 O43 affaires ci-dessus, la comparaison des totaux
+des deux années ne donnerait plus en réalité qu'une diminution
+relativement insignifiante de 852". Nous n'avons cependant pas
+
+introduit cette estimation dans la base afin de conserver la
+cohérence d'ensemble des séries concernant le parquet.
+
+6.1.2.5.- ACOMMUAL (V52 - 1831 à 1981).
+
+Affaires "renvoyées devant une autre juridiction".
+
+Il s'agit essentiellement des renvois liés à des questions de
+
+compétence géographique.
+De 1954 à 1965, les chiffres saisis diffèrent de ceux qu'on
+
+peut observer dans les tableaux des ggmptes-générauë. En effet,
+pour un comptaqe plus homoqène. on a soustrait, d'une part les
+affaires communiquées aux juges des enfants (de 1954 à 1965),
+d'autre part celles renvoyées devant le tribunal de police (en
+1961), grâce aux notes de bas de tableau, qui en donnaient 1e
+nombre.
+
+En 1957, par comparaison avec 1956 et 1958 et en respect de
+la cohérence Total = Somme des orientations, il apparaît
+- soit que 1a note qui indique que 18 321 renvois au juqe des
+enfants ne sont pas comptés dans les renvois à d'autres juridic-
+tions est erronée (ce serait un dont comme en 1956 et 1958), et il
+faudrait alors rectifier la série ACOMMUAL en soustrayant ces
+
+18 321 renvois :
+- soit qu'ils ne sont pas compris dans ATOTPARO qu'il conviendrait
+
+de rectifier en les y ajoutant.
+La deuxième option suppose la note exacte quoique bizarre et
+
+laisse une série ACOMMUAL plausible : c'est celle que nous avons
+choisie.
+
+ 
+
+6.1.2.6.- ACOMHUJE (V53 - 1954 à 1981).
+
+Affaires "communiquées aux juges des enfants".
+
+Cette rubrique n'apparaît dans les tableaux qu'à partir de
+1966. La série a pu cependant être reconstituée à partir de 1954.
+qrâce aux notes de bas de tableau qui indiquent notamment quelle
+part représentent ces affaires dans les renvois devant une autre
+
+juridiction.
+

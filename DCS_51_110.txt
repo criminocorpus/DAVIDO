@@ -1,0 +1,57 @@
+-109-
+
+553.- Activité desatribunaux correctionnels - Modggdlintrgggction
+es poursuites.
+
+D.
+
+10.2.1.- Généralités.
+
+On peut donc répartir les affaires selon les parties poursui-
+vantes et le mode d'introduction des poursuites de 1831 à 1975
+
+(APARTCIV à AMPFLAG).
+De 1831 à 1954, les séries qui suivent sont relevées dans les
+
+tableaux des çgmptes généraux ventilés soit par juridictions, soit
+par infractions (de 1863 à 1870r pour les séries AMPCIDIR.
+
+AMPBARRE et AMPURGE).
+De 1955 à 1969, elles sont relevées dans les Archives.
+
+De 1970 à 1975. elles sont calculées à partir des Cadres des
+parquets (statistiques criminelles n° BB bis - tableau B, au
+
+verso).
+En 1976, les cadres ont été modifiés et ces renSeiqnements
+
+ont cessé d'être demandés aux juridictions par la Chancellerie.
+
+Jusqu'en 1932, les prévenus sont également ventilés selon les
+parties poursuivantes et le résultat des poursuites dans le
+tableau intitulé "Résultat des poursuites avec l'indication des
+(eu égard aux...) parties poursuivantes" (PMPRELA à PPCAMEN).
+
+Une note de ce même tableau donne, en distinguant la partie
+poursuivante, 1e nombre d'affaires où tous les prévenus sont
+
+acquittés (AMPRELA à APCRELA). ce qui permet de calculer des taux
+d'abandon de poursuite par affaires et non plus par personnes.
+
+Les séries concernant les prévenus sont croisées avec les
+cours d'appel, mais pas celles concernant les affaires.
+
+On observe l'égalité suivante :
+ATOTCOR = somme(APARTCIV,AADMIN.AMPPARTI.AMPSEUL.AMPINST,AMPFLAG).
+
+10.2.2.- Les séries de la base.
+
+10.2.2.1.- APARTCIV (V71 - 1831 à 1975).
+
+"Affaires poursuivies à la requête de la partie civile".
+
+10.2.2.2.n AADMIN (V72 - 1831 à 1975).
+
+"Affaires poursuivies à la requête d'une administration ou
+d'un établissement public".
+

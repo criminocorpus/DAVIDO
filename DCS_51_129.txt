@@ -1,0 +1,59 @@
+-128-
+
+1.2.- Les séries de langage;
+
+11.2.1.- PSUASTOT (Sl - 1891 à 1976).
+
+Nombre total de condamnés (condamnations) à des peines priva-
+
+tives de liberté assorties du sursis qui ont été prononcées par
+les cours d'assises.
+
+Cette série est relevée (ainsi que les séries PSUASSIM à
+PSA)=5AN) dans 1e tableau intitulé "Sursis à l'exécution de la
+peine" qui croise ce renseignement avec le type de peine prononcée
+et son quantum. Ce tableau disparaît après 1932. Le chiffre est
+donc relevé ensuite dans une colonne du tableau donnant les résul-
+tats des poursuites en assises (il n'y a plus alors 1e détail des
+peines, ni de leurs quantum).
+
+De 1891 à 1932, on a l'égalité suivante :
+
+PSUASTOT = somme(PSA(=1AN,PSA)1AN) sauf en 1901 et 1905. Pour ces
+
+années, les ggmptes générauë faisaient en effet apparaître une
+peine d'amende assortie du sursis prononcée pour un délit que nous
+avons ajoutée à cette série.
+
+Par ailleurs, à partir de 1959, la rubrique n'existant pas en
+tant que telle, nous avons dû additionner les sursis simples et
+les sursis avec mise à l'épreuve. On observe donc sur cette
+
+période l'égalité suivante : PSUASTOT = somme(PSUASSIM,PSUASMAE).
+
+ 
+
+11.2.2.- PSUASSIM (82 - 1959 à 1976).
+
+Nombre de condamnés (condamnations) à des peines assorties du
+sursis simple qui ont été prononcées par les cours d'assises.
+
+Cette série (ainsi que 1a suivante) n'apparaît qu'en 1959.
+A partir de 1972. lorsque des sursis non mentionnés apparais-
+saient. nous ne les avons pas pris en compte.
+
+11.2.3.- PSUASMAE (S3 s 1959 à 1976).
+
+Nombre de condamnés (condamnations) à des peines assorties du
+sursis avec mise à l'épreuve qui ont été prononcées par les cours
+d'assises.
+
+11.2.4.- PSA(=1AN (85 - 1891 à 1932).
+
+Nombre de condamnés (condamnations) à des peines d'emprison-
+nement correctionnel inférieur ou égal à un an assorties du sursis
+qui ont été prononcées par les cours d'assises.
+
+Cette série peut être soustraite de PEA(=1AN pour obtenir les
+peines d'emprisonnement fermes de cette durée.
+

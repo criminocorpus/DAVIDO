@@ -1,0 +1,140 @@
+PAMENDE X24
+
+PANLARRE Y1
+PANLTOT Y2
+FAPFTITR P19
+PBANNI V5
+
+PCARCAN
+PCOMDET
+
+V4
+V120
+
+PCOHFLAG V121
+
+FCÛMLPRO V119
+
+PCÛHMDEF V122
+
+FCOMPAVE P17
+PCONDASS
+PCONDCOR
+PCÛRDEÏ
+
+V21
+X21
+
+V124
+
+FCORFLAG V125
+
+PCORLPRÛ V123
+
+PCORHDEP V126
+PCORRECT V25
+PDEGRADE V7
+
+PDEPORTE
+PDETENT
+
+V6
+V3
+PDPACÛUI V109
+PDPAHEN V116
+PDPAUTR V117
+PDPCHAC V115
+PDFCONAS V110
+FDFECROU V102
+
+PDPEHPRI V113
+
+-256-
+
+Condamnés par les tribunaux correctionnels à une peine
+d'amende seulement
+
+Frévenus déchargés des poursuites par les chambres
+d'accusation arrêtés pendant l'instruction
+
+Total des prévenus déchargés des poursuites par les chambres
+d'accusation
+
+Amendes pénales fixes prononcées par les tribunaux de police
+: nombre de titres exécutoires individuels établis
+
+Condamnés par les cours d'assises a une peine de
+bannissement
+
+Condamnés par les cours d'assises à une peine de carcan
+Prévenus jugés pour des délits communs arrêtés et détenus
+jusau'au jugement
+
+Prévenus iuçés pour des délits communs arrêtés et détenus
+jusqu'au juçement dans le cadre d'une procédure de flagrant
+délit
+
+Prévenus jugés pour des délits communs arrêtés et mis en
+liberté provisoire jusqu'au jugement
+
+Prévenus iuoés pour des délits communs arrêtés et détenus
+jusau'au jugement en vertu d'autres mandats
+
+Amendes de composition prononcées par les tribunaux de
+police : nombre d'avertissements envovés
+
+Condamnés par les cours d'assises
+
+Condamnés par les tribunaux correctionnels
+
+Prévenus juoés par les tribunaux correctionnels arrêtés
+détenus jusqu'au juçement
+
+Prévenus iuoés par les tribunaux correctionnels arrêtés
+détenus jusqu'au juçement dans le cadre d'une procédure
+flagrant délit
+
+Prévenus iuqés par les tribunaux correctionnels arrêtés
+mis en liberté provisoire
+
+Prévenus jugés par les tribunaux correctionnels arrêtés
+détenus jusau'au jugement en vertu d'autres mandats
+Condamnés par les cours d'assises a des peines
+correctionnelles (emprisonnement ou amende)
+
+Condamnés par les cours d'assises a une peine de dégradation
+civiaue accompagnée ou non d'une peine d'emprisonnement
+Condamnés par les cours d'assises à une peine de déportation
+Condamnés par les cours d'assises à une peine de détention
+criminelle à temps
+
+Prévenus arrétés et détenus préventivement acquittés par les
+cours d'assises
+
+Individus dont la détention préventive s'est achevée par une
+condamnation à l'amende
+
+Individus dont la détention préventive s'est achevée pour
+toute autre cause
+
+Individus dont la détention préventive s'est achevée par le
+renvoi devant la chambre d'accusation
+
+Prévenus arrétés et détenus préventivement condamnés par les
+cours d'assises
+
+Individus soumis à la détention préventive écroués pendant
+l'année
+
+Individus dont la détention préventive s'est achevée par une
+condamnation à l'emprisonnement
+
+et
+
+et
+de
+
+et
+
+et
+

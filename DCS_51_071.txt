@@ -1,0 +1,60 @@
+-70-
+
+7.4.2.2.- PANLTOT (YZ - 1831 à 1932).
+Nombre total de "prévenus déchargés des poursuites".
+
+Cette série est 1e plus souvent calculée. En effet on trouve
+en qénéral dans le tableau la colonne intitulée "non arrêtés
+
+pendant l'instruction" qui ajoutée à PANLARRE donne PANLTOT.
+Cf. PANLARRE.
+
+7.4.2.3.- AANLCRIM (Y3 - 1831 à 1932).
+
+"Nombre des faits présentant le caractère de crime" pour
+lesquels la chambre d'accusation a rendu un arrêt de non-lieu.
+
+Le tableau concernant les arrêts de non-lieu donne leur
+ventilation en affaires criminelles et délictuelles dont le total
+devrait correspondre au total des arrêts de non-lieu trouvé dans
+le tableau donnant 1e résultat des affaires renvoyées devant la
+chambre d'accusation. Nous avons rencontré quelques écarts :
+
+- en 1891, 1e tableau sur la chambre d'accusation donne un total
+
+de 121. que l'on a ventilé en 113 crimes et 8 délits. alors que 1e
+tableau "ANL" donne 111 et 7 ;
+
+- en 1893, 1e tableau sur la chambre d'accusation donne un total
+de 144. que l'on a ventilé en 136 crimes et 8 délits, alors que le
+tableau "ANL" donne 128 et 7 ;
+
+- en 1894, 1e tableau sur 1a chambre d'accusation donne un total
+
+de 143. que l'on a ventilé en 112 crimes et 31 délits, alors que
+le tableau "ANL" donne 106 et 29 ;
+
+Pour ces trois années l'égalité suivante ne se vérifie donc
+pas : -
+somme(AANLCRIM,AANLDELI) = total des arrêts de non-lieu ("ANL") du
+
+tableau "Résultat des affaires renvoyées devant la chambre
+d'accusation".
+
+7.4.2.4.- AANLDELI (Y4 - 1831 à 1932).
+
+"Nombre des faits présentant le caractère de délit" pour
+lesquels la chambre d'accusation a rendu un arrêt de non-lieu.
+
+Cf. AANLCRIM et PANLARRE.
+
+7.4.2.5.- AANLTOT (Y32 - 1831 à 1932).
+
+Nombre total des arrêts de non-lieu rendus par la chambre
+d'accusation.
+
+Cette série est calculée de la manière suivante z
+AANLTOT = somme(AANLCRIM,AANLDELI). Elle ne correspond pas pour
+les années 1891, 1893 et 1894 au total du tableau "ANL" ventilant
+les arrêts de non-lieu (voir AANLCRIM).
+

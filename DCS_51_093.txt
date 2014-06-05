@@ -1,0 +1,62 @@
+-92-
+
+Les accusés "absous, la prescription étant acquise" ou en
+application de l'article 364 du C.I.C. (avec obliqation de répara-
+tion du dommage à la demande de la partie civile) de même que ceux
+exemptés de peine sont inclus dans la série PACQUIT. Les chiffres
+en sont très faibles et négligeables statistiquement. Ils sont
+donnés dans le Compte général en note du tableau "Nature et durée
+des peines".
+
+Les mineurs.
+
+En ce qui concerne leur prise en compte dans cette série, la
+solution varie au cours de la période :
+- de 1831 à 1923, il v a dans les tableaux des Compteanénéraux
+une colonne unique intitulée "acquittés" dans laquelle mineurs et
+majeurs sont confondus. C'est le chiffre qui a été relevé. Il est
+
+cependant possible, à l'aide du tableau intitulé "Résultat des
+poursuites pour les accusés de chaque âqe et de chaque sexe avec
+l'indication des peines prononcées" de connaître la part des
+mineurs, mais seulement de 1831 à 1912 ; ensuite la colonne
+"acquittés" disparaît de ce tableau. De plus, selon une note de
+bas de tableau, la rubrique "acquittés" comprend les "accusés âaés
+de moins de 16 (18) ans, déclarés coupables, mais sans discerne-
+ment, (qui) ont été remis à leurs parents" (cf. PPARENTA).
+
+- de 1924 à 1945, les acquittés sont présentés dans les tableaux
+des comptes généraux en trois colonnes intitulées "acquittés Dure-
+ment et simplement", "mineurs de 18 ans avant agi sans discerne-
+ment envoyés en colonie pénitentiaire" et "mineurs de 18 ans avant
+
+agi sans discernement remis à leurs parents ou à un tiers". Nous
+avons additionné la première et la troisième colonne, ce qui
+prolonge correctement la série.
+
+- de 1946 à 1951, les tableaux des Comptes généraux ne comportent
+plus que les deux rubriques suivantes : "acquittés purement et
+simplement" et "mineurs de 18 ans remis aux parents, à un tiers ou
+
+à une institution d'éducation". Dans ce cas encore, nous avons
+additionné les deux rubriques.
+
+- en 1952, le tableau prévoit la seconde rubrique, mais les
+valeurs sont nulles. Dès lors, les mineurs sont exclus de ce
+comptage.
+
+9.2.4.- PPARENTA (V19 - 1831 à 1952*).
+
+Nombre d' "accusés de moins de 16 ans (18 ans à partir de
+1907 -loi du 12 avril 1906) déclarés coupables mais sans
+discernement remis à leurs parents".
+
+A partir de 1910, on voit apparaître dans le libellé la
+mention de remise "à l'assistance publique ou à une société de
+patronage".
+
+La série va de 1831 à 1952 mais les valeurs sont manquantes
+en 1885, 1889 et 1923. La valeur nulle indiquée en 1952 et reprise
+dans la base provient vraisemblablement de l'exclusion des mineurs
+du comptage des cours d'assises.
+

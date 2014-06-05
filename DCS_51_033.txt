@@ -1,0 +1,58 @@
+-32-
+
+d'accorder quelque signification aux ordres de grandeurs et aux
+mouvements les plus importants. Mais comme on a tenté de le
+montrer, on ne peut en déduire qu'il en a toujours été ainsi. La
+fiabilité "minimale" a été atteinte après une évolution à la
+baisse, visible à partir de la première guerre mondiale. La
+brusque coupure de 1933 est à ce titre comme la reconnaissance
+officielle du caractère secondaire et négligeable de la statisti-
+que pénale pour les praticiens de cette époque. Etat d'esprit qui
+est à l'opposé de celui que manifeste le Compte général un siècle
+plus tôt durant une période (1830-1880) pour laquelle il y a tout
+lieu de supposer que la statistique pénale n'avait rien à envier
+en fiabilité aux autres sources de la "statistique morale".
+
+2.g,- La vérification des séries.
+
+Au second degré l'utilisateur pourra se posar des questions
+sur la conformité aux sources des chiffres que nous publions dans
+la base de données DAVIDO. Eviter les erreurs sur un tel ensemble
+de chiffres ne va pas de soi.
+
+Pour commencer, nous bénéficions de ce que l'ordinateur, en
+règle générale, ne se trompe pas. L'édition présentée ici étant la
+reproduction d'un listing d'ordinateur, nous évitons le casse-tête
+des erreurs d'impression.
+
+Ensuite. sur un bon nombre de séries, nous avons procédé à
+des vérifications visuelles. Elles sont fastidieuses et leur
+performance n'est pas absolue.
+
+Nos outils ultimes de vérification ont été les contrôles de
+cohérence : rares sont les séries qui n'obéissent pas à une
+cohérence simple comme le total égale la somme des parties, et
+bien d'autres entrent dans des égalités plus compleXes.
+
+De tous ces contrôles, i1 est résulté soit la rectification
+d'une erreur imputable à nos manipulations, soit le constat que
+"l'erreur" existe dans le Compte général lui-même. Dans ce dernier
+cas, nous avons parfois retenu dans la base DAVIDO une valeur
+différente de celle qu'on avait primitivement relevée. Ces déci-
+sions sont toutes mentionnées dans la description des séries
+correspondantes. La plupart peuvent être interprétées comme la
+rectification d'une erreur d'impression; pour d'autres, il s'agit
+seulement de s'assurer d'une façon commode -mais souvent sans
+autre justification- de la permanence des contraintes de cohé-
+rence. Pour les dernières, il s'agit purement et simplement d'une
+estimation destinée à éviter les valeurs aberrantes trop gênantes
+pour la construction de graphiques et de séries calculées.
+
+En définitive, l'utilisateur peut considérer -avec un risque
+que nous jugeons très faible- que la base est fiable par rapport à
+sa source et qu'elle comporte seulement des redressements qu'il
+lui est possible de supprimer en reprenant la valeur imprimée dans
+le Compte général. Néanmoins, le lecteur qui pourrait faire état
+auprès des auteurs d'une erreur matérielle passée inapercue d'eux,
+serait évidemment l'objet de toute leur reconnaissance.
+

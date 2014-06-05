@@ -1,0 +1,53 @@
+-38-
+
+3.2.2.- Années manquantes, années perturbées.
+
+La publication du ggmpte général a été interrompue entre 1914
+et 1918 une première fois, puis en 1939 en raison de la guerre. Ce
+sont donc autant de valeurs manquantes pour toutes les séries de
+la base DAVIDO.
+
+Les années 1870 et 1871 sont éqalement des années où les
+perturbations politiques et sociales ont des conséquences sur le
+plan de la production statistique. Celle-ci parvient néanmoins
+jusqu'à son terme et il n'y a pas de valeurs manquantes en qénéral
+pour 1870 et 1871. Il est cependant clair qu'au moins 1870 est une
+année où la statistique est peu représentative. Sont cumulés les
+effets de la désorganisation de certaines parties du système pénal
+
+(police et gendarmerie notamment), de la perte d'une partie du
+territoire national et de la destruction des archives indiciaires
+dans deux ressorts dont Paris (voir cicdessus). L'année suivante
+reste marquée par les mêmes causes dans une moindre mesure. Il se
+trouve que cet accident des séries fait suite à trois années assaz
+typées, 1867 et 1868 avec une forte hausse et 1869 avec l'amorce
+d'une forte baisse. Pour chacune de ces trois années, le gappgrt
+du Compte général évoque des explications de circonstance : expo-
+sition universelle à Paris en 1867,crise économique en 1867 et
+1868, augmentation des effectifs de police judiciaire à Paris,
+puis amnistie en 1869. Cette oscillation significative est donc
+suivie de variations en 1870 et 1871 qui ne le sont pas sur le
+même .plan et peuvent donner l'illusion d'un cycle très marqué
+entre 1866 et 1872. On retiendra de préférence une attitude plus
+
+prudente consistant à faire abstraction de 1870 dans l'interpré-
+tation de l'évolution des séries.
+
+Pour la période plus récente, les séries provenant des fiches
+de casier judiciaire comprennent des valeurs subissant plus ou
+moins fortement l'effet de l'amnistie légale suivant traditionnel-
+lement l'élection présidentielle depuis le début de la Vème
+République. La solution adoptée quant au traitement statistique
+des condamnations amnistiées a pu évoluer. Il est en tout cas
+certain que depuis l'amnistie de 1969, elles ne sont pas comptabi-
+lisées. Avec le décalage entre la date de l'infraction et la date
+de la condamnation et selon les dates d'effet retenues par la loi.
+l'effet d'une amnistie peut ainsi se faire sentir sur une ou deux
+années. On trouvera donc pour 1969 et 1974 des valeurs sous-
+estimant largement les décisions rendues en matière correctionnel-
+le et pour 1970 et 1975 des valeurs encore relativement faibles.
+surtout pour les condamnations à des peines d'amende.
+
+Après ces remarques générales, nous en venons donc à l'examen
+des séries.
+

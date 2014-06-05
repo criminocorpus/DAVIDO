@@ -1,0 +1,5 @@
+La constitution informatique de la base de données DAVIDO et
+l'édition des tableaux de ce rapport ont été réalisées sur les
+ordinateurs du Centre Interrégional de Calcul Electronigue
+(C.I.R.C.E.) du C.N.R.S..
+

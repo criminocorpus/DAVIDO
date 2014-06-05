@@ -1,0 +1,67 @@
+-79-
+
+(PANLARRE) présentée avec les séries concernant la chambre
+d'accusation.
+
+8.2.2.9.- PDPÀCQUI (V109 - 1831 à 1921).
+
+Nombre des prévenus arrêtés et détenus préventivement
+acquittés par les cours d'assises.
+
+De 1831 à 1853, le relevé provient d'une note de bas de page
+du tableau concernant l'activité des cours d'assises qui indique
+
+la durée de détention préventive des acquittés.
+De 1854 à 1885, le relevé est fait dans le tableau concernant
+
+l'achèvement de la détention préventive, la colonne concernant les
+cours d'assises étant présentée comme faisant double compte avec
+
+les renvois devant la chambre d'accusation. Jusqu'en 1865 tous les
+accusés, et donc tous les acquittés, sont détenus jusqu'au juqe-
+
+ment. A partir de 1866, une note indique le nombre des accusés
+laissés libres jusqu'au jugement et le résultat des poursuites à
+
+leur égard.
+De 1886 à 1921, on trouve le renseignement dans une note du
+
+tableau donnant la durée des procédures criminelles (par affaires)
+indiquant la répartition des accusés laissés libres selon le
+
+résultat des poursuites.
+A partir de 1922, ce tableau ne donne plus que des rensei-
+
+gnements par affaires.
+
+Il convient d'observer que cette série ne comprend pas les
+
+accusés jugés par les cours d'assises pour des délits politiques
+ou de presse qui figurent par contre dans les tableaux donnés par
+
+le rapport dans son paragraphe sur la détention préventive.
+
+En 1894 et 1897, on a opéré une correction au relevé après
+
+repérage d'erreurs typographiques ou de calcul attestées par
+contrôle de cohérence au niveau du tableau.
+En 1912, la cohérence est respectée en remplaçant la mention
+
+"autre" par "dont".
+
+A partir de 1956, ces acquittés sont comptés avec les relaxés
+jugés détenus par les tribunaux correctionnels (PDPRELA).
+
+8.2.2.10.- PDPCONAS (V110 - 1831 à 1921).
+
+Nombre de prévenus arrêtés et détenus préventivement
+condamnés par les cours d'assises.
+
+Jusqu'en 1865, c'est le même chiffre que celui de l'ensemble
+des condamnés criminels et on a l'égalité PDPCONAS = PCONDASS.
+Ensuite cette série est relevée dans les mêmes conditions que
+celle des acquittés. Elle s'interrompt donc en 1922. A partir de
+1956, ces condamnés sont comptés avec les condamnés correc-
+
+tionnels.
+

@@ -1,0 +1,54 @@
+-74...
+
+8.2.- Instructionz achèvement de la détention préventing
+
+ 
+
+8.2.1.- Généralités.
+
+Les données les plus importantes sur la détention avant
+jugement peuvent être considérées comme la description des flux
+d'entrée et de sortie de cet état. Comme pour les autres aqences,
+
+cette représentation impose alors une cohérence de flux et de
+stocks : reste en début d'année + entrées en cours d'année = somme
+des sorties en cours d'année + reste en fin d'année. Une diffi-
+culté se présente ici car le contenu de cette équation de
+cohérence a été modifié deux fois sur la période. Avant 1864,
+aucun tableau n'atteste formellement d'une cohérence, mais les
+commentaires du rapport supposent que par sorties on entend les
+décisions finales concernant la poursuite d'un individu (non-lieu,
+acquittement ou relaxe, condamnation) auxquelles s'ajoute la mise
+en liberté provisoire avant la fin de la procédure. On retrouve
+cette optique à partir de 1956. Entre deux, le tableau concernant
+l'achèvement de la détention préventive fait figurer parmi les
+
+"modes d'achèvement" le renvoi devant la chambre d'accusation (qui
+pourtant ne met pas fin à la détention) et exclut explicitement
+
+les arrêts de non-lieu ainsi que les renvois devant 1a cour
+d'assises (mais, de facon incohérente, pas les jugements par les
+tribunaux correctionnels après passage par la chambre d'accusa*
+tion. cheminement possible bien que réduit à quelques dizaines
+d'affaires).
+
+Les séries présentées dans cette section font partie ou sont
+à la limite de ce noyau autour duquel s'organise la cohérence sta-
+tistique en matière de détention préventive.
+
+ng.2.- Les séries de la base.
+
+8.2.2.1.- PDPREST (V101 - 1861 à 1981*).
+
+Nombre des individus soumis à la détention préventive restant
+détenus de l'année précédente.
+
+Cette série est relevée dans le tableau concernant l'activité
+des juges d'instruction à partir de 1861.
+Quelques années auparavant. le tableau mentionne en note le
+
+décalage entre PDPECROU et PDPTOTAL dû aux restes de fin d'année
+sans en donner 1e chiffre.
+
+Les valeurs sont manquantes de 1948 à 1951.
+

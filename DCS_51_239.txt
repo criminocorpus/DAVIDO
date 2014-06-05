@@ -1,0 +1,77 @@
+)
+
+-240-
+
+Affaires terminées par des ordonnances de non-lieu rendues
+par les juoes d'instruction attendu qu'il n'y avait pas de
+charges suffisantes contre les inculpés désignés
+
+Affaires terminées par des ordonnances de non-lieu rendues
+par les juoes d'instruction en raison de l'état mental de
+l'inculpé
+
+Prévenus déchargés des poursuites par les chambres
+d'accusation arrêtés pendant l'instruction
+
+Total des prévenus déchargés des poursuites par les chambres
+d'accusation
+
+Affaires terminées par des arrêts de non-lieu rendus par les
+chambres d'accusation et présentant le caractère de crime
+Affaires terminées par des arrêts de non-lieu rendus oar les
+chambres d'accusation et présentant le caractère de délit
+Nombre total des arrêts de non-lieu rendus par les chambres
+d'accusation
+
+Arrêts rendus par les chambres d'accusation portant renvoi
+devant les cours d'assises
+
+Arrêts rendus par les chambres d'accusation portant renvoi
+devant les tribunaux de police correctionnelle
+
+Arréts rendus par les chambres d'accusation portant renvoi
+devant les tribunaux de simple police ou devant une autre
+juridiction
+
+Individus soumis a la détention préventive restant détenus
+de l'année précédente
+
+Individus soumis à la détention préventive écroués pendant
+l'année
+
+Total des individus dont la détention préventive a cessé
+dans l'année
+
+Individus dont la détention préventive a cessé par suite de
+mainlevée du mandat de dépôt ou d'arrêt sur conclusion
+conforme du procureur de la République
+
+Individus détenus préventivement mis en liberté par 1e
+ministère public
+
+Individus dont la détention préventive s'est achevée par la
+mise en liberté provisoire
+
+Individus détenus préventivement dont la détention s'est
+achevée par renvoi devant le tribunal de police ou devant le
+tribunal correctionnel
+
+Individus dont Ia détention préventive s'est achevée par une
+ordonnance de non-lieu
+
+Prévenus arrétés et détenus préventivement acquittés par les
+cours d'assises
+
+Prévenus arrêtés et détenus préventivement condamnés par les
+cours d'assises
+
+Individus détenus préventivement acquittés par les tribunaux
+correctionnels ou remis à parents
+
+Individus dont la détention préventive s'est achevée par une
+
+condamnation s l'emprisonnement
+Individus dont la détention préventive s'est achevée par une
+
+condamnation à l'amende
+

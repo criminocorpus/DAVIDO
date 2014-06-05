@@ -1,0 +1,61 @@
+-148-
+
+14.2.- Les séries de la base.
+
+14.2.1.- ATOTPOLI (P1 - 1831 à 1975).
+
+Nombre total des contraventions jugées par les tribunaux de
+simple police.
+
+Bien que le tableau parle de contraventions, et donc
+d'infractions, ce sont vraisemblablement des affaires qui sont
+comptées. D'ailleurs, la note accompagnant ce tableau parle de
+
+jugements pour arriver au même résultat quant au total jusqu'en
+1949.
+
+En 1911, une erreur d'addition a dû être rectifiée a poste-
+
+riori, 1e chiffre saisi est donc différent de celui qu'on peut
+relever dans le Compte général.
+
+De 1831 à 1949, on peut observer les égalités suivantes :
+ATOTPOLI = somme(APOLCONT.APOLDEF) = somme(APOLIMP,APOLIPC). sauf
+
+en 1880, 1920, 1934. 1941, 1944 et 1945.
+
+En 1944, on a une égalité aberrante :
+ATOTPOLI = somme(APOLCONT,APOLDEF,APOLIMP,APOLIPC) = PINCULPE.
+
+A partir de 1946, l'introduction de l'amende de composition
+doit normalement entraîner un décalage entre les affaires parve-
+nues au tribunal et les affaires jugées. Les contraventions don-
+nant lieu au paiement de l'amende de composition peuvent être
+comptées dans le total des contraventions, mais pas dans celui des
+
+jugements. Il est donc normal qu'après 1949, la cohérence précé-
+dente ne soit plus respectée.
+
+De 1959 à 1973, les contraventions de cinquième classe
+
+prévues par l'article R.4O du Code Pénal sont exclues (cf.
+Généralités).
+
+14.2.2.- APOLCONT (P3 - 1839 à 1975*).
+"Nombre des jugements rendus contradictoirement".
+
+Cette série est relevée :
+- en 1839, en page XXIII du Rapport du ggmpte général t
+
+- de 1840 à 1867, en note au bas du tableau d'activité des tribu-
+naux de simple police ;
+
+- de 1868 à 1878, dans le tableau lui-même :
+- à partir de 1879, de nouveau en note au bas de ce tableau.
+
+En 1974 et 1975, les chiffres n'avaient pas été publiés et
+ont été reconstitués à partir des çadres des parquets.
+
+Les chiffres ne sont pas disponibles pour les années 1950 à
+1953.
+

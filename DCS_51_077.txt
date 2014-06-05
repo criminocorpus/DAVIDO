@@ -1,0 +1,66 @@
+-76-
+
+8.2.2.3.- PDPTOTAL (V118 - 1831 à 1981*).
+
+Total des individus dont la détention préventive a cessé dans
+l'année.
+
+Cette série résulte de la totalisation des "sorties" selon la
+formule de cohérence implicitement ou explicitement adoptée par 1e
+Çgmptgmgénéral pour l'année considérée : sa définition varie donc
+dans le temps (cf. généralités). Elle n'est pas toujours relevée.
+
+Avant 1842 ce total a été calculé selon la formule :
+PDPTOTAL = somme(PDPLPRO.PDPONL,PANLARRE,PDPACQUI,PDPCONAS,
+PDPRELA,PDPEMPRI,PDPAMEN).
+A partir de 1842 et jusqu'en 1853 on trouve ce total mention-
+né dans le rapport qui jusque là ne s'intéressait qu'aux préVenus
+
+détenus déchargés des poursuites (en 1842 et 1843 toutefois le
+rapport omet les mises en liberté provisoire sous caution).
+
+En 1854 (année d'apparition du tableau sur la durée de la
+détention préventive distinquée selon les diverses phases de
+l'instruction), la sommation change :
+le qroupe PANLARRE+PDPACQU+PDPCONAS est remplacé par PDPCHAC.
+
+En 1856 s'y ajoute une rubrique contenant divers modes
+d'achèvement de la détention (PDPAUTR).
+
+A partir de 1861, avec l'apparition des restes en début et en
+fin d'année, on pourrait retrouver les restes de fin d'année (non
+relevés) en calculant PDPREST+PDPECROU-PDPTOTAL. Néanmoins, en fin
+de période 1a cohérence flux/stock devient suspecte et les restes
+de fin d'année ne sont plus publiés dès 1976.
+
+En 1875 apparaît la rubrique des mises en liberté par le
+ministère public (PDPMPUB).
+
+De 1948 à 1955, ce total des sorties ne peut être ni relevé
+ni reconstitué.
+
+En 1956, il réapparaît avec un contenu larqement modifié et
+on a alors l'éqalité suivante 2
+PDPTOTÀL = somme(PDPMAIN,PDPLPRO.PDPRENV.PDPONL,PDPRELA.
+
+PDPEMPRI,PDPAMEN,PDPSURS,PDPAUTR.
+restes de fin d'année (non relevés)).
+
+8.2.2.4.- PDPMAIN (V103 - 1956 à 1981).
+
+Nombre d'individus dont la détention préventive a cessé par
+suite de mainlevée du mandat de dépôt ou d'arrêt sur conclusion
+conforme du procureur de la république.
+
+Cette série apparaît en 1956 avec la reprise du tableau
+concernant l'achèvement de la détention préVentiVe. Elle vise
+
+l'article 94 du C.I.C. de 1956 à 1958, l'article 140 du C.P.P. de
+1959 à 1970 et l'article 147 du C.P.P. de 1971 à 1981.
+
+Elle devrait correspondre aux chiffres donnés pour la répar-
+tition des mises en liberté provisoire (PLPMAIN) ce qui n'est pas
+toujours le cas. On a conservé la dualité des séries pour respec-
+ter les cohérences propres à chaque tableau, dont le caractère
+quelquefois "fictif" apparaît bien ici.
+

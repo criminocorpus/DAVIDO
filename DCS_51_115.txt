@@ -1,0 +1,59 @@
+-114-
+
+nels N° 3B bis provenant des parquets. Cette série ne peut être
+prolongée au delà de 1975, les cadres des parquets ne demandant
+
+plus ce renseiqnement ensuite.
+Les majeurs et les mineurs v sont confondus jusqu'en 1951. A
+
+partir de 1952, Seuls les majeurs sont pris en compte.
+
+10.3.2.2.- PPREVENU (x16 - 1831 à 1981).
+"Nombre des prévenus" jugés par les tribunaux correctionnels.
+
+Jusqu'en 1954, les chiffres sont relevés dans les çpmptes
+généraux. De 1955 à 1969, ils sont relevés dans les Archives.
+
+Ensuite ils proviennent de l'exploitation directe des çadres des
+parquets.
+
+A partir de 1851, on observe l'égalité suivante :
+
+PPREVENU = somme(PRELAXE,PCONDCOR)
+= somme(PMPRELA,PMPEMP,PMPAMEN... PPCAMEN),
+
+De 1831 à 1850, à l'exception de 1843 et 1847, on observe une
+différence venant des prévenus poursuivis pour des contraventions
+forestières et condamnés à d'autres peines que l'emprisonnement ou
+l'amende : par exemple à démolir des constructions élevées trop
+
+près des forêts, à restituer des bois enlevés ou replanter des
+terrains défrichés. Leur nombre annuel est 1e suivant :
+
+1831 : 5 1836 : 22 1841 : 5 1846 : 4
+1832 : 10 1837 : 22 1842 : 5 1847 : -
+1833 : 6 1838 : 20 1843 : - 1848 : 5
+1834 : 27 1839 : 19 1844 : 3 1849 : 6
+
+1835 : 38 1840 : 21 1845 : 5 1850 : 4
+
+Ce renseignement est fourni en note au bas du tableau inti-
+tulé "Délits jugés par les divers tribunaux correctionnels du
+rovaume : mode et résultat des poursuites". Après 1850, la note
+disparaît ; elle ne figure pas non plus en 1843 et 1847. Ces indi-
+vidus sont comptés dans les prévenus mais exclus des condamnés
+(total et ventilation par peines). En 1844, il reste cependant un
+individu inclus dans le total des condamnés (ggmpte. général de
+1844, paqe 115) dont on ne peut dire (même au vu des paqes 122-123
+et 127) s'il a été compté parmi les condamnés à l'amende ou parmi
+
+ceux à l'emprisonnement (et dans cette éventualité, à quel
+quantum).
+
+A partir de 1955, les séries PPREVENU et PRELAXE proviennent
+de l'exploitation des Cadres des parquets tandis que PCONDCOR
+provient de l'exploitation des duplicata de fiches de casier
+judiciaire. Il n'y a donc plus concordance entre ces trois séries.
+
+ 
+

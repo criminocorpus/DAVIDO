@@ -1,0 +1,61 @@
+-129-
+
+11.2.5.- PSA)1AN (86 - 1891 à 1932).
+
+Nombre de condamnés (condamnations) à des peines privatives
+de liberté supérieures à un an assorties du sursis qui ont été
+prononcées par les cours d'assises.
+
+Cette série peut être soustraite de PEA)1AN pour obtenir les
+peines privatives de liberté fermes de cette durée.
+
+11.2.6.- PSA)=5AN (S7 - 1891 à 1932).
+
+Nombre de condamnés (condamnations) à des peines privatives
+de liberté supérieures ou égales à cinq ans assorties du sursis
+
+qui ont été prononcées par les cours d'assises.
+
+Cette série représente une partie de PSA)1AN.
+Elle peut être soustraite de PEA)=5AN pour obtenir les peines
+
+privatives de liberté fermes de cette durée.
+
+11.2.7.- PSUCOTOT (S8 - 1891 à 1978).
+
+Nombre total de condamnés (ou condamnations) à des peines
+assorties du sursis prononcées par les tribunaux correctionnels
+(et les cours d'appel).
+
+En 1955 et 1956, nous avons additionné les condamnations
+prononcées sur appel dont il n'était pas tenu compte (voir la
+
+série PCONDCOR).
+De 1968 à 1971, il y a des sursis simples. dits "non
+
+mentionnés" dont on ne sait s'ils portent sur une peine de prison
+ou d'amende (3 en 1968, 16 en 1969. 16 en 1970, 8 en 1971). nous
+n'en avons pas tenu compte ici. Par ailleurs, des notes de bas de
+paqe mentionnent des sursis dont on ne sait s'ils sont simples ou
+
+avec mise à l'épreuve ou sur quelle peine ils portent. qui ne sont
+pas comptés ici (162 en 1968, 154 en 1969, 1 786 en 1970, 608 en
+1971). En dehors de cette période, il n'est pas fait allusion au
+problème des sursis non mentionnés qui devait cependant exister.
+
+En 1977 et 1978, il n'est pas tenu compte des peines de subs-
+titution assorties du sursis (12 en 1977 et 912 en 1978).
+
+On respecte ainsi la cohérence suivante de 1891 à 1978 :
+PSUCOTOT = somme(PSUCOAME,PSUCOEMP).
+
+11.2.8.- PSUCOAME (511 - 1891 à 1978*).
+
+Nombre de condamnés (ou condamnations) à des peines d'amende
+assorties du sursis qui ont été prononcées par les tribunaux
+correctionnels (et les cours d'appel).
+
+Cette série est relevée de 1891 à 1976 mais elle est inter-
+rompue de 1933 à 1954. Ensuite, 1e Çpmpte général distinque les
+sursis prononcés sur l'ensemble de la peine de ceux ne portant que
+

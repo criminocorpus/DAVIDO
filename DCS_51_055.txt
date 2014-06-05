@@ -1,0 +1,57 @@
+-54-
+
+6.1.2.7.- ACOMMUTP (V54 s 1961 à 1981).
+
+Affaires "renvoyées devant le tribunal de police".
+
+En 1961, le chiffre est donné dans une note au bas du tableau
+qui précise la part que représentent ces affaires dans les renvois
+devant une autre juridiction.
+
+x
+
+De 1962 a 1977. la rubrique existe dans les tableaux.
+
+A partir de 1978, le renseignement est obtenu en totalisant
+les deux rubriques concernant d'une part, les contraventions des
+quatre premières classes (ACOMMTP4), d'autre part, celles des
+cinquièmes classes (ACOMMTPS).
+
+6.1.2.8.- ATOTCLAS (x3 - 1831 à 1981).
+Affaires "classées au parquet" sans poursuite.
+
+C'est la rubrique qu'on appelle aujourd'hui le "classement
+sans suite".
+
+En 1849. on trouve au bas du tableau la note suivante : "Dans
+ce nombre sont comprises 4 964 affaires classées au petit parquet
+de la Seine. Les années précédentes, ces affaires n'étaient
+portées que dans l'état spécial des travaux du petit parquet". En
+1850, une note identique indique 4 612 affaires de cette sorte.
+Pour mémoire, nous rappellerons que le petit parquet de la Seine
+date de 1820 et qu'il en existe éqalement un à Lyon qui a été créé
+en 1833, ainsi qu'à Bordeaux, Marseille, Nantes et Toulouse
+(Rappgrlt du Çpmpts...g.é.néralmdellëëQ. p. CVIII). Ces sections du
+parquet sont organisées de façon à traiter rapidement les cas de
+flaqrant délit. La loi de 1863 a permis l'extension de leur action
+et la poursuite d'individus détenus sans requérir le juqe
+d'instruction.
+
+De 1863 à 1868, la série est éclatée en deux rubriques
+"délits flaqrants" et "autres délits" que nous avons additionnées.
+
+De 1831 à 1932, des concordances peuvent être observées entre
+
+cette série et celles qui donnent la ventilation des affaires
+classées sans suite (voir le chapitre 6.2).
+
+6.1.2.9.- ARESPARQ (V58 - 1831 à 1981).
+
+Affaires "sur lesquelles il restait à prendre une décision le
+31 décembre" de l'année considérée.
+
+Ces affaires sont reprises dans la comptabilisation de
+l'année suivante. On n'observe cependant pas l'éqalité
+
+ARESPARQ (n) = APVRESTE (n+1) à laquelle on s'attendrait.
+

@@ -1,0 +1,59 @@
+-111-
+
+10.2.2.8.- AMPURGE (V79 - 1863 à 1929).
+
+"Affaires poursuivies à 1a requête du Ministère public" en
+application de la "loi du 20 mai 1863" (flagrant délit) par
+
+"citation d'urgence avec mandat (préalable)".
+
+De même que la précédente, cette série n'apparaît que de 1863
+à 1929 (Cf. AMPFLAG).
+
+10.2.2.9.- AMPFLAG (V80 - 1863 à 1975).
+
+Total des "affaires poursuivies à la requête du Ministère
+public" en application de la "loi du 20 mai 1863 (flagrant
+
+délit)".
+
+Cette série est calculée de 1863 à 1929 en sommant AMPBARRE
+
+et AMPURGE, puis relevée. En effet, la rubrique apparaît en tant
+que telle en 1930 et remplace les séries AMPBARRE et AMPURGE qui
+
+ne sont plus distinguées.
+
+10.2.2.10.- PMPRELA (YZO - 1831 à 1932).
+
+"Nombre des prévenus poursuivis à la requête du Ministère
+public acquittés".
+
+On peut distinquer les condamnés à 1a surveillance (article
+
+271, paragraphe 2 du Code Pénal). En 1833,de 1835 à 1838 et de
+1840 à 1850, ils apparaissent dans une colonne spéciale du
+tableau. Pour ces années, ils sont additionnés manuellement aux
+acquittés lorsqu'il y a deux colonnes. Les notes indiquent par la
+
+suite que ces prévenus sont compris parmi les acquittés.
+En 1832, il y a "40 prévenus de vaqabondaqe mis sous surveil-
+
+lance de la haute police sans autre peine" qui sont comptés dans
+le total des prévenus poursuivis à la requête du Ministère public
+
+mais pas dans la répartition. Nous les avons ajoutés aux acquittés
+pour respecter 1a cohérence avec la série PPREVENU.
+
+10.2.2.11.- PMPEMP (Y21 = 1831 à 1932).
+
+"Nombre des prévenus poursuivis à 1a requête du Ministère
+public condamnés à l'emprisonnement".
+
+A partir de 1891, une note précise que le sursis est compris.
+
+10.2.2.12.- PNPAMEN (Y22 - 1831 à 1932).
+
+"Nombre des prévenus poursuivis à 1a requête du Ministère
+public condamnés à l'amende (seulement)".
+

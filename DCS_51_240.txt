@@ -1,0 +1,74 @@
+-241-
+
+Individus dont la détention préventive s'est achevée par le
+
+renvoi devant la chambre d'accusation
+Individus dont la détention préventive s'est achevée par une
+
+condamnation à l'emprisonnement avec sursis
+Individus dont la détention préventive s'est achevée pour
+toute autre cause
+
+Total des mises en liberté provisoire
+
+Mises en liberté provisoire par renvoi devant le tribunal de
+police ou devant le tribunal correctionnel sans encourir de
+peine d'emprisonnement
+
+Mises en liberté provisoire par mainlevée du mandat de dépôt
+ou d'arrêt
+
+Mises en liberté provisoire prévues par l'article 5 de la
+loi du 20 mai 1865 sur les flagrants délits (report
+d'audiencel puis par l'article 597 du C.F.P.
+
+Mises en liberté provisoire sur requête du prévenu
+
+Mises en liberté provisoire de droit
+
+Mises en liberté provisoire d'office par le iUge
+d'instruction ou sur requête du prévenu (sans nécessairement
+obtenir l'accord préalable du ministère public)
+
+Prévenus jugés pour des délits communs arrêtés et mis en
+liberté provisoire jusqu'au iuoement
+
+Prévenus jugés pour des délits communs arrêtés et détenus
+jusou'au jugement
+
+Prévenus jUgés pour des délits communs arrêtés et détenus
+jusqu'au jugement dans le cadre d'une procédure de flagrant
+délit
+
+Prévenus iuués pour des délits communs arrétés et détenus
+iusou'au jugement en vertu d'autres mandats
+
+Prévenus jugés par les tribunaux correctionnels arrêtés et
+mis en liberté provisoire
+
+Prévenus jugés par les tribunaux correctionnels arrétés et
+détenus jusqu'au iuoement
+
+Prévenus iuoés par les tribunaux correctionnels arrêtés et
+détenus jusau'au jugement dans le cadre d'une procédure de
+flagrant délit
+
+Prévenus jugés par les tribunaux correctionnels arrêtés et
+détenus jusqu'au juqement en vertu d'autres mandats
+
+Total des accusations iuoées par les cours d'assises
+
+Total des accusés jugés par les cours d'assises
+
+Acouittés par les cours d'assises
+
+Accusés mineurs ayant agi sans discernement remis à leurs
+oarents.ou à un tiers. ou à une institution Spécialisée. par
+les cours d'assises
+
+Hineurs avant agi sans discernement envovés dans une maison
+de correction ou en colonie pénitentiaire par les cours
+
+d'assises
+Condamnés par les cours d'assises
+

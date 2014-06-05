@@ -1,0 +1,61 @@
+-5J
+
+6.; ACTIJJE DES pangmi
+
+".4 m...- .
+
+6.1.- Première direction dongégpparqlà*ministmrgwpublic au;
+
+plainteËLÇgéngngiations et procgsgvgrbaux.
+
+ 
+
+6.1.1.- généralités.
+
+Les séries dont la description suit proviennent du tableau
+intitulé "Première direction donnée aux plaintes, dénonciations et
+
+procès-verbaux".
+
+Ce tableau est présent dans les Çadres des parquets pour tou-
+te la période. Les chiffres sont relevés dans les ngptes généraux
+jusqu'en 1978, puis dans les Cadres.
+
+Initialement, ce tableau ne concernait que les crimes et
+délits. L'introduction en 1958 d'une cinquième classe de contra-
+ventions poursuivies par le parquet devant le tribunal de police,
+tandis que les contraventions des quatre premières classes res-
+taient de la compétence de l'officier du ministère public, a
+entraîné un comptage de l'ensemble des contraventions dans le
+
+tableau "activité des parquets" (cf.ACOMMUTP et ACOMMTPS).
+
+Les affaires concernant les majeurs et les mineurs sont con-
+fondues sur toute la période.
+
+6.1.2.- Les-séries de lagbaggL
+
+6.1.2.1.- ATOTPARQ (V59 - 1831 à 1981).
+
+Total des plaintes, dénonciations et procès-verbaux dont ont
+eu à s'occuper les parquets au cours de l'année.
+
+Ces affaires sont ventilées selon le sort qui leur a été
+
+réservé. Y figurent les affaires non orientées en fin d'année . il
+
+s'agit donc d'un total comptable.
+En 1957, nous avons ajouté ici 18 321 renvois aux juges des
+
+enfants qui n'avaient pas été comptés dans le tableau du ggmpte
+
+général (voir ci-dessous ACOMMUAL).
+De 1959 à 1964, les chiffres présentés dans la base diffè-
+
+rent de ceux publiés dans les çgmptgsggénérau; correspondants en
+raison des modifications apportées au nombre des affaires communi-
+quées aux juqes d'instruction (cf. ACOMMUJI).
+On observera l'éqalité suivante :
+ATOTPÀRQ = somme(ACOMMUJI,AAUDIMP,AAUDIPC,ACOMMUAL,ACOMMUJE,
+ACOMMUTP,ATOTCLAS,ARESPARQ).
+

@@ -1,0 +1,64 @@
+-85-
+
+8.3.2.3.- PLPMAIN (V129 - 1855 à 1981*).
+
+Nombre de mises en liberté provisoire par mainlevée du mandat
+de dépôt ou d'arrêt.
+
+Cette rubrique se réfère d'abord à l'article 94 du C.I.C..
+puis à l'article 140 du C.P.P. à partir de 1959, enfin à l'article
+
+147 après la loi du 17 juillet 1970.
+
+Les valeurs sont manquantes en 1944 et de 1948 à 1955.
+
+De 1940 à 1945, cette série inclut éqalement les renvois
+devant le tribunal de police ou le tribunal correctionnel (voir
+
+PLPRENV).
+D'ailleurs de 1940 à 1943 les données sont très suspectes
+
+puisque le tableau sur la mise en liberté provisoire ne correspond
+plus à la législation en viqueur, encore que l'article 94 du
+
+C.I.C. n'ait pas été modifié.
+
+8.3.2.4.- PLPFLAG (V130 - 1863 à 1981*).
+
+Nombre de mises en liberté provisoire dans le cadre de
+flagrants délits.
+
+La série va de 1863 à 1981.
+Elle vise l'article 5 de la loi du 20 mai 1863 sur les fla-
+
+grants délits (report de l'audience) jusqu'en 1958, puis l'arti-
+cle 397 du C.P.P..
+
+Les valeurs sont manquantes de 1865 à 1868, en 1944. de 1948
+à 1955 et en 1980.
+
+A partir de 1956, ces cas ne sont pas inclus dans les mises
+en liberté provisoire figurant dans le tableau sur l'achèvement de
+la détention préventive : PLPFLAG n'est plus inclus dans PDPLPRO.
+
+8.3.2.5.- PLPREQU (V131 - 1854 à 1981*).
+Nombre de mises en liberté provisoire sur requête du prévenu.
+
+Comme on l'a exposé plus haut (Cf. généralités), il s'agit
+d'une série reconstruite en fonction de l'évolution de la léqis-
+lation. Selon les textes applicables, on devrait y trouver :
+
+- de 1854 à 1864, l'article 114 du C.I.C. t
+
+- de 1865 à 1932, l'article 113, alinéa 1. du C.I.C. modifié par
+la loi du 14 juillet 1865 :
+
+- de 1939 à 1958, l'article 113. alinéa l. du C.I.C. modifié par
+la loi du 18 novembre 1939 ;
+
+a de 1959 à 1969, l'article 141 du C.P.P.
+v de 1970 à 1981, l'article 148 du C.P.P..
+
+a
+r
+

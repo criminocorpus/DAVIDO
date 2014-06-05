@@ -1,0 +1,53 @@
+-107-
+
+l0.- ACTIVITÉ DES TRIBUNAQX CORRECTIONNELS.
+
+lp.l.- Introduction.
+
+ 
+
+Le coeur de cette partie est constitué d'un qrand tableau
+dont les lignes sont des intitulés d'infractions et les colonnes
+divers comptages retenus pour la plupart dans cette base de
+données. Tant que la source en est la compilation des gadres des
+parquets, certaines colonnes comptent des affaires, d'autres des
+prévenus. Il s'agit dans ce cas en fait de "personnes-décisions"
+(voir le chapitre 1.3 sur les unités de compte).
+
+Ce tableau décrit les décisions rendues en première instance
+lorsqu'il n'y a pas d'appel et les décisions rendues par la cour
+d'appel dans le cas contraire. Il n'y a donc pas de double compte
+et il s'agit en principe de décisions définitives. Ce n'est qu'en
+1955 et 1956 que les résultats sont donnés séparément pour certai-
+nes séries de condamnations (voir PCONDCOR).
+
+La seule exception concerne le mode de juqement. En cas de
+juqement par défaut suivi d'opposition dans l'année, la même rèqle
+s'applique : seule la seconde décision est prise en compte. En
+revanche. lorsque le juqement revient sur opposition dans une
+année ultérieure, il est compté une première fois comme iuqement
+par défaut, puis pour une autre année, comme iuqement sur opposi-
+tion ° c'est la série AOLDOPPO qui mesure l'ampleur de ces doubles
+
+comptes. au demeurant fort limités.
+
+En 1882, on voit apparaître en note au bas du tableau croisé
+avec les types d'infractions, le nombre des "arrêts ou iuqements
+définitifs déclarant l'incompétence de la juridiction correction-
+nelle". Ces juqements ne sont pas inclus dans les séries de la
+
+base.
+
+On trouvera un premier bloc concernant le mode d'introduction
+des poursuites sous la rubrique "Affaires poursuivies à la requête
+de...". Il est complété par un tableau croisant ces variables avec
+1e résultat des poursuites (jusqu'en 1932). Vient ensuite un bloc
+donnant 1a ventilation des prévenus selon 1e sexe et l'âae que
+nous n'avons pas retenu (voir le chapitre 2.1.- Le choix des
+séries), puis les colonnes sur la détention au moment du îuqement
+que nous avons présentées dans le chapitre sur la détention pré-
+ventive. Enfin le résultat des poursuites selon la nature de la
+décision est complété par des tableaux sur 1e quantum des peines
+
+et le sursis à partir de 1891.
+

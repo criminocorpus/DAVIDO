@@ -1,0 +1,55 @@
+-47...
+
+5.2.5.- AGENDARM (V87 - 1831 à 1932).
+
+"Plaintes, dénonciations et procès-verbaux transmis par la
+gendarmerie".
+
+En 1909, il y a une erreur d'impression, c'est pourquoi le
+
+chiffre saisi diffère de celui qu'on pourrait relever dans le
+Çgmpteggénéral (soit 243 164 au lieu de 243 264).
+
+5.2.6.- APOLICE (V88 - 1831 à 1907).
+
+"Plaintes. dénonciations et procès-verbaux transmis par les
+commissaires de police".
+
+De 1863 à 1865, on trouve dans le tableau une rubrique
+particulière indiquant le nombre de plaintes, dénonciations et
+procès-verbaux transmis par la police et concernant des flagrants
+
+délits (loi du 20 mai 1863). Cette rubrique a ensuite été suppri-
+mée des cadres des parquets et donc du çompte, général, au motif
+
+que "les affaires de cette catégorie étant distribuées dans l'état
+B eu égard à la première direction qu'elles ont recues, on en
+connaîtra aisément le nombre" (voir AAUDIMP) ; l'instruction
+donnée est alors la suivante : "les plaintes, procès-verbaux ou
+
+dénonciations signalant ces flagrant délits seront classés sous le
+nom des agents qui les auront communiqués aux Procureurs
+
+impériaux" (circulaire sur les statistiques du 24 novembre 1866).
+En l'absence d'autre précision, nous les avons inclus dans
+cette série. Les chiffres en sont les suivants z 12 972 en 1863,
+
+21 826 en 1864 et 24 404 en 1865.
+
+A partir de 1908, cette rubrique est éclatée en trois :
+APOLICOM, APOLIMOB et APOLIFER.
+
+5.2.7.- APOLICOM (V89 a 1908 à 1932).
+
+"Plaintes, dénonciations et procès-verbaux transmis par les
+commissaires de police communaux".
+
+Voir la série APOLICE ci-dessus.
+
+5.2.a.- APOLIMOB (V90 - 1908 à 1932).
+
+"Plaintes, dénonciations et procès-verbaux transmis par les
+commissaires de police mobile".
+
+Voir les séries NPOLIMOB et APOLICE.
+

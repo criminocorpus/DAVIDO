@@ -1,0 +1,57 @@
+-118-
+
+10.3.2.9.- PEC(=1AN (V138 - 1831 à 1978).
+
+Nombre de condamnés (condamnations) à une peine d'emprisonne-
+ment inférieure ou égale à un an assortie ou non d'une amende.
+
+Cette série est soit relevée, soit calculée à partir des
+divers quanta fournis par le tableau d'activité des tribunaux
+correctionnels croisant 1a peine avec l'âge et le sexe des
+prévenus, ou lorsqu'il n'existe pas, par le tableau ventilant la
+peine selon les types de délit.
+
+Elle comprend les peines avec sursis à partir de 1891, sauf
+en 1977 et 1978 : il ne s'aqit alors que de la partie ferme de
+peines éventuellement accompagnées d'un sursis partiel (voir les
+qénéralités du chapitre sur les sursis).
+
+Les mineurs "ayant aqi sans discernement envoyés en colonie
+
+pénitentiaire" sont inclus dans cette série de 1831 à 1952.
+
+10.3.2.10.- PEC)1AN (V139 - 1831 à 1978).
+
+Nombre de condamnés (condamnations) à une peine d'emprisonne-
+ment supérieure à un an assortie ou non d'une amende.
+
+Cette série a été constituée dans les mêmes conditions que
+PEC(=1AN.
+
+Elle contient les condamnations comptées dans la série
+suivante.
+
+10.3.2.11.- PEC)=5AN (V140 - 1831 à 1932*).
+
+Nombre de condamnés (condamnations) à une peine d'emprison-
+
+nement supérieure ou égale à cinq ans assortie ou non d'une
+amende.
+
+Cette série a été relevée dans les mêmes conditions que
+PEC(6J.
+
+A partir de 1872, les peines éqales à cinq ans n'ont pu être
+prises en compte, la présentation du tableau ayant été modifiée.
+Il s'agit donc alors des peines supérieures à cinq ans.
+
+Cette série comprend les peines avec sursis à partir de 1891.
+
+Les valeurs sont manquantes de 1905 à 1907.
+
+Par ailleurs, les mineurs ayant aai sans discernement envoyés
+dans une maison de correction ou une colonie pénitentiaire sont
+inclus dans cette série sauf de 1908 à 1913 (1e tableau ventilé
+par âqe disparaît) et de 1926 à 1932 (ils sont alors classés parmi
+les acquittés).
+

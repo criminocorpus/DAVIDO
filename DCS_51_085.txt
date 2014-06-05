@@ -1,0 +1,60 @@
+-84-
+
+8413....2 -:. .L.e..s... .s. ériea .d..e-4.aibrases.
+
+8.3.2.1." PLPTOT (V127 - 1854 à 1981*).
+Total des mises en liberté provisoire.
+
+Entre 1854 et 1938, cette série fait double emploi avec celle
+des achèvements de la détention préventive par mise en liberté
+
+provisoire, c'est-à-dire PDPLPRO (cohérence imposée). La valeur
+est effectivement la même sauf en 1891 et 1937 où la différence
+
+est faible.
+
+Après l'interruption de 1948 à 1955, on ne retrouve pas en
+1956 toutes les rubriques du tableau sur la mise en liberté provi-
+soire dans les modes d'achèvement de la détention préventive. La
+mainlevée du mandat de dépôt et la mise en liberté sur requête ou
+après un délai de 5 jours figurent bien comme achèvement de la
+détention, mais pas le cas des flagrants délits (art. 5 de la loi
+du 20 mai 1863), ni les mises en liberté provisoire décidées par
+d'autres instances que le juge d'instruction, sauf à considérer
+qu'elles sont incluses dans la rubrique "autres modes d'achèvement
+de la détention préventive", ce qui n'est absolument pas attesté.
+Inversement le cas des renvois devant les tribunaux correctionnels
+ou de police sans maintien en détention (art. 129 et 131 du
+C.I.C.) qui sont isolés dans les modes d'achèvement, ne fiqurent
+plus parmi les mises en liberté provisoire.
+
+8.3.2.2.- PLPRENV (V128 - 1854 à 1947*).
+
+Mise en liberté provisoire par renvoi devant le tribunal de
+police ou devant 1e tribunal correctionnel sans encourir de peine
+d'emprisonnement.
+
+Cette série vise les articles 129 et 131 du C.I.C., c'est-
+à-dire les renvois devant le tribunal de police ou devant le
+tribunal correctionnel avec une inculpation n'entraînant pas de
+peine d'emprisonnement.
+
+Ainsi qu'il a été dit en introduction, jusqu'en 1938, cette
+
+série fait partie du détail des mises en liberté provisoire et
+donc est incluse dans la série PDPLPRO au niveau de l'achèvement
+
+de la détention préventive.
+
+Les valeurs sont manquantes de 1940 à 1945. Pendant cette
+période, à l'exception de 1944, elles sont néanmoins incluses dans
+la série PLPMAIN.
+
+Ensuite le tableau redonne des valeurs pour deux années ;
+celle pour 1946 semble aberrante.
+
+A partir de 1956, 1e renseignement est isolé comme mode
+d'achèvement de la détention préventive (PDPRENV). Mais la défini-
+tion est considérablement élargie avec les modifications introdui-
+tes par le Code de Procédure Pénale.
+

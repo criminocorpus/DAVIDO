@@ -1,0 +1,88 @@
+2
+
+3.
+
+- TABLE DES MATIÈRES -
+
+Pag
+
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .............
+1.- SOURCES DE LA BASE DAVIDO................ . . . . . . . . . . . ..
+1.1.- Les documents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+1.2.- La production de 1a statistique pénale . . . . . . . . o . ..
+
+1.2.1.- Les cadres statistiques des parquets
+(1825-1981) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+
+1.2.2.- La fiche statistique individuelle
+
+(1905-1913) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+1.2.3.- Les fiches de casier judiciaire . . . . . . . . . . . ..
+1.3.- Les unités de compte . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+- CONSTRUCTION DE LA BASE DE DONNEES....................
+2.1.- Le choix des séries . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+
+2.2.- La construction des séries . . . . . . . . . . . . . . . . . . . . . . ..
+
+2.3.- La fiabilité des séries . . . . . . . . . . . . . . . . . . . . . . . . . ..
+
+2.4.- La vérification des séries . . . . . . . . . . . . . . . . . . . . . . ..
+
+2.5.- La base informatisée . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+
+2.6.- La mise à jour de la base DAVIDO . . . . . . . . . . . . . . . . ..
+
+- PRESENTATION DES SERIES...............................
+
+3.1.- L'organisation des informations . . . . . . . . . . . . . . . . . ..
+
+3.2.- Généralités concernant l'ensemble des séries . . . . ..
+3.2.1.- Le territoire national et le territoire
+
+couvert par la statistique . . . . . . . . . . . . . . . . ..
+
+3.2.2.- Années manquantes, années perturbées . . . . . . ..
+
+4.- EFFECTIFS DES AGENTS DE LA POLICE JUDICIAIRE..........
+
+4.1.- Généralités . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+
+4.2.- Les séries de 1a base . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+
+5.- ORIGINES DES PLAINTES. DENONCIATIONS ET PROCES-VERBAUX
+
+PARVENUS A LA CONNAISSANCE DU MINISTERE PUBLIC........
+
+5.1.- Généralités . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . ..
+
+5.2.- Les séries de la base . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+
+6.- ACTIVITE DES PARQUETS . . . . . . . . . . ................ . . . . . ..
+
+6.1.- Première direction donnée par le ministère public
+
+aux plaintes, dénonciations et procès-verbaux.....
+
+6.1.1.- Généralités . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+
+6.1.2.s Les séries de la base . . . . . . . . . . . . . . . . . . . . . ..
+
+6.2.- Etat des affaires laissées sans poursuites par le
+
+ministère public et motifs de ces décisions . . . . . ..
+
+6.2.1.- Généralités . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+
+6.2.2.- Les séries de la base . . . . . . . . . . . . . . . . . . .....
+
+7.- ACTIVITE DES JURIDICTIONS D'INSTRUCTION...............
+
+7.1.- Introduction . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . ..
+7.2.- Résultat des affaires soumises aux juges
+
+d'instruction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+2.1.- Généralités . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..
+
+7.
+7.2.2.- Les séries de la base . . . . . . . . . . . . . . . . . . . . . ..
+

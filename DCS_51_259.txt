@@ -1,0 +1,85 @@
+PSPEHAIS X2
+
+PSPEPARE X1
+
+PSPEPREV V9
+
+PSPEPRIS X12
+
+FSPESUFl V11
+PSUASHAE 53
+PSUASSIH 52
+PSUASTOT Sl
+PSUCOAHE 511
+PSUCOEMP 812
+
+FSUCONAE 510
+
+PSUCOSIH S9
+
+PSUCÛSPE
+
+817
+
+PSUCOTÛT 88
+
+PTEnPS V26
+
+-260-
+
+Nombre des orévenus mineurs envovés en maison de correction
+oar les tribunaux correctionnels oui avaient été poursuivis
+cour des contraventions a des lois ou règlements
+narticuliers i'délits soéciaux'i
+
+Nombre des orëvenus mineurs remis a leurs oarents par les
+tribunaux correctionnels oui avaient été poursuivis oour
+contraventions à des lois ou règlements particuliers
+("délits soéciaux'l
+
+Prévenus iuoés oar les tribunaux correctionnels oour des
+contraventions a des lois ou des règlements particuliers
+('délits soéciaux'l
+
+Nombre des orévenus condamnés a liemorisonnement oar les
+tribunaux correctionnels oui avaient été poursuivis oour
+contraventions a des lois ou règlements particuliers
+("délits soéciaux')
+
+Prévenus condamnés oar les tribunaux correctionnels a une
+oeine d'emnrisonnement suoérieure à un an pour des
+contraventions à des lois ou règlements oarticuliers
+i'délits soéciaux')
+
+Condamnés oar les cours d'assises à des oeines assorties du
+sursis avec mise à liéoreuve I
+Condamnés oar les cours d'assises à des peines assorties du
+sursis simple
+
+Total des condamnés car les cours diassises a des ceines
+privatives de liberté assorties du sursis
+
+Condamnés par les tribunaux correctionnels à des oeines
+diamende assorties du sursis
+
+Condamnés oar les tribunaux correctionnels à des peines
+d'emprisonnement assorties du sursis
+
+Condamnés oar les tribunaux correctionnels et les cours
+d'aooel à des peines d'emorisonnement assorties du sursis
+avec mise à liéoreuve
+
+Condamnés car les tribunaux correctionnels et les cours
+diaooel à des oeines d'emprisonnement assorties du sursis
+simule
+
+Condamnés oar les tribunaux correctionnels cour des
+contraventions à des lois ou règlements particuliers
+I'délits soéciaux') et qui ont bénéficié d'un sursis
+
+Total des condamnés oar les tribunaux correctionnels à des
+veines assorties du sursis
+
+Condamnés oar les cours d'assises à une oeine afflictive ou
+infamante à temos
+

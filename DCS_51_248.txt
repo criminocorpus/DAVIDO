@@ -1,0 +1,20 @@
+-249-
+
+ANNEXE 5 : LISTE ALPHABÉTIQUE DES SERIES.
+
+Cette liste permet de retrouver les données et les commen-
+taires concernant une série.
+
+La première colonne indique le nom de la série.
+
+La seconde colonne "CODE" indique 1e code informatique S.A.s.
+de la série dans la base DAVIDO.
+
+La troisième colonne donne son titre détaillé.
+
+La colonne "TABLEAU" indique le numéro du tableau dans lequel
+figure la série (pages 159 à 205).
+
+La colonne "FICHE" renvoie au paragraphe dans lequel apparaît
+le commentaire de la série.
+

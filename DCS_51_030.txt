@@ -1,0 +1,71 @@
+-29...
+
+Reste alors l'hypothèse plus ou moins plausible que
+l'aptitude à produire des chiffres fiables et à fournir des
+
+chiffres cohérents vont de pair.
+Cela n'est certainement pas vrai pour la période actuelle.
+
+Depuis l'apparition de la statistique "mécanographique" des
+condamnations, les règles de cohérence à respecter sont suffis
+samment simples pour ne rien indiquer quant à l'exactitude des
+chiffres. On pourrait même adopter l'hypothèse inverse selon
+laquelle en l'absence de méthode de comptage précise et praticable
+en continu plutôt qu'une fois par an, la cohérence est le signe
+même de l'estimation plus ou moins fondée. Prenons un exemple:
+actuellement la statistique d'orientation des affaires au parquet
+dans les bureaux d'ordre gérés manuellement n'a pas de support de
+comptage adapté. Son origine est alors au mieux un dépouillement
+du registre annuel des plaintes et procès-verbaux. Mais les
+chiffres fournis entrent dans une équation de flux/stock. Cela
+suppose donc qu'on dépouille non seulement le registre de l'année
+qui ne comprend que les affaires entrées entre le 1er janvier et
+le 31 décembre, mais aussi le registre de l'année ou des années
+précédentes en vérifiant la date de décision afin d'introduire
+dans la statistique annuelle l'ensemble des affaires orientées
+dans l'année quelle que soit la date d'arrivée. Les délais de
+
+traitement des affaires ne sont plus tels -même au parquet- que
+l'on puisse. avec 1e léger recul pris pour l'établissement de la
+
+statistique (l ou 2 mois après la fin de l'année), tenir les
+conséquences du non respect de cette règle de comptage pour
+négligeable. La cohérence sera alors sans doute le plus souvent
+obtenue par une estimation ne laissant pas de trace.
+
+Mais pour d'autres cohérences plus complexes, imposant en
+particulier l'égalité de la sommation par lignes ou par colonnes
+dans les marges d'un tableau croisé, on peut observer de facon
+plus sûre la dégradation de la fiabilité des séries. Il en était
+ainsi au début des années 197D d'un tableau croisant la durée de
+la détention provisoire et son mode d'achèvement. Cette cohérence
+est d'autant plus délicate que les éléments de l'une des marges du
+tableau entrent dans d'autres contraintes de cohérence.
+
+L'estimation reste virtuellement possible, mais on observait de
+telles déviations dans les résultats fournis par les juridictions
+
+qu'on est amené à penser -et c'est là que notre première hypothèse
+retrouve un sens- que pour des agents peu formés aux techniques de
+
+redressement de tableaux croisés, la solution la plus simple pour
+obtenir ce genre de cohérence consiste à effectuer des comptages
+
+justes.
+Si l'on se reporte à la période antérieure à 1932 on peut, de
+
+façon très globale, indiquer les grandes lignes d'une évolution.
+Jusque vers 1860, l'affinement de l'outil avec l'enrichisse-
+
+ment des classifications et l'établissement progressif d'un
+
+maillage serré de cohérences va sans doute de pair avec une amé-
+
+lioration de la fiabilité des statistiques. La complexification
+apparente ne serait pas un obstacle à la fiabilité mais au
+
+contraire la base d'un contrôle qui s'accentue grâce à des
+consignes plus précises. Le tout sur le fond d'une croissance
+
+maitrisable des volumes traités.
+

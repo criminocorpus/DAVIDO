@@ -1,0 +1,112 @@
+PDFLFRO V106
+
+PDPHAIN V105
+
+PDPHPUB V105
+
+PDPÛNL V108
+PDPRELA V111
+
+PDPRENV V107
+
+PDPREST V101
+
+PDPSURS V116
+PDPTÛTAL V118
+PEA(=1AN V136
+FEA)1AN V155
+
+PEA)=5AN V136
+
+PECiôJ V137
+PEC(=1AN V138
+PEC)1AN V139
+PEC)=5AN V140
+PEXEDPFE Y15
+
+PEXEDPIM Y19
+
+PEXEDPSU Y11
+
+PEXEFERH Y15
+
+PEXEFUIT Y17
+
+-257-
+
+Individus dont la détention préventive s'est achevée par la
+mise en liberté provisoire
+
+Individus dont la détention préventive a cessé par suite de
+mainlevée du mandat de dépôt ou d'arrêt sur conclusion
+conforme du procureur de la Républioue
+
+Individus détenus préventivement mis en liberté par le
+ministère public
+
+Individus dont la détention préventive s'est achevée par une
+ordonnance de non-lieu
+
+Individus détenus préventivement acouittés par les tribunaux
+correctionnels ou remis à parents
+
+Individus détenus préventivement dont la détention s'est
+achevée par renvoi devant le tribunal de police ou devant le
+tribunal correctionnel
+
+Individus soumis à la détention préventive restant détenus
+de l'année précédente
+
+Individus dont la détention préventive s'est achevée par une
+condamnation à l'emprisonnement avec sursis
+
+Total des individus dont la détention préventive a cessé
+dans l'année .
+
+Condamnés par les cours d'assises à des peines privatives de
+liberté pour une durée inférieure ou égale à un an
+
+Condamnés par les cours d'assises à des peines privatives de
+liberté supérieures à un an mais non perpétuelles
+
+Condamnés par les cours d'assises à des peines criminelles
+privatives de liberté supérieures ou égales à cino ans mais
+non perpétuelles
+
+Condamnés par les tribunaux correctionnels à une peine
+d'emprisonnement de moins de six jours assortie ou non d'une
+
+amende
+Condamnés par les tribunaux correctionnels à une peine
+
+d'emprisonnement inférieure ou égale à un an assortie ou non
+d'une amende
+
+Condamnés par les tribunaux correctionnels à une peine
+d'emprisonnement supérieure à un an assortie ou non d'une
+amende
+
+Condamnés par les tribunaux correctionnels a une peine
+d'emprisonnement supérieure ou égale à cina ans assortie ou
+non d'une amende
+
+Prévenus condamnés à l'emprisonnement ou envovés en
+correction par les tribunaux correctionnels et oui ont été
+arrêtés ou écroués avant le jugement
+
+Prévenus condamnés à l'emprisonnement ou envovés en
+correction par les tribunaux correctionnels et non écroués
+par suite d'imputation de la détention préventive sur la
+peine
+
+Prévenus condamnés à l'emprisonnement ou envovés en
+correction par les tribunaux correctionnels et oui n'ont pas
+été écroués par sursis après la détention préventive
+Prévenus condamnés à l'emprisonnement ferme ou envovés en
+correction par les tribunaux correctionnels
+
+Prévenus condamnés à l'emprisonnement ou envoyés en
+correction par les tribunaux correctionnels et non écroués
+
+car en fuite
+

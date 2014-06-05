@@ -1,0 +1,61 @@
+-82-
+
+8.2.2.15.- PDPSURS (V116 a 1956 à 1981).
+
+Nombre d'individus dont la détention préventive s'est achevée
+par une condamnation à l'emprisonnement avec sursis.
+
+La série est relevée dans le tableau sur l'achèvement de la
+détention provisoire. Elle concerne les condamnations criminelles
+et correctionnelles.
+
+De 1893 à 1942, on trouve l'équivalent de cette série au
+
+chapitre de l'exécution des peines d'emprisonnement correctionnel
+(PEXEDPSU).
+
+8.2.2.16.- PDPAUTR (V117 - 1856 à 1981*).
+
+Nombre d'individus dont la détention préventive s'est achevée
+pour toute autre cause.
+
+La liste, lorsqu'elle est fournie dans le Compte,qénéra1,
+énumère les renvois devant une autre juridiction (autre que
+chambre d'accusation ou tribunal correctionnel. notamment
+militaire ou maritime), les mises en liberté sans ordonnance ni
+jugement par suite de transaction avec l'administration poursui-
+vante (contributions indirectes, douanes...), les décès...
+
+La série est relevée dans le tableau sur l'achèvement de la
+détention préventive.
+
+Les valeurs sont manquantes en 1858 et de 1948 à 1955.
+
+Pour les année 1975 à 1981, on a ajouté à cette série la nou-
+velle rubrique des individus renvoyés devant la chambre d'accusa-
+tion et en attente de décision (Ceux qui ont été jugés par les
+cours d'assises ou les tribunaux correctionnels après un arrêt de
+renvoi de la chambre d'accusation figurant alors ailleurs).
+
+8.3.- Mise en liberté provisoire.
+
+ 
+
+8.3.l.- Généralités.
+
+Avant 1854, 1e çgmpte*pgénéral ne mentionne les mises en
+liberté provisoire que pour les prévenus jugés par les tribunaux
+correctionnels (Cf. PCOMLPRO et PCORLPRO).
+
+De 1854 à 1864, 1e tableau sur l'activité des juges d'ins-
+truction mentionne les mises en liberté provisoire.
+
+De 1865 à 1981, existe un tableau concernant la mise en
+liberté provisoire, par cours d'appel jusqu'en 1885, puis pour
+l'ensemble des juridictions seulement à partir de 1886.
+
+Mais les rubriques selon lesquelles sont détaillés les indi-
+vidus mis en liberté provisoire au cours de la procédure varient
+énormément, à 1a mesure de l'évolution législatiVe pendant cette
+période (cf. Annexe 2 pour les principaux textes).
+

@@ -1,0 +1,48 @@
+-88-
+
+8.4.2.2.- PCOMDET (V120 - 1831 à 1932).
+
+Prévenus jugés pour des délits communs arrêtés et détenus
+jusqu'au jugement.
+
+Jusqu'en 1862, la série est relevée. De 1863 à 1929. cette
+
+série est la somme des séries relevées PCOMFLAG et PCOMMDEP. De
+1930 à 1932, avec la disparition de la distinction du cas des
+
+flagrants délits, il s'agit à nouveau d'un relevé.
+8.4.2.3.- PCOMFLAG (V121 - 1863 à 1929).
+
+Prévenus jugés pour des délits communs arrêtés et détenus
+jusqu'au jugement. Flagrants délits.
+s 4.2.4.- pconnnsp (V122 - 1353 à 1929).
+
+Prévenus jugés pour des délits communs arrêtés et détenus
+
+jusqu'au jugement. Autres mandats.
+
+8.4.2.5.- PCORLPRO (V123 - 1831 à 1929).
+
+Prévenus jugés par les tribunaux correctionnels arrêtés et
+mis en liberté provisoire.
+
+8.4.2.6.- PCORDET (V124 - 1831 à 1932).
+
+Prévenus jugés par les tribunaux correctionnels arrêtés et
+détenus jusqu'au jugement.
+
+La série est relevée jusqu'en 1862. De 1863 à 1929, cette
+série additionne les relevés PCORFLAG et PCORMDEP. De 1930 à 1932,
+avec la disparition du cas des flagrants délits, il s'aqit à
+nouveau d'un relevé.
+
+8.4.2.7.- PCORFLAG (V125 - 1863 à 1929).
+
+Prévenus juqés par les tribunaux correctionnels arrêtés et
+détenus jusqu'au jugement. Flagrants délits.
+
+8.4.2.8.- PCORMDEP (V126 - 1863 à 1929).
+
+Prévenus jugés par les tribunaux correctionnels arrêtés et
+détenus jusqu'au jugement. Autres mandats.
+

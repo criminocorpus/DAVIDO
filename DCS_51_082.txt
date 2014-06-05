@@ -1,0 +1,69 @@
+-81-
+
+Les valeurs sont manquantes de 1948 à 1955.
+Pour 1873 et 1874, et pour 1871 après estimation de PDPRELA,
+
+on ne dispose que du total des prévenus détenus condamnés par les
+tribunaux correctionnels. On peut retrouVer par ailleurs les con-
+damnés à une peine d'emprisonnement (série PEXEDPFE sur l'exécu-
+tion des peines d'emprisonnement qui donne le même renseignement
+avec une cohérence respectée à cette époque).
+
+En 1891 et 1892, les sursis n'ont pas été pris en compte dans
+le tableau (voir PEXEDPFE), nous les avons donc rajoutés ici et
+nous obtenons alors les valeurs suivantes : 84 899 en 1891 et
+
+88 680 en 1892.
+En 1923. la valeur observée dans le Comptg"qénéral (39 877)
+
+est aberrante et complémentaire de ce qu'on peut observer au
+niveau de la série PDPRELA. L 'estimation que nous en avons faite
+
+correspond ici au total initial de PDPRELA et PDPEMPRI (soit
+11 464 + 39 877 = 51 341) duquel nous avons soustrait la valeur
+estimée de PDPRELA - ceci afin de conserver également la cohérence
+avec la série PCORDET. Nous obtenons alors le chiffre de 47 O44.
+
+8.2.2.13.- PDPAMEN (V114 ' 1831 à 1981*).
+
+Nombre d'individus dont la détention préventive a pris fin
+par une condamnation à une peine d'amende.
+
+Cette série est relevée de la même facon que PDPEMPRI. Elle
+ne concerne que les jugements correctionnels jusqu'en 1947,
+
+auxquels sont ajoutés à partir de 1956 les éventuels arrêts des
+
+cours d'assises répondant à cette définition.
+De 1978 à 1981, 1a série change d'intitulé pour devenir le
+
+nombre "d'individus dont la détention provisoire s'est achevée par
+le prononcé d'une autre peine que l'emprisonnement ou d'une
+
+mesure".
+Les valeurs sont manquantes de 1948 à 1955.
+
+En 1871, 1873 et 1874, les çgmptesfqénéraux ne donnent pas ce
+chiffre et 1e relevé résulte du calcul de la différence du total
+
+des condamnés et des condamnés à l'emprisonnement ferme (voir
+PDPEMPRI).
+
+8.2.2.14.- PDPCHAC (V115 - 1854 à 1947).
+
+Nombre d'individus dont la détention préventive a pris fin
+par un renvoi devant la chambre d'accusation.
+
+Cet intitulé ne figure pas exactement tel quel mais résulte
+de 1a juxtaposition des titres successifs. En tout cas, la série
+figure dans le tableau sur le mode d'achèvement de la détention
+
+préventive alors que bien sûr, 1e renvoi devant la chambre d'accu-
+
+sation ne met pas fin nécessairement à la détention préventive.
+La série ne peut être poursuivie au delà de 1947. En effet.
+
+les valeurs sont manquantes de 1948 à 1955 et, à partir de 1956,
+les détenus jugés par les cours d'assises sont reqroupés avec les
+détenus juqés par les tribunaux correctionnels.
+

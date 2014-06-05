@@ -1,0 +1,68 @@
+-20-
+
+1.3.- LES UNITÉS DE COMPTE.
+
+La définition des unités de compte est de nos jours un
+obstacle sérieux à la rénovation du système statistique en matière
+pénale, aussi bien en matière judiciaire (AUBUSSON 1987) qu'au
+niveau policier (AUBUSSON 1988).
+
+L'appareil conceptuel mis en place en 1825 semble avoir
+stabilisé dans un premier temps les définitions utilisées pour le
+
+comptage : on emploie comme unités simultanément l'affaire et la
+personne.
+
+La notion d'affaire a une apparence aussi naturelle pour les
+praticiens que la personne. L'affaire, c'est l'unité de
+traitement : le dossier de la procédure écrite la matérialise
+
+assez facilement. L'inconvénient de cette unité de compte est que
+d'une affaire à l'autre, le contenu peut varier à bien des points
+de vue.
+
+Une affaire peut concerner plusieurs personnes (complicité).
+peut viser plusieurs infractions (identiques répétées ou
+différentes), peut donner lieu à chaque étape de la procédure à
+
+des décisions multiples (plusieurs décisions d'orientation au
+parquet ou à l'instruction, plusieurs arrêts ou jugements en fin
+
+de parcours). Chacun de ces constituants (personne, infraction,
+décision) peut fournir une unité de compte concurrente de
+l'affaire. Tant que l'affaire reste une unité concrète de gestion,
+elle est un point de passage obligé de 1a statistique. Néanmoins,
+on s'accorde à penser aujourd'hui qu'un net progrès dans l'unifor-
+misation entre les juridictions, voire entre les types de conten-
+tieux, doit être obtenu pour que l'affaire reste une unité
+statistiquement pertinente.
+
+Ceci n'empêche qu'il soit aussi nécessaire de combiner
+l'affaire avec d'autres unités de compte.
+
+La personne était évidemment imposée dès le début de la
+statistique comme unité à côté de l'affaire puisque l'auteur d'une
+infraction est le support élémentaire d'un bon nombre de
+décisions. On relèvera d'ailleurs que pendant longtemps (jusqu'en
+1932) la statistique pénale a utilisé conjointement les deux
+unités de compte -affaire et personne- sur les mêmes objets, avec
+quelquefois l'intention explicite de comparer les résultats
+obtenus avec l'une ou l'autre.
+
+Ici, il convient de préciser que l'unité personne, qu'il
+s'agisse d'inculpés, d'accusés, de prévenus, d'acquittés ou de
+condamnés, est en fait un croisement de la décision et de
+l'individu. Un même individu impliqué au cours de l'année dans
+plusieurs procédures différentes sera copppé plusieurs fpis.
+
+Sans entrer dans le détail des choses -ce qui sera fait lors
+de l'analyse des séries- on peut relever qu'il n'est pas possible
+de rendre compte de l'ensemble du fonctionnement de la justice
+pénale avec une seule des deux unités de compte. La description de
+l'activité du parquet et des juges d'instruction n'est possible
+qu'en comptant des affaires dont certaines ne visent personne
+(auteur inconnu), tandis que les sanctions finales et les mesures
+provisoires supposent un comptage par personnesdécision. Jusqu'en
+
+ 
+

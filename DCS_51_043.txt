@@ -1,0 +1,57 @@
+-42-
+
+4.2.7.- NMAIRES (V31 - 1876 à 1906).
+Nombre de "maires".
+
+Cette rubrique n'existe pas avant 1876.
+
+4.2.8.- NCHAMPET (V32 - 1842 à 1932).
+
+Nombre de "gardes champêtres communaux".
+
+Loi du 28 septembre 1791, article 1er : "Pour assurer les
+
+propriétés et conserver les récoltes, il pourra être établi des
+gardes champêtres dans les municipalités, sous la juridiction des
+
+juges de paix et sous la surveillance des officiers municipaux..."
+
+Loi du 5 avril 1884, article 102 : "Toute commune peut avoir
+un ou plusieurs gardes champêtres... Ils dressent des procès-
+
+verbaux pour constater ces contraventions" (soit les contraven-
+tions "aux règlements et arrêtés de police municipale").
+
+Les gardes champêtres sont compétents en matière
+d'infractions rurales, de circulation routière (loi du 30 mai
+1851, article 15), de circulation des boissons (loi du 21 juin.
+article 2).
+
+4.2.9.- NPLRTIC (V33 - 1842 à 1932).
+
+Nombre de "gardes particuliers assermentés", avec parfois en
+plus l'expression "en exercice".
+
+Le décret du 20 messidor an III, article 4, déclare : "Tout
+propriétaire aura le droit d'avoir pour ses domaines un garde
+champêtre ; i1 sera tenu de le faire agréer par le conseil général
+de 1a commune, et confirmer par le district : ce droit ne pourra
+l'exempter néanmoins de contribuer au traitement du garde de 1a
+commune." (ce dernier étant compté en NCHAMPET).
+
+La loi du 5 avril 1884 abroge les articles 1,2.3 et 5 du
+décret du 20 messidor an III.
+
+La loi du 12 avril 1892 transfère aux préfets le droit
+d'agréement des gardes particuliers.
+
+La mise en place du comptage de ces agents a présenté
+quelques difficultés, en effet 32 tribunaux en 1842 (pages 225 à
+231 et 233 du Compte général de 1842). 16 en 1843 (pages 225, 225,
+
+228 à 231 et 233 du Compte général de 1843) et 7 en 1844 (pages
+225, 226, 229, 231 et 233 du ggmpte général de 1844) n'ont pas été
+
+en mesure de fournir le renseignement. Les chiffres indiqués pour
+ces trois premières années sont donc sous-estimés.
+

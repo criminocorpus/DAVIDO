@@ -1,0 +1,104 @@
+-122-
+
+En 1905, nous avons opéré un redressement et la valeur saisie
+dans la base est 27 au lieu de 13 (cf.PSPEMAIS).
+
+10.3.2.21.- PSPEÂMEN (V13 - 1831
+
+"Nombre des prévenus condamnés à l'amende seulement"
+avaient été poursuivis
+
+tribunaux correctionnels qui
+
+"délits spéciaux".
+
+à 1954).
+
+par les
+pour des
+
+10.3.2.22.- ACORRDEF (D1 - 1856 à 1932).
+
+Nombre de "jugements (qui) ont été rendus par défaut" par les
+
+tribunaux correctionnels.
+
+On rappelle qu'un jugement
+contre quelqu'un qui n'a pas eu
+cas de condamnation, celui-ci
+connaissance de la décision, de
+est alors à nouveau jugée par la
+
+est rendu contradictoirement sur
+se représente pas. Dans ce cas.
+
+"par itératif défaut".
+
+"par défaut" peut être prononcé
+connaissance de sa citation. En
+a possibilité, lorsqu'il prend
+lui faire "opposition". L'affaire
+même juridiction et 1e jugement
+opposition, sauf si 1e prévenu ne
+le premier juqement est confirmé
+
+Ces chiffres sont relevés. de 1856 à 1932, en note du tableau
+
+d'activité des tribunaux correctionnels
+
+fractions.
+
+Ils distinguent les "délits
+
+ou autres"
+concordances suivantes :
+
+ACORRDEF = somme(ADEFCOMM,ADEFFORE)
+
+et les jugements signifiés
+
+ventilé par types d'in-
+
+"délits forestiers
+On a donc les
+
+des
+non.
+
+communs"
+ou
+
+sur toute la période et
+
+ACORRDEF = somme(ADEFNOSI.ADEFSIGN) jusqu'en 1906. La seconde con-
+
+cordance n'est pas toujours respectée par les comptes généraux
+eux-mêmes, ce qui montre le peu de fiabilité de ces séries.
+Cependant, on a pu réqler ce problème en rectifiant ADEFNOSI (en
+
+1864, 1895, 1896 et 1904) ou ADEFSIGN
+
+(en 1905).
+
+De 1907 à 1909, la cohérence n'est pas non plus respectée par
+les Comptes généraux sans qu'aucune correction de l'une ou l'autre
+
+des séries apparaisse possible.
+En 1910,
+
+la modification de la cohérence semble être
+
+liée à
+
+la définition de la série ADEFEXEC.
+
+10.3.2.23.- ADEFCOMH (D2 - 1856 à 1932).
+
+Nombre de jugements
+
+rendus
+
+par défaut par les tribunaux
+
+correctionnels "en matière de délits communs".
+

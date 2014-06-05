@@ -1,0 +1,172 @@
+ATÛTCLAS
+ATÛTCÛRR
+
+ATOTINST
+
+ATDTNOLI
+
+ATOTÛRPV
+
+ATÛTPARG
+
+ATOTFÛLI
+
+ATÛTSPE
+
+ATRAFORE
+
+NAGENPOL
+
+NBRIGADE
+
+NCHAMPET
+
+NCOHIPOL
+
+NDÛUANE
+
+NFDREST
+
+NGENDARM
+
+NMAIRES
+
+NFARTIC
+
+NPOLIFER
+
+NPÛLIMOB
+
+NPONPECH
+
+PACCUSE
+
+FACDUIT
+FADAHEN
+
+PADEHF
+
+PADRELA
+
+X3
+X15
+
+V61
+
+V62
+
+V100
+V59
+P1
+
+Xd3
+
+DIÛ
+V30
+V27
+V32
+V29
+V36
+V34
+V28
+V31
+V33
+V37
+V38
+V35
+V16
+
+V17
+Y25
+
+YZA
+
+Y23
+
+-255-
+
+Affaires laissées sans poursuite bar le mlnistére oublie
+Total des affaires poursuivies oar les tribunaux
+correctionnels
+
+Total des affaires dont ont eu à s'occuper les iuees
+d'instruction au cours de l'année (y comoris celles restant
+de l'année orécédentel
+
+Affaires soumises aux juges d'instruction et terminées oar
+des ordonnances aortant ou'il n'x a lieu à suivre contre
+aucun des inculpés
+
+Total calculé des blaintes. dénonciations et procès-verbaux
+transmis vendant l'année au ministère Dublic
+
+Total des affaires dont le ministère oublie a eu a s'occuoer
+au cours de l'année
+
+Total des contraventions iuoées bar les tribunaux de simole
+oolice
+
+Total des affaires jugées bar les tribunaux correctionnels
+et concernant des contraventions a des lois et règlements
+particuliers l'délits soéciaux'l
+
+Transactions que l'administration forestière a consenties
+avant jugement. conformément a la loi du 18 iuin 1859
+
+Nombre d'agents de police chargés de constater les crimes et
+les délits
+
+Nombre de brigades de gendarmerie chargées de constater les
+crimes et les délits
+
+Nombre de gardes champêtres communaux chargés de constater
+les crimes et les délits
+
+Nombre de commissaires de oolice chargés de constater les
+crimes et les délits
+
+Nombre de douaniers chargés de constater les crimes et les
+délits
+
+Nombre de qardes forestiers de tous grades et de
+gardes-bêche chargés de constater les crimes et les délits
+Nombre de gendarmes de tous grades chargés de constater les
+crimes et les délits
+
+Nombre de maires chargés de constater les crimes et les
+délits
+
+Nombre de gardes particuliers assermentés (en exercicel
+chargés de constater les crimes et les délits
+
+Nombre d'agents de la police spéciale des chemins de fer
+chargés de constater les crimes et les délits
+
+Nombre d'agents de la police mobile chargés de constater les
+crimes et les délits
+
+Nombre d'agents des Donts et chaussées et de gardes-bêche
+chargés de constater les crimes et les délits
+
+Total des accusés iuoés oar les cours d'assises
+
+Acauittés bar les cours d'assises
+
+Prévenus poursuivis bar les tribunaux correctionnels à la
+reduéte d'une administration ou d'un établissement oublie
+condamnés à l'amende seulement
+
+Frévenus poursuivis bar les tribunaux correctionnels à la
+requête d'une administration ou d'un établissement oublie
+condamnés a l'emprisonnement
+
+Prévenus boursuivis bar les tribunaux correctionnels à la
+reouete d'une administration ou d'un établissement oublie
+acouittés '
+
+et
+
+et
+
+et
+

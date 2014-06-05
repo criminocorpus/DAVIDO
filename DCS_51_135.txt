@@ -1,0 +1,59 @@
+-134-
+
+donc retrouver les individus condamnés à une peine d'emprison-
+nement avec sursis sans détention préalable en calculant
+PEXESURS-PEXEDPSU.
+
+Cette série devrait correspondre à PSUCOEMP. ce qui n'est le
+cas que jusqu'en 1926.
+
+12.2.3.- PEXEDPSU (Yll - 1891 à 1942*).
+
+Nombre des prévenus condamnés à l'emprisonnement non écroués
+"par sursis après détention préventive".
+
+Cette rubrique n'apparaît dans l'énumération qu'en 1893 mais
+l'examen des cohérences avec la série PSUCOEMP permet de retrouver
+
+les valeurs manquantes (1 552 en 1891 et 1 147 en 1892). Elles ont
+été incluSes dans la base.
+Cette série est comprise dans PEXESURS.
+
+12.2.4.- PEXEFERM (Y13 - 1831 à 1942*).
+
+Nombre de prévenus condamnés à l'emprisonnement ferme par les
+tribunaux correctionnels.
+
+Jusqu'en 1890, cette série est identique à PEXETOT.
+A partir de 1891, elle est calculée de facon à retrouver les
+
+peines fermes. soit : PEXETOT-PEXESURS.
+
+On s'attend à la cohérence PEXEFERM = PPRISON-PSUCOEMP qui
+n'est respectée que jusqu'en 1926 de même que la concordance de
+
+PSUCOEMP et PEXESURS.
+On obtient le nombre de condamnés à l'emprisonnement ferme
+
+écroués avant ou après jugement en faisant l'opération suivante :
+PEXEFERM-PEXESTOP-PEXEGRAC.
+
+12.2.5.- PEXEDPFE (Y15 - 1831 à 1942*).
+
+"Nombre des prévenus condamnés à l'emprisonnement arrêtés ou
+écroués avant le jugement".
+
+Il convient de tenir compte de PEXEDPIM dans l'utilisation de
+cette série.
+
+12.2.6.- PEXEDPIM (Y19 - 1893 à 1942*).
+
+Nombre de prévenus condamnés à l'emprisonnement non écroués
+par suite d'imputation de la détention préventive sur 1a peine.
+
+Cette rubrique n'apparaît qu'à partir de 1893, avec la loi
+dite d'imputation de la détention préventive sur 1a peine.
+
+L'intitulé de la série laisse penser qu'il s'aqit en fait des
+condamnés à une peine d'emprisonnement ferme d'une durée inférieu-
+

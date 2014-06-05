@@ -1,0 +1,56 @@
+-67-
+
+Les affaires concernant les majeurs et celles concernant les
+mineurs sont confondues sur toute la période.
+
+Les ordonnances de non-lieu sont distinguées d'une part selon
+la catégorie initiale d'infraction (crime/délit), d'autre part
+selon le motif. La structure des tableaux fait que les comptages
+concernant les personnes, dont on note ici la première apparition,
+sont également placés dans cet ensemble de séries.
+
+7.3.2.- Les séries de la base.
+
+7.3.2.1.- PONLTOT (Y6 - 1831 à 1932).
+"Nombre total des inculpés déchargés des poursuites".
+
+Le chiffre inclut les inculpés déchargés des poursuites dans
+des affaires ou d'autres sont poursuivis. aussi bien que les in-
+
+culpés dans les affaires se terminant globalement par un non-lieu.
+En 1843, en 1851 et de 1900 à 1904, le total est absent du
+
+tableau et a été calculé.
+En 1860, la note au bas de la page 225, ainsi que 1e tableau
+
+CXXIII. page 227, donnent 9 714 prévenus, tandis que le tableau
+CXXX, page 240, indique 9 721 prévenus. Nous avons relevé le
+
+second chiffre.
+
+7.3.2.2.- PONLARRE (Y7 - 1831 à 1932).
+"Nombre des inculpés arrêtés déchargés des poursuites".
+
+Cf. les séries AONLDEFI et PONLTOT.
+Il résulte des cohérences concernant 1a détention préventive
+
+et des commentaires de cette série donnés par les Eappgrts des
+Compteswgénéragg, qu'il s'agit des inculpés pour qui 1e non-lieu
+met fin à la détention préventive.
+
+On a donc l'égalité PONLARRE = PDPONL.
+
+7.3.2.3.- AONLDEFI (Y5 - 1831 à 1932).
+
+Nombre total des affaires terminées par des ordonnances de
+non-lieu non frappées d'opposition.
+
+On observe les égalités suivantes :
+AONLDEFI ' somme(ANICNID2,AINSUFFZ,AINCONN2.AMENTAL2)
+
+somme(ANOLICRI,ANOLIDEL).
+Pour obtenir l'ensemble des affaires terminées par un
+
+non-lieu i1 convient d'ajouter les arrêts de non-lieu rendus par
+la chambre d'accusation (soit AANLTOT).
+
