@@ -1,24 +1,22 @@
 -129-
 
-11.2.5.- PSA)1AN (86 - 1891 à 1932).
+11.2.5.- PSA>1AN (S6 - 1891 à 1932).
 
 Nombre de condamnés (condamnations) à des peines privatives
 de liberté supérieures à un an assorties du sursis qui ont été
 prononcées par les cours d'assises.
 
-Cette série peut être soustraite de PEA)1AN pour obtenir les
+Cette série peut être soustraite de PEA>1AN pour obtenir les
 peines privatives de liberté fermes de cette durée.
 
-11.2.6.- PSA)=5AN (S7 - 1891 à 1932).
+11.2.6.- PSA>=5AN (S7 - 1891 à 1932).
 
 Nombre de condamnés (condamnations) à des peines privatives
 de liberté supérieures ou égales à cinq ans assorties du sursis
-
 qui ont été prononcées par les cours d'assises.
 
-Cette série représente une partie de PSA)1AN.
-Elle peut être soustraite de PEA)=5AN pour obtenir les peines
-
+Cette série représente une partie de PSA>1AN.
+Elle peut être soustraite de PEA>=5AN pour obtenir les peines
 privatives de liberté fermes de cette durée.
 
 11.2.7.- PSUCOTOT (S8 - 1891 à 1978).
@@ -29,15 +27,13 @@ assorties du sursis prononcées par les tribunaux correctionnels
 
 En 1955 et 1956, nous avons additionné les condamnations
 prononcées sur appel dont il n'était pas tenu compte (voir la
-
 série PCONDCOR).
+
 De 1968 à 1971, il y a des sursis simples. dits "non
-
 mentionnés" dont on ne sait s'ils portent sur une peine de prison
-ou d'amende (3 en 1968, 16 en 1969. 16 en 1970, 8 en 1971). nous
+ou d'amende (3 en 1968, 16 en 1969. 16 en 1970, 8 en 1971), nous
 n'en avons pas tenu compte ici. Par ailleurs, des notes de bas de
-paqe mentionnent des sursis dont on ne sait s'ils sont simples ou
-
+page mentionnent des sursis dont on ne sait s'ils sont simples ou
 avec mise à l'épreuve ou sur quelle peine ils portent. qui ne sont
 pas comptés ici (162 en 1968, 154 en 1969, 1 786 en 1970, 608 en
 1971). En dehors de cette période, il n'est pas fait allusion au
@@ -56,6 +52,5 @@ assorties du sursis qui ont été prononcées par les tribunaux
 correctionnels (et les cours d'appel).
 
 Cette série est relevée de 1891 à 1976 mais elle est inter-
-rompue de 1933 à 1954. Ensuite, 1e Çpmpte général distinque les
+rompue de 1933 à 1954. Ensuite, 1e Compte général distingue les
 sursis prononcés sur l'ensemble de la peine de ceux ne portant que
-

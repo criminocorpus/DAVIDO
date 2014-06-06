@@ -1,33 +1,27 @@
 -121-
 
-10.3.2.17.r PSPEMAIS (X2 - 1831 à 1932).
+10.3.2.17. PSPEMAIS (X2 - 1831 à 1932).
 
 Nombre des prévenus mineurs "envoyés dans une maison de
 correction" ou "dans une colonie pénitentiaire" par les tribunaux
 correctionnels qui avaient été poursuivis pour des "délits
-
 spéciaux".
 
 Cette série représente dans la base une partie de PSPEMAIS.
 
 Les valeurs sont négatives jusqu'en 1840.
-En 1905, 1e tableau du Çgmptemqénéral indique 31 prévenus
 
+En 1905, 1e tableau du Compte général indique 31 prévenus
 envoyés en maison de correction pour des "délits spéciaux" mais si
 on les additionne aux 860 pour "délits communs", on n'obtient pas
-
 le total indiqué. Un redressement est possible si l'on considère
-que les l4 affaires qui apparaissent ici "en trop" correspondent à
-
+que les 14 affaires qui apparaissent ici "en trop" correspondent à
 celles qui "manquent" au niveau de la colonne des condamnés à
-
 l'emprisonnement supérieur à un an. C'est le choix que nous avons
 fait ici qui, s'il respecte la cohérence indiquée par le Compte
-
 général, montre bien cependant les manipulations possibles (ce
 sont les marges du tableau qui sont déterminées et non les cases)
 et les difficultés que rencontrent les juridictions à renseiqner
-
 ce type de tableau.
 
 10.3.2.18.- PSPEPRIS (X12 - 1831 à 1954).
@@ -43,22 +37,20 @@ PSPEPRIS = somme(PSPEMAIS,PSPEINF1,PSPESUP1).
 
 "Nombre des prévenus condamnés à l'emprisonnement d'un an et
 moins" par les tribunaux correctionnels qui avaient été poursuivis
-
 pour "délits spéciaux".
 
-Jusqu'en 1872. les condamnés à une peine éqale à un an sont
+Jusqu'en 1872, les condamnés à une peine égale à un an sont
 comptés en PSPESUPl. Ensuite les libellés des colonnes du tableau
-avant chanqé. elles sont prises en compte ici. Il n'est pas
-possible d'homoqénéiser ces deux séries comme on l'a fait pour
-l'ensemble des délits,
+ayant chanqé. elles sont prises en compte ici. Il n'est pas
+possible d'homogénéiser ces deux séries comme on l'a fait pour
+l'ensemble des délits.
 
-10.3.2.20.- PSPESUPl (V12 - 1831 à 1954).
+10.3.2.20.- PSPESUP1 (V12 - 1831 à 1954).
 
 "Nombre des prévenus condamnés à l'emprisonnement de plus
 d'un an" par les tribunaux correctionnels qui avaient été
-
 poursuivis pour "délits spéciaux".
 
-Jusqu'en 1872, les condamnés à des peines éqales à un an sont
-éqalement comptés dans cette série.
+Jusqu'en 1872, les condamnés à des peines égales à un an sont
+également comptés dans cette série.
 
