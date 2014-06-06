@@ -1,6 +1,6 @@
 -141-
 
-1;41.2.- Les séries de la base.
+13.1.2.- Les séries de la base.
 
 13.1.2.1.- PRECIASS (V26 - 1831 à 1978*).
 
@@ -9,11 +9,10 @@ d'assises.
 
 Cette série est relevée de 1831 à 1978, sauf pour la période
 allant de 1919 à 1925 où le renseignement n'est pas fourni dans
-
 les Comptes généraux.
-La définition de cette série subit les transformations
 
-mentionnées ciedessus.
+La définition de cette série subit les transformations
+mentionnées ci-dessus.
 
 Ces chiffres tiennent compte des relégations (cf. la série
 PRELEGAS).
@@ -25,7 +24,6 @@ naux correctionnels et les cours d'appel.
 
 Cette série est relevée de 1831 à 1978, sauf pour la période
 allant de 1919 à 1925, pour laquelle le renseignement n'est pas
-
 fourni.
 
 Aux définitions générales s'ajoutent pour les prévenus ou les
@@ -33,33 +31,26 @@ condamnés correctionnels les remarques suivantes.
 
 Les renseignements concernant la récidive correctionnelle
 n'étant réputés disponibles que pour les affaires poursuivies à la
-requête du Ministère public (Çgmpte général de 1835, page XX),
-
+requête du Ministère public (Compte général de 1835, page XX),
 après une période de flou pendant laquelle au moins les contra-
 ventions forestières ont été exclues (1831-1834), la série ne
-
 porte que sur les prévenus poursuivis de cette facon. Le rapport
 l'indique de 1835 à 1843 et en 1844 l'intitulé du tableau corres-
-
 pondant le fait figurer en note. Avec l'apparition du casier
 judiciaire et la baisse des affaires poursuivies à la requête des
 administrations et des parties civiles, il semble qu'il soit
 devenu plus opérationnel d'exclure les "délinquants forestiers" (à
 partir de 1860) comme l'indique la transformation de l'intitulé du
-
 tableau.
-D'ailleurs, les contraventions forestières ne sont pas prises
 
+D'ailleurs, les contraventions forestières ne sont pas prises
 en compte pour le calcul de la récidive. Non seulement les pour-
 suites ou condamnations pour contraventions forestières sont
-
 exclues du champ, mais encore elles ne comptent pas comme premier
 terme de la récidive, "les condamnations prononcées contre les
-
 délinquants forestiers ne figurant pas dans les casiers judiciai-
-
 res" (Compte général de 1885, page XXVII).
-Cependant, après l'interruption de 1914-1918, la série qui
 
+Cependant, après l'interruption de 1914-1918, la série qui
 reprend en 1926 porte sur l'ensemble des infractions.
 

@@ -1,4 +1,4 @@
-'143r
+-143-
 
 13.2.2.- Les séries de la base.
 
@@ -7,11 +7,10 @@
 Nombre d'accusés en récidive condamnés à la relégation par
 les cours d'assises.
 
-En 1885, les chiffres sont relevés paqe XXX du Rapport du
-
+En 1885, les chiffres sont relevés page XXX du Rapport du
 Compte général.
-De 1886 à 1913, ils sont relevés dans les tableaux concernant
 
+De 1886 à 1913, ils sont relevés dans les tableaux concernant
 les récidives.
 
 De 1919 à 1925, les valeurs sont manquantes.
@@ -21,13 +20,11 @@ tableaux concernant les récidives.
 
 De 1933 à 1952, ils sont relevés en note au bas du tableau
 des récidives (sauf en 1944, année pour laquelle la valeur est
-
 manquante).
 
 De 1953 à 1955, le renseignement n'est plus disponible en
 raison des modifications de sources statistiques (exploitation
 mécanographique des duplicata de fiches du casier judiciaire et
-
 non plus manuelle des Cadres des parquets).
 De 1956 à 1969, le relevé a été fait dans les Archives.
 
@@ -37,28 +34,22 @@ Nombre de prévenus en récidive condamnés à la relégation par
 les tribunaux correctionnels.
 
 Les chiffres sont relevés :
-- en 1885, page XXX du Rapport du ggmpte général,
+- en 1885, page XXX du Rapport du Compte général,
 - en 1886, en note au bas du tableau concernant les récidives,
-
 - de 1887 à 1913, dans le tableau lui-même.
 - de 1919 à 1926, dans les tableaux d'activité des tribunaux cor-
-
 rectionnels (à l'exception de 1921, année pour laquelle le rensei-
-
 gnement n'est pas disponible),
-- de 1927 à 1932, de nouVeau dans les tableaux concernant les
-
+- de 1927 à 1932, de nouveau dans les tableaux concernant les
 récidives,
-- de 1933 à 1946. en note au bas de ce tableau,
-
+- de 1933 à 1946, en note au bas de ce tableau,
 - de 1947 à 1951, de nouveau dans ce tableau.
+
 De 1952 à 1954, la série est interrompue en raison des
-
 modifications de sources statistiques (exploitation mécanogra-
-phique des duplicata de fiches du casier îudiciaire et non plus
-
+phique des duplicata de fiches du casier judiciaire et non plus
 manuelle des Cadres des parquets).
-De 1955 à 1969, les chiffres sont calculés à partir des
 
+De 1955 à 1969, les chiffres sont calculés à partir des
 Archives.
 

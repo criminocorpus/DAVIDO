@@ -2,69 +2,40 @@
 
 c. - Récidive : Synopsis.
 
-ANNÉES
 
-DÉFINITION
+ANNÉES  DÉFINITION    UNITE                CHAMP
+                      DE COMPTE     ASSISES    T.CORRECTIONNEL
 
-Déjà
-condamné
-sans
-précision
+1831    Déjà          Personnes     Accusés    Prévenus délits
+        condamné      poursuivies              communs ?
+        sans          sans double
+1834    précision     compte
 
-UNITE
-DE COMPTE
+1835    Idem          Accusés ou    Accusés    Prévenus
+                      prévenus                 poursuivis
+                      autant de                à la requête du
+                      fois qu'ils              Ministère public
+1850                  apparaissent
 
-Personnes
-poursuivies
+1851    Déjà          Idem          Idem       Idem
+        condamné
+        selon casier
+1859    judiciaire
 
-sans double
-compte
+1860    Idem          Idem          Idem       Prévenus sauf
+                                               "délinquants
+1870                                           forestiers"
 
-CHAMP
-ASSISES
+1871    Idem          Condamnation  Condamnés  Condamnés, sauf
+                                               "délinquants
+1913                                           forestiers"
 
-Accusés
+INTERRUPTION DE LA PUBLICATION
 
-T.CORRECTIONNEL
+1926    Idem          Idem          Idem      Condamnés
+1954                                          (total)
 
-Prévenus délits
-communs ?
-
-Accusés ou
-
-prévenus
-autant de
-
-fois qu'ils
-apparaissent
-
-Accusés
-
-Prévenus
-poursuivis
-
-à la requête du
-Ministère public
-
-Déjà
-condamné
-selon casier
-judiciaire
-
---..--..---..--------....------..-..-....-..---.-----.-------..-----....--..----.-
-
-Prévenus sauf
-"délinquants
-forestiers"
-
-Condamnés, sauf
-"délinquants
-forestiers"
-
-(total)
-
-Condamnation
-
-inscrite au
-casier
+1955    Idem          Condamnation  Idem      Idem
+                      inscrite au
+1978                  casier
 
