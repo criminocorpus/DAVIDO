@@ -9,10 +9,8 @@ Cette série est relevée dans le tableau concernant l'activité
 des juges d'instruction à partir de 1849.
 
 De 1849 à 1854 la série est intitulée "nombre total des
-
 inculpés arrêtés et détenus préventivement" et correspond en 1849,
 1850 et 1852 à la somme des "sorties" ordonnances et arrêts de
-
 non-lieu, accusés jugés par les cours d'assises, prévenus jugés
 détenus par les tribunaux correctionnels.
 
@@ -21,40 +19,33 @@ l'année" et dès 1853 une note indique que la somme des sorties ne
 redonne pas ce total en raison des restes de fin d'année.
 
 A partir de 1861 les restes de l'année précédente sont intro-
-duits de facon à assurer la cohérence avec les sorties. Mais cette
+duits de façon à assurer la cohérence avec les sorties. Mais cette
 cohérence deviendra à la longue imparfaite et on a dû renoncer à
-
 la faire figurer dans cette base.
+
 Quand apparaît le flagrant délit en 1863, l'intitulé de la
-
 rubrique reste inchangé. Mais, bien qu'elle figure dans le tableau
-concernant l'instruction. 1a série PDPECROU intèqre les prévenus
-
-arrêtés dans 1a cadre de cette procédure . A partir de 1930, on ne
+concernant l'instruction, la série PDPECROU intègre les prévenus
+arrêtés dans la cadre de cette procédure . A partir de 1930, on ne
 peut plus retrouver leur nombre (cf. PCORFLAG).
 
 Les valeurs sont manquantes de 1948 à 1951.
 
 De 1952 à 1974, on retrouve le même libellé de rubrique que
-
 de 1855 à 1947. Aucune mention ne figure au sujet des prévenus
-juqés en flagrant délit. ni dans le Çgmpte général. ni même dans
+jugés en flagrant délit, ni dans le Compte général, ni même dans
 les Cadres des parquets du début des années 1970 (ce n'est qu'en
-
 1977 qu'une rubrique supplémentaire sera ajoutée).
 
 En 1975 et 1976, le libellé de la colonne reste inchangé mais
 apparaît une nouvelle rubrique concernant les individus soumis à
-
-1a détention provisoire "renvoyés par la chambre d'accusation en
-vertu de l'article 215 du C.P.P." : il s'aqit des renvois devant
+la détention provisoire "renvoyés par la chambre d'accusation en
+vertu de l'article 215 du C.P.P." : il s'agit des renvois devant
 les cours d'assises avec ordonnance de prise de corps. Nous en
 avons ajouté les chiffres ici (soit 1 205 en 1975 et 393 en 1976).
-
 La rubrique disparaît ensuite.
 
 De 1977 à 1981 le relevé résulte de la sommation de deux
-
 chiffres relatifs soit aux procédures d'instruction soit aux
 mandats de dépôt du procureur de la République (flagrant délit).
 
