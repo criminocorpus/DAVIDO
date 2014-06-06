@@ -1,6 +1,6 @@
 -102-
 
-9.2.22.- APROCPAR (X46 - 1831 à 194l*).
+9.2.22.- APROCPAR (X46 - 1831 à 1941*).
 
 Nombre d'affaires jugées par les cours d'assises et
 concernant des délits de presse et des délits politiques.
@@ -9,20 +9,20 @@ Ces affaires ne sont pas incluses dans le tableau général sur
 les cours d'assises.
 
 De 1831 à 1851, les chiffres proviennent du chapitre intitulé
-"Délits de la presse et délits politiques juqés par les cours
+"Délits de la presse et délits politiques jugés par les cours
 d'assises". Les textes visés sont l'article 69 de la Charte
-(jusqu'en 1847) et la loi du 8 octobre 1830 (Compte général-de
-1825, page XV). Après 1851, les tableaux disparaissent.
+(jusqu'en 1847) et la loi du 8 octobre 1830 (Compte général de
+1836, page XV). Après 1851, les tableaux disparaissent.
 
 En 1852, les renseignements figurent en note c de la page de
 titre sur les "Tribunaux correctionnels" (page 109). Il est préci-
 sé que ces chiffres ne portent que sur le premier trimestre de
 l'année. En effet, "avant 1831, ces délits étaient soumis à la
-juridiction correctionnelle, qui en a été saisie de nouveau. par
-les décrets des 31 décembre 1851 et 22 février 1852" (ggmpte
-généralrdeulëâg. page L).
+juridiction correctionnelle, qui en a été saisie de nouveau, par
+les décrets des 31 décembre 1851 et 22 février 1852" (Compte
+général de 1850, page L).
 
-De 1853 à 1869, 1a série est interrompue et les valeurs sont
+De 1853 à 1869, la série est interrompue et les valeurs sont
 donc manquantes.
 
 En 1870, les chiffres sont donnés en note de la page de titre
@@ -32,30 +32,26 @@ qui ont été jugés par les tribunaux correctionnels en 1870, par
 application des décrets des 31 décembre 1851 et 17 et
 25 février 1852, il a été jugé par la Cour d'assises de la
 Gironde, pendant le quatrième trimestre, 4 affaires de cette
-
-nature...'.
+nature...".
 
 De 1871 à 1932, le chapitre concernant ces délits réapparaît.
 En effet, ces affaires sont à nouveau soumises aux cours d'assises
-en vertu de la loi du 15 avril 1871 (çompteggénéral deg1871, page
+en vertu de la loi du 15 avril 1871 (Compte général de 1871, page
 XIII). C'est ensuite la loi du 29 juillet 1881 qui est visée
-(Commis.généra1.dsrlëêz. page XIX).
+(Compte général de 1882, page XIX).
+
 En 1894, l'augmentation est mise sur le compte "de l'application
 de la loi du 12 décembre 1893, sur les menées anarchistes, qui a
 modifié les articles 24, 25 et 49 de la loi du 29 juillet 1881, en
 ce qui concerne l'apologie des faits qualifiés crimes. L'article 1
 de la loi du 28 juillet 1894 a rétabli les règles de la compétence
 et transféré à la juridiction correctionnelle le jugement des
-délits de cette catégorie" (Rapportgau Présidentnde lagRépubligug
-française sur l'administration de-la Justice criminelle de 1881 à
-
-1900, Comptemgénéral de 1999, page XL).
-
- 
+délits de cette catégorie" (Rapport au Président de la République
+française sur l'administration de la Justice criminelle de 1881 à
+1900, Compte général de 1900, page XL).
 
 De 1933 à 1941, les chiffres sont donnés en note au bas du
-tableau "Nombre d'accusations et d'accusés juqés dans chaque
-
+tableau "Nombre d'accusations et d'accusés jugés dans chaque
 département". Le renseignement disparaît définitivement du Compte
 général après 1941.
 

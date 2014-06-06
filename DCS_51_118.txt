@@ -2,13 +2,12 @@
 
 Cette série est interrompue après 1978. En effet le mode
 d'exploitation informatique a été considérablement modifié et ne
-
-permet pas de 1a prolonger de façon pertinente.
+permet pas de la prolonger de façon pertinente.
 
 Les mineurs, y compris ceux envoyés en correction (voir
 PMAISONC), sont inclus dans cette statistique jusqu'en 1951. Puis
-
 seuls les majeurs sont pris en compte.
+
 On a donc la cohérence PCONCOR = somme(PPRISON,PAMENDE).
 
 On notera enfin qu'en raison des amnistiés, les années 1969
@@ -23,44 +22,41 @@ tive de liberté (total calculé 1).
 Ces peines peuvent être accompagnées d'une peine d'amende
 dont on ne sait rien ici.
 
-Cette série n'est pas relevée mais calculée de 1a manière
+Cette série n'est pas relevée mais calculée de la manière
 suivante jusqu'en 1976 :
 
-PPRISON = somme(PEC(=lAN,PEC)1AN).
+PPRISON = somme(PEC<=lAN,PEC>1AN).
 
 A partir de 1977, elle est obtenue par sommation des rubriques
 correspondantes du tableau A.14, les ventilations par quantum
-(PEC(=1AN et PEC)1AN) ne tenant plus compte que de 1a partie ferme
+(PEC<=1AN et PEC>1AN) ne tenant plus compte que de la partie ferme
 de peines éventuellement accompagnées d'un sursis partiel.
 
-Le quantum de l'emprisonnement est donné par le gompte
+Le quantum de l'emprisonnement est donné par le Compte
 général selon des classes dont les limites varient au fil du
-temps. La seule césure que l'on retrouve sur toute 1a période est
+temps. La seule césure que l'on retrouve sur toute la période est
 supérieur à un an/inférieur ou éqal à un an. On peut cependant
 donner jusqu'en 1932 deux séries supplémentaires (inférieur à six
 jours, supérieur ou égal à cinq ans).
 
 Voir aussi PEXETOT.
 
-10.3.2.8.- PEC(6J (V137 - 1831 à 1932*).
+10.3.2.8.- PEC<6J (V137 - 1831 à 1932*).
 
 Nombre de condamnés (condamnations) à une peine d'emprison-
 nement de moins de six jours assortie ou non d'une amende.
 
 La série est relevée dans le tableau par âge jusqu'en 1904.
-
 Puis ce tableau disparaît pour ne réapparaître qu'en 1919. Les
 valeurs sont manquantes de 1905 à 1907 et relevées dans le tableau
-général de 1908 à 1913. La série est de nouveau relevée dans 1e
-
+général de 1908 à 1913. La série est de nouveau relevée dans le
 tableau par âge de 1919 à 1932.
-Les mineurs avant agi sans discernement envoyés dans une
 
+Les mineurs avant agi sans discernement envoyés dans une
 maison de correction ou une colonie pénitentiaire sont inclus dans
 cette série sauf de 1908 à 1913 (pas de tableau ventilé par âqe)
 et de 1926 à 1932 (ils sont alors classés parmi les acquittés). On
 observe cependant que dans la plupart des cas la valeur est nulle
-
 pour ce quantum.
-Cette série forme une partie de 1a suivante.
 
+Cette série forme une partie de la suivante.
