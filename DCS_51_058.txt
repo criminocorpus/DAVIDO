@@ -6,58 +6,48 @@ Affaires renvoyées devant le tribunal de police et concernant
 des contraventions des quatre premières classes.
 
 De 1961 à 1964, les chiffres sont calculés en faisant
-l'opération suivante : ACOMMTP4 = ACOMMUTP-ACOMMTPS.
-En 1965, 1e renseignement est donné en note au bas du
+l'opération suivante : ACOMMTP4 = ACOMMUTP-ACOMMTP5.
 
+En 1965, le renseignement est donné en note au bas du
 tableau.
-De 1966 à 1977. le chiffre a été calculé de la même manière
 
+De 1966 à 1977, le chiffre a été calculé de la même manière
 que pour la période 1961-1964.
-A partir de 1978. nous avons procédé comme pour la série
 
-ACOMMTPS.
+A partir de 1978, nous avons procédé comme pour la série
+ACOMMTP5.
 
-sans. neuraui lapar 1e ministère
+6.2.- Etat des affaires laissées sans poursuites par le minitère
+public et motifs de ces décisions.
 
-Menu... m- - na-vw v... . n...  N... -cw. . ... u... ........A........ .Ù. a-..
-
-6.2,- Etat des affaire la'sséeg
-e .
-
- 
-
-6L3.1.- Généralités.
+6.2.1.- Généralités.
 
 Ces séries ont été relevées dans le tableau intitulé
-
-"Affaires laissées sans poursuites par 1e Ministère public et
+"Affaires laissées sans poursuites par le Ministère public et
 motifs de cette détermination". Ce tableau disparaît après 1932.
 
-Les affaires sont distinquées, d'une part. selon qu'elles
-
+Les affaires sont distinquées, d'une part, selon qu'elles
 concernent des crimes ou délits et d'autre part, selon les motifs
 des abandons de poursuite.
 
 Les motifs de classement sont ventilés selon une nomenclature
-
 établie à des fins statistiques en se référant à des catégories
 juridiques. Le lien entre les deux ordres reste néanmoins flou
-
 (DAVIDOVITCH (1970) et DAVIDOVITCH et BOUDON (1964)) et aucune
 hiérarchie entre les modalités n'est prévue.
 
 Majeurs et mineurs sont confondus sur toute la période sans
-qu'il soit possible de les distinquer.
+qu'il soit possible de les distinguer.
 
 On peut vérifier les égalités suivantes :
 
-ATOTCLAS = somme(ANICNIDl.AINCONNl,APAGRAV1,AMENTÀL1.AINSUFF1.AAUTRE
-= somme(ACLASCRI,ACLASDEL).
+ATOTCLAS = somme(ANICNIDl,AINCONNl,APAGRAV1,AMENTAL1,AINSUFF1,AAUTRE1)
+         = somme(ACLASCRI,ACLASDEL).
 
-5.2.2.- Les séries de 1a base.
+6.2.2.- Les séries de la base.
 
 6.2.2.1.- ACLASCRI (X10 - 1831 à 1932).
 
-"Affaires sans suite présentant dans 1e principe, le
+"Affaires sans suite présentant dans le principe, le
 caractère de crime".
 
