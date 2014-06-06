@@ -16,18 +16,16 @@ De 1907 à 1909, les cohérences ne sont plus respectées par
 les Comptes généraux eux-mêmes.
 
 En 1910, ADEFEXEC représente une partie de ACORRDEF non
-comprise dans ADEFNOOP et ADEFSIGN. l'intitulé reste cependant
+comprise dans ADEFNOOP et ADEFSIGN, l'intitulé reste cependant
 inchangé. C'est donc la cohérence qui chanqe.
 
-Pour 1a période allant de 1910 à 1932 (à l'exception de 1912,
-année pour laquelle 1a cohérence n'est pas respectée et aucune
-
+Pour la période allant de 1910 à 1932 (à l'exception de 1912,
+année pour laquelle la cohérence n'est pas respectée et aucune
 correction ne semble possible) on peut songer à réinclure cette
 série dans ADEFNOOP et ADEFSIGN. Bien que les intitulés soient
-
 bizarres, c'est le choix que nous avons fait.
 
-10.3.2.29.- ADEFOPPO (D8 n 1856 à 1932*).
+10.3.2.29.- ADEFOPPO (D8 - 1856 à 1932*).
 
 Nombre de jugements par défaut prononcés par les tribunaux
 correctionnels qui ont été signifiés puis "suivis d'opposition".
@@ -35,7 +33,7 @@ correctionnels qui ont été signifiés puis "suivis d'opposition".
 La série est relevée de 1856 à 1932 mais le renseignement est
 manquant de 1905 à 1909.
 
-Ces juqements sont ventilés dans la note entre "maintenus" et
+Ces jugements sont ventilés dans la note entre "maintenus" et
 "rapportés ou modifiés". Seul le premier chiffre a fait l'objet
 d'un relevé (cf. ADEFMAIN).
 
@@ -48,6 +46,6 @@ Cette série est relevée de 1856 à 1932 mais le renseignement
 manque de 1905 à 1909.
 
 En soustrayant cette série de la précédente, on obtient le
-nombre de juqements "suivis d'opposition" qui ont été "rapportés
+nombre de jugements "suivis d'opposition" qui ont été "rapportés
 ou modifiés".
 

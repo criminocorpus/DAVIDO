@@ -1,14 +1,12 @@
 -135-
 
-re ou égale à la durée de détention avant juqement. La condamna-
+re ou égale à la durée de détention avant jugement. La condamna-
 tion n'implique donc pas une prolongation de leur détention et la
-
 peine est réputée exécutée.
-De fait, il s'agit sans doute des condamnés détenus au moment
 
+De fait, il s'agit sans doute des condamnés détenus au moment
 du jugement, remis en liberté de cette facon puisqu'on observe la
 cohérence suivante : PDPEMPRI = PEXEDPFE+PEXEDPIM+PEXEDPSU. Cette
-
 cohérence a d'ailleurs été utilisée pour quelques années afin
 d'estimer PDPEMPRI.
 
@@ -19,46 +17,37 @@ jugement n'a pas été mis à exécution.
 
 De 1831 à 1856, ce chiffre est donné par une note rédiqée
 comme suit : "Les jugements qui condamnaient ces ... prévenus à
-
 l'emprisonnement n'ont pas été exécutés par suite du décès des
-condamnés, de qrâce ou de transaction avec l'administration publi-
-
+condamnés, de grâce ou de transaction avec l'administration publi-
 que poursuivante".
+
 A partir de 1857, la note donne les chiffres pour ces trois
-
 rubriques, puis à partir de 1865, on trouve dans le tableau les
-trois colonnes suivantes : "décédés", "qrâciés", non écroués "par
-
+trois colonnes suivantes : "décédés", "grâciés", non écroués "par
 suite de transaction avec l'administration poursuivante". Nous
 avons additionné manuellement ces diverses rubriques lors de la
-
 saisie.
 
-12.2.8L- anssrop (Y16 - 1831 à 1942*).
+12.2.8- PEXESTOP (Y16 - 1831 à 1942*).
 
 Nombre des prévenus condamnés à l'emprisonnement et non
 écroués car en fuite ou pour d'autres motifs que ceux énumérés
-
 dans PEXEGRAC.
 
 En 1865, apparaît la rubrique "en fuite", d'abord en note du
-
 chiffre "non encore écroués" ("dont ..."), puis dans une colonne
 distincte. A partir de 1867, nous avons additionné manuellement
-
 "en fuite" et non encore écroués "pour autres motifs".
+
 La rubrique "pour autres motifs" comprend l'amnistie mention-
-
-née pour la première fois' en 1906. On peut releVer, pour les
-
-années où ils sont les plus importants. les chiffres suivants .
+née pour la première fois en 1906. On peut relever, pour les
+années où ils sont les plus importants. les chiffres suivants :
 2 160 en 1906, 1 268 en 1907, 989 en 1909, 140 en 1910. 1 053 en
-
 1911, 3 917 en 1922.
-Pour avoir le total des non écroués pour d'autres motifs que
 
+Pour avoir le total des non écroués pour d'autres motifs que
 le sursis, il convient donc de faire l'opération suivante :
-somme(PEXESTOP.PEXEGRAC).
+somme(PEXESTOP,PEXEGRAC).
 
 12.2.9.- PEXEFUIT (Y17 - 1865 à 1942*).
 

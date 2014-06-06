@@ -4,7 +4,6 @@
 
 Nombre de jugements rendus par défaut par les tribunaux
 correctionnels "en matière de contraventions fiscales. forestières
-
 et autres".
 
 La mention des contraventions fiscales n'apparaît qu'à partir
@@ -14,15 +13,14 @@ de 1899.
 
 Nombre de jugements par défaut prononcés par les tribunaux
 correctionnels "non signifiés par suite de l'acquiescement des
-
 condamnés".
 
-En 1895, 1896 et 1904 1a cohérence
-ACORRDEF = ADEFNOSI+ADEFSIGN n'est pas respectée par les Çomptes
+En 1895, 1896 et 1904 la cohérence
+ACORRDEF = ADEFNOSI+ADEFSIGN n'est pas respectée par les Comptes
 généraux, mais on a pu régler le problème en rectifiant ADEFNOSI.
 
-Les valeurs saisies dans 1a base diffèrent donc de celles qui
-apparaissent dans les çgmptes générauë pour ces années.
+Les valeurs saisies dans la base diffèrent donc de celles qui
+apparaissent dans les Comptes généraux pour ces années.
 
 10.3.2.26.- ADEFSIGN (D5 - 1856 à 1932).
 
@@ -31,17 +29,16 @@ correctionnels qui "ont été signifiés".
 
 Ces chiffres sont ventilés selon que les jugements ont ou
 n'ont pas été frappés d'opposition et on a ainsi la concordance
-
 suivante : ADEFSIGN = somme(ADEFNOOP,ADEFOPPO).
 
-Les Çgmptes générauë ne respectent pas toujours cette concor-
+Les Comptes généraux ne respectent pas toujours cette concor-
 dance. C'est le cas en 1867 et 1885, mais le problème a pu être
-réqlé en modifiant les valeurs de ADEFSIGN, ce qui explique les
+réglé en modifiant les valeurs de ADEFSIGN, ce qui explique les
 écarts entre les valeurs saisies dans la base et celles publiées
-dans les Comptes généraug. En 1876, c'est en modifiant la valeur
-
+dans les Comptes généraux. En 1876, c'est en modifiant la valeur
 de ADEFNOOP que nous avons réglé ce problème de concordance.
-Par ailleurs, en 1905. 1e çgmptgp*général donne le même
+
+Par ailleurs, en 1905. le Compte général donne le même
 
 chiffre pour ACORRDEF et ADEFSIGN. Afin de respecter la cohérence
 ACORRDEF = ADEFNOSI+ADEFSIGN. nous avons donc rectifié la valeur
@@ -55,13 +52,11 @@ non suivis d'opposition".
 
 Cette série est relevée de 1856 à 1932 en note du tableau
 d'activité des tribunaux correctionnels ventilé par types
-
 d'infractions.
 
-Elle est interrompue entre 1905 et 1909-
+Elle est interrompue entre 1905 et 1909.
 
 En 1876, la valeur saisie dans la base diffère de celle
-publiée dans 1e çgmpteppgénéral afin de rétablir la cohérence
-
+publiée dans le Compte général afin de rétablir la cohérence
 ADEFSIGN = ADEFNOOP+ADEFOPPO.
 
