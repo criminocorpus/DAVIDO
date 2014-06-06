@@ -1,68 +1,56 @@
 -133-
 
-12.- Exngggrpn pas PEINES D'EMPRISONËEMENEL
+12.- EXECUTION DES PEINES D'EMPRISONNEMENT
 
-1M,1.- Généralités;
+12.1.- Généralités.
 
- 
-
- 
-
-L'ensemble de ces séries est relevé de 1831 à 1942. d'abord
-
+L'ensemble de ces séries est relevé de 1831 à 1942, d'abord
 dans un tableau intitulé "Durée des procédures criminelles -
 Tribunaux correctionnels - Cours et tribunaux d'appels...", le
-plus souvent dans 1a partie "Exécution des jugements correction-
+plus souvent dans la partie "Exécution des jugements correction-
 nels", puis, à partir de 1886 dans une note fiqurant au bas du
-tableau intitulé "Résultat des poursuites eu éqard à l'âqe et au
+tableau intitulé "Résultat des poursuites eu égard à l'âge et au
 sexe des prévenus". Il concerne les individus condamnés à l'empri-
-
 sonnement.
 
 Ces chiffres manquent pour 1935.
 
-1242.- Les séries de-la base.
+12.2.- Les séries de la base.
 
 12.2.1.- PEXETOT (Y12 - 1831 à 1942*).
 
 Total des prévenus condamnés à l'emprisonnement par les
 tribunaux correctionnels (total calculé 2).
 
-De 1831 à 1890. PEXETOT PEXEFERM.
-De 1891 à 1942. PEXETOT PEXEFERM+PEXESURS.
+De 1831 à 1890, PEXETOT = PEXEFERM.
+De 1891 à 1942, PEXETOT = PEXEFERM+PEXESURS.
 
 Jusqu'en 1885, cette série est relevée. Elle correspond au
 total des condamnations à l'emprisonnement du tableau "Résultat
-
 des poursuites...". C'est-à-dire qu'on a PEXETOT = PPRISON.
+
 A partir de 1886, elle correspond à la somme des écroués et
-
 des non écroués. Elle est égale au total du tableau correspondant,
-sauf en 1941 (Relevé = Calculé, Total = 197 578) et en 1942 (idem.
-
+sauf en 1941 (Relevé = Calculé, Total = 197 578) et en 1942 (idem,
 Total = 205 734).
-A partir de 1926, les mineurs envovés en colonie péniten-
 
+A partir de 1926, les mineurs envoyés en colonie péniten-
 tiaire ne sont pas compris.
 
 12.2.2.- PEXESURS (Y14 - 1891 à 1942*).
 
 Nombre des prévenus condamnés à l'emprisonnement non écroués
 "par suite de sursis à l'exécution de la peine" (avec ou sans
-
 détention préventive).
 
 En 1891 et 1892, les chiffres fournis par le Compte général
-
 ne concernent que les sursis prononcés sans détention préalable.
 On a réintroduit dans cette série les sursis prononcés après
-
 détention préventive tels qu'on peut les déduire d'après les
-cohérences avec la série PSUCOEMP (cf. PEXEDPSU). soit
+cohérences avec la série PSUCOEMP (cf. PEXEDPSU), soit
 5 810 + 1 552 = 7 362 en 1891 et 9 791 + 1 147 = 10 938 en 1992.
 
 A partir de 1893, on a sommé les rubriques "par suite de
-
 sursis sans détention préalable" et "par sursis après détention
-préventive". cette dernière étant relevée en PEXEDPSU.R On peut
+préventive", cette dernière étant relevée en PEXEDPSU. On peut
 
