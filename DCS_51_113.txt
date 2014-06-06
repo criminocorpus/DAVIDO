@@ -6,7 +6,6 @@
 administration ou d'un établissement public acquittés".
 
 En 1837, on rencontre une valeur aberrante (ou présentant un
-
 écart inexpliqué avec les valeurs des années précédentes ou
 suivantes) : 10 262 prévenus.
 
@@ -24,8 +23,9 @@ A partir de 1891, le sursis est compris.
 tration ou d'un établissement public condamnés à l'amende
 (seulement)".
 
-En 1927. il y a une erreur d'impression dans le Compte
+En 1927, il y a une erreur d'impression dans le Compte
 général et il faut lire 3 995 au lieu de 3 955.
+
 10.2.2.16.- PPCRELA (Y26 - 1831 a 1932).
 
 "Nombre des prévenus poursuivis à la requête d'une partie
@@ -40,7 +40,7 @@ A partir de 1891, le sursis est compris.
 
 10.2.2.18.- PPCAMEN (Y28 - 1831 à 1932).
 
-"Nombre des prévenus poursuivis a la requête d'une partie
+"Nombre des prévenus poursuivis à la requête d'une partie
 civile condamnés à l'amende (seulement)".
 
 En 1920, il y a une erreur d'impression dans le Compte

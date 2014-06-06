@@ -6,15 +6,14 @@ Nombre de condamnés (condamnations) à une peine d'amende
 seulement.
 
 En 1963, le chiffre diffère de ce qu'on peut relever dans le
-ngpte général, une erreur d'impression a en effet dû être recti-
+Compte général, une erreur d'impression a en effet dû être recti-
 fiée a posteriori.
 
 Cette série comprend les amendes avec sursis à partir de 1891
-
 (voir PSUCOAME dans le chapitre sur les sursis).
-A partir de 1976, la série n'est plus relevée mais calculée à
 
-partir des rubriques correspondantes du tableau çgmpte général.
+A partir de 1976, la série n'est plus relevée mais calculée à
+partir des rubriques correspondantes du tableau Compte général.
 
 10.3.2.13.- ATOTSPE (X43 - 1831 à 1954).
 
@@ -23,50 +22,32 @@ les tribunaux correctionnels.
 
 Ces affaires font l'objet d'un paragraphe à part à 1a fin de
 1a liste des infractions du tableau "Délits jugés par les tribu-
-
 naux correctionnels - Mode et résultat des poursuites". Ce sont en
 fait des contraventions punies de peines correctionnelles supé-
 rieures à celles de simple police et donc jugées par les tribunaux
-
 correctionnels.
 
 La série (ainsi que les séries PSPEPREV à PSPEAMEN) ne peut
 être prolongée au delà de 1954.
 
 Selon les années, le contenu du sous-ensemble des délits
-spéciaux varie. On y trouve les rubriques suivantes z
-
+spéciaux varie. On y trouve les rubriques suivantes :
 - "instruction publique", de 1831 à 1842 ;
-
 - "contributions indirectes (boissons, garantie, allumettes...)",
-de 1831 à 1954 7
-
+de 1831 à 1954 ;
 - "douanes", de 1831 à 1954 ;
-
-* "octrois", de 1831 à 1954 (à l'exception de 1951) 7
-
+- "octrois", de 1831 à 1954 (à l'exception de 1951) ;
 - "garantie matières d'or et d'argent", en 1831 et 1832 ;
-- "eaux et forêts", de 1831 à 1865 :
-
-- "pêche", de 1831 à 1907 :
-
-- "forêts", de 1866 à 1954 F
-
-- "pèche fluviale", de 1908 à 1954 ;
-
-- "pêche et navigation maritime"r de 1908 à 1954 ;
-
+- "eaux et forêts", de 1831 à 1865 ;
+- "pêche", de 1831 à 1907 ;
+- "forêts", de 1866 à 1954 ;
+- "pêche fluviale", de 1908 à 1954 ;
+- "pêche et navigation maritime", de 1908 à 1954 ;
 - "lois et réglementation maritimes", de 1831 à 1907 (à
 l'exception de 1832) :
-
 - "lois et réglementation maritimes et sanitaires", en 1832 :
-
 - "postes, de 1831 à 1850 ;
-
 - "usage d'un timbre poste déjà usagé" (lois du 16 octobre 1849 et
-
-du 11 juin 1859), de 1851 à 1910 7
-- "autres contraventions en matière de postes", de 1851 à 1910 :
-
-- "enregistrement", en 1842 :
-
+du 11 juin 1859), de 1851 à 1910 ;
+- "autres contraventions en matière de postes", de 1851 à 1910 ;
+- "enregistrement", en 1842 ;
