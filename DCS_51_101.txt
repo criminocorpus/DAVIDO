@@ -11,9 +11,9 @@ selon les périodes :
 rectionnelles". De 1832 à 1835, nous n'avons pas tenu compte des
 "individus placés sous la surveillance de la haute police sans au-
 tre peine (art. 100 du C.P.)", bien que la colonne correspondante
-apparaisse du côté des condamnés. Il s'aqit de personnes accusées
+apparaisse du côté des condamnés. Il s'agit de personnes accusées
 de crimes politiques (cf. PACQUIT) ;
-- de 1838 à 1932, 1a rubrique éclate en deux colonnes intitulées
+- de 1838 à 1932, la rubrique éclate en deux colonnes intitulées
 "emprisonnement supérieur à 1 an" et "emprisonnement de 1 an ou
 moins ou amende", que l'on a additionnées ;
 - de 1933 à 1952, on a de nouveau une colonne unique "peines cor-
@@ -26,7 +26,7 @@ et "non mentionnées" ;
 - à partir de 1976, on a additionné les trois rubriques concernant
 l'emprisonnement.
 
-Sont comptés dans cette rubrique les individus mineurs âqés
+Sont comptés dans cette rubrique les individus mineurs âgés
 de plus de 13 ans (ou mineurs de plus de 16 ans mais ayant béné-
 ficié de circonstances atténuantes) condamnés dans 1e cas prévu
 par l'article 67 du C.P. Par ailleurs, nous avons ajouté dans

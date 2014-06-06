@@ -16,9 +16,9 @@ Nombre de condamnés (condamnations) à une peine de "carcan".
 
 Des chiffres ne sont disponibles que pour les années 1831 et
 1832. En effet, cette peine, ainsi que l'exposition et la marque a
-été supprimée en 1832 (i1 est cependant curieux de constater que
+été supprimée en 1832 (il est cependant curieux de constater que
 l'exposition publique est encore mentionnée comme peine accessoire
-alors en vigueur dans 1e rapport du Compte général de 1840 en page
+alors en vigueur dans le rapport du Compte général de 1840 en page
 XIII).
 
 9.2.16.- PBANNI (V5 - 1831 à 1871*).
@@ -31,12 +31,12 @@ On ne dispose de chiffres que pour les années 1831, 1834,
 
 9.2.17.- PDEGRADE (V7 - 1838 à 1924*).
 
-Nombre de condamnés (condamnations) à la "déqradation
+Nombre de condamnés (condamnations) à la "dégradation
 civique", accompagnée ou non d'une peine d'emprisonnement.
 
 La dégradation civique est une peine criminelle infamante.
 Elle "fonctionne rarement comme peine principale. Elle est appli-
-quée à un petit nombre de crimes politiques de qravité secondaire
+quée à un petit nombre de crimes politiques de gravité secondaire
 (C. pén., art. 111, 114, 119, 122, 126, 127, 130) et à quelques
 crimes de droit commun, tels certains cas de forfaiture (art. 167
 et 183)" (in DALLOZ, Code Pénal, sous article 8) ; c'est cependant

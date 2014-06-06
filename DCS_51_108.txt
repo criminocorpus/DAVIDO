@@ -22,13 +22,13 @@ et il s'agit en principe de décisions définitives. Ce n'est qu'en
 nes séries de condamnations (voir PCONDCOR).
 
 La seule exception concerne le mode de jugement. En cas de
-jugement par défaut suivi d'opposition dans l'année, la même rèqle
+jugement par défaut suivi d'opposition dans l'année, la même règle
 s'applique : seule la seconde décision est prise en compte. En
 revanche, lorsque le jugement revient sur opposition dans une
 année ultérieure, il est compté une première fois comme jugement
 par défaut, puis pour une autre année, comme jugement sur opposi-
 tion : c'est la série AOLDOPPO qui mesure l'ampleur de ces doubles
-comptes. au demeurant fort limités.
+comptes, au demeurant fort limités.
 
 En 1882, on voit apparaître en note au bas du tableau croisé
 avec les types d'infractions, le nombre des "arrêts ou jugements
