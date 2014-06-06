@@ -1,64 +1,57 @@
 -101-
 
 En 1933, ce tableau disparaît et le relevé est fait dans
-celui par âqe, 1a rubrique des "peines correctionnelles" distin-
-
+celui par âge, la rubrique des "peines correctionnelles" distin-
 guant celles de "plus d'un an d'emprisonnement" de celles de "un
-
 an et moins ou l'amende".
+
 Ensuite le renseignement disparaît.
 
 En 1872, les peines égales à un an sont exclues.
 
-9.2.20.u PEA)1AN (V135 - 1831 à 1933).
+9.2.20.- PEA>1AN (V135 - 1831 à 1933).
 
 Nombre de condamnés (condamnations) à des peines criminelles
 privatives de liberté supérieures à un an.
 
 Nous n'avons pas tenu compte ici des peines perpétuelles.
 
-Jusqu'en 1932, cette série a été relevée de 1a même manière
+Jusqu'en 1932, cette série a été relevée de la même manière
+que PEA<=1AN.
 
-que PEA(=1AN.
-En 1933, elle est calculée à partir du tableau par âqe en
-
+En 1933, elle est calculée à partir du tableau par âge en
 additionnant les "travaux forcés à temps", la "réclusion" et les
-
 "peines corrrectionnelles" de plus d'un an.
-Elle ne peut être prolongée au delà de 1933, la durée des
 
+Elle ne peut être prolongée au delà de 1933, la durée des
 peines correctionnelles n'étant plus indiquée.
 
 Nous avons compté dans cette rubrique les détentions crimi-
-
 nelles dont le quantum n'était pas précisé.
-En 1872, les peines d'une durée d'un an sont comptées dans
 
+En 1872, les peines d'une durée d'un an sont comptées dans
 cette série.
 
-9.2.21.- PEA)=5AN (V136 - 1831 à 1932).
+9.2.21.- PEA>=5AN (V136 - 1831 à 1932).
 
 Nombre de condamnés (condamnations) à des peines criminelles
-privatives de liberté supérieures ou éqales à cinq ans.
+privatives de liberté supérieures ou égales à cinq ans.
 
 Nous n'avons pas tenu compte ici des peines perpétuelles.
 
-Cette série est une partie de PEA)1AN. Elle a été relevée de
+Cette série est une partie de PEA>1AN. Elle a été relevée de
 la même manière que les deux précédentes. Elle ne peut être pro-
 longée au delà de 1932, le quantum des peines correctionnelles
-
 étant seul précisé ensuite (en 1933).
 
-En 1861.- un condamné à une peine de réclusion de 4 ans (C.P.
-
+En 1861, un condamné à une peine de réclusion de 4 ans (C.P.
 sarde) a été inclus.
-Deux condamnés à 1a détention criminelle pour lesquels 1a
 
+Deux condamnés à la détention criminelle pour lesquels la
 durée de la peine n'était pas précisée ont été comptés dans cette
-rubrique en 1864, de même pour un en 1868r quatre en 1913 et
-
+rubrique en 1864, de même pour un en 1868, quatre en 1913 et
 quinze en 1921.
-En 1922. nous avons compté ici les six sexaqénaires pour les-
 
+En 1922. nous avons compté ici les six sexagénaires pour les-
 quels la durée de la peine de réclusion n'avait pas été précisée.
 
