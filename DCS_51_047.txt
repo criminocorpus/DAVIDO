@@ -2,46 +2,40 @@
 
 Cependant en 1908, apparaît, dans le tableau, une rubrique
 concernant les impôts et les douanes. On trouve par ailleurs dans
-
 certaines circulaires, mention d'enregistrements de procès-
 verbaux constatant des contraventions qui sont de la compétence
-des tribunaux de simple police (circulaire du 3D décembre 1905) ou
+des tribunaux de simple police (circulaire du 30 décembre 1905) ou
 de la possibilité de poursuites exercées par le parquet en matière
 forestière (circulaire du 5 décembre 1859 portant application de
 la loi du 18 juin 1859) : on ne sait pas si dans ce dernier cas il
-
 y avait un enregistrement statistique, ni sous quelle rubrique.
 
 Les affaires concernant les majeurs et les mineurs sont
-
 confondues sur toute la période sans qu'il soit possible de les
 distinguer.
 
 Le total des séries décrites ci-après correspond à une
-
 ventilation de la série ATOTPARQ (décrite dans le chapitre
 suivant) et on a l'éqalité suivante :
 
-ATOTPÀRQ = somme(APVRESTE,ANOUVMP,ANOUVJI,ATOTORPV).
+ATOTPARQ = somme(APVRESTE,ANOUVMP,ANOUVJI,ATOTORPV).
 
 5.2.- Les séries de la base.
 
- 
-
 5.2.1.- APVRESTE (V83 - 1831 à 1932).
 
-"Plaintes,dénonciations et procéseverhaux antérieurs à
+"Plaintes, dénonciations et procés-verbaux antérieurs à
 l'année du compte" et demeurés sans traitement au 31 décembre de
 l'année précédente.
 
 5.2.2.- ANOUVMP (V84 - 1831 à 1932).
 
-"Plaintes,dénonciations et procès-verbaux reçus directement
+"Plaintes, dénonciations et procès-verbaux reçus directement
 pendant l'année par le ministère public".
 
 5.2.3.- ANOUVJI (V85 - 1831 à 1932).
 
-"P1aintes,dénonciations et procès-verbaux reçus directement
+"Plaintes,dénonciations et procès-verbaux reçus directement
 pendant l'année par les juges d'instruction".
 
 5.2.4.- ATOTORPV (V100 - 1831 à 1932).
@@ -49,9 +43,8 @@ pendant l'année par les juges d'instruction".
 Total des affaires transmises pendant l'année au ministère
 public.
 
-Cette série est calculée et correspond à 1a somme des séries
+Cette série est calculée et correspond à la somme des séries
 qui suivent, soit :
-ATOTORPV = somme(AGENDARM.APOLICE,APOLICOM,APOLIMOB,APOLIFER,
-AJUGE,AMAIRE,ACHAMPET,APONPECH,APARTIC,
-AIMPDOUA.AORPVALT).
-
+ATOTORPV = somme(AGENDARM,APOLICE,APOLICOM,APOLIMOB,APOLIFER,
+                 AJUGE,AMAIRE,ACHAMPET,APONPECH,APARTIC,
+                 AIMPDOUA,AORPVALT).

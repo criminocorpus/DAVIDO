@@ -1,8 +1,7 @@
 -44-
 
 Ce n'est qu'à partir de 1907 pour les effectifs, de 1908 pour
-les affaires, que les titres des rubriques du Çgmpte général
-
+les affaires, que les titres des rubriques du Compte général
 deviennent simplement "Gardes-pêche".
 
 En matière de pêche, d'autre agents ont également compétence
@@ -17,42 +16,37 @@ dans NPARTIC.
 De 1843 à 1862, cette série compte à la fois "gardes
 forestiers et gardes-pêche".
 
-De 1363 à 1932, seuls les "gardes forestiers de tous grades"
+De 1863 à 1932, seuls les "gardes forestiers de tous grades"
 sont comptés.
 
-La rubrique n'existe pas dans le Comptepgénéraladew1842.
+La rubrique n'existe pas dans le Compte général de 1842.
 
 Le changement dans le mode de comptage en 1863 s'explique par
-1a loi du 29 avril 1862 qui a "transféré à l'administration des
+la loi du 29 avril 1862 qui a "transféré à l'administration des
 Ponts et Chaussées la surveillance de la pêche fluviale" (page LVI
-du Rapport. -au. ËLË.ËEÏ*ÊÊ llralllépublique "sur. 1 ' administramtirmw de
+du Rapport au Président de la République sur l'administration de
 la Justice criminelle en France de 1826 à 1880). Auparavant, "Les
 gardes-pêche nommés par l'administration sont assimilés aux gardes
 forestiers royaux" (Loi du 15 avril 1829, article 37).
 
-Les qardes forestiers sont compétents en matière de circula-
-
-tion routière (loi du 30 mai 1851. article 15).
+Les gardes forestiers sont compétents en matière de circula-
+tion routière (loi du 30 mai 1851, article 15).
 
 4.2.12.- NDOUANE (V36 - 1843 à 1907).
 
 Nombre de "douaniers".
 
-Cette rubrique n'apparaît pas dans le Çgmpte généraludeâ1842.
+Cette rubrique n'apparaît pas dans le Compte général de 1842.
 
-En 1871, 1a valeur donnée par 1a ville de Paris est aberrante
+En 1871, la valeur donnée par 1a ville de Paris est aberrante
 (21 876), nous avons choisi de ne pas en tenir compte et nous
-
 obtenons alors un total de 21 501 douaniers sur l'ensemble de la
 métropole pour cette année (43 377 - 21 876) ; pour cette période
 on peut relever les valeurs suivantes à Paris : 181 en 1868, 180
 en 1869, manquante en 1870, 440 de 1872 à 1874.
 
- 
-
 Les douaniers sont compétents en matière de douane mais
 également en matière de circulation des boissons (loi du
-21 juin 1873), de pèche maritime (article 16 du décret-loi du
+21 juin 1873), de pêche maritime (article 16 du décret-loi du
 9 janvier 1852 et décret du 23 septembre 1922), de circulation
 routière (loi du 30 mai 1851, article 15).
-
