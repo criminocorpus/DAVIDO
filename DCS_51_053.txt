@@ -1,28 +1,25 @@
 -52-
 
-6.1.2.2.- ACOMHUJI (V47 - 1831 à 1981).
+6.1.2.2.- ACOMMUJI (V47 - 1831 à 1981).
+
 Affaires "communiquées aux juges d'instruction".
 
 De 1959 à 1964, les chiffres de la base diffèrent de ceux
-qu'on peut observer dans les tableaux des comptespgénéraux.
-L'explication en est donnée page XI du Rapport du çpmptgpgénéral
-dgp1965 : "En ce qui concerne les affaires soumises aux juges
+qu'on peut observer dans les tableaux des Comptes généraux.
+L'explication en est donnée page XI du Rapport du Compte général
+de 1965 : "En ce qui concerne les affaires soumises aux juges
 d'instruction, il convient d'observer que de 1959 à 1964
 figuraient dans ce nombre les transmissions diverses aux juges
 d'instruction du tribunal de grande instance de la Seine. Sans
-compter ces diligences variées,les chiffres sont les
-
-suivants..." : ce sont les chiffres cités dans cette note que nous
+compter ces diligences variées, les chiffres sont les
+suivants..." ; ce sont les chiffres cités dans cette note que nous
 avons relevés.
 
 La concordance entre cette série et le nombre des ordonnances
 de la chambre du Conseil était demandée dans les Cadres au moment
-
 de leur mise en place mais contestée par certains parquets
-
 "attendu qu'il est quelquefois arrivé que dans des affaires très
 simples, on citait directement en police correctionnelle après
-
 instruction préalable sans ordonnance de la chambre du conseil"
 (lettre du procureur général près la cour d'appel de Pau au
 procureur du Roi d'Orthez en date du 23 novembre 1826, lettre du
@@ -36,14 +33,13 @@ public".
 
 De 1863 à 1870, cette série est éclatée en trois rubriques
 sur les tableaux du Compte général :
-. conduite immédiate à 1a barre.
-. citation d'urgence avec mandat,
-. citation directe (C.I.C.) :
+- conduite immédiate à 1a barre,
+- citation d'urgence avec mandat,
+- citation directe (C.I.C.) ;
 c'est le total de ces trois colonnes qui a alors été saisi.
 
 En effet, après 1870, cette distinction est supprimée dans
 les Cadres des parquets (circulaire sur les statistiques du
-
 25 novembre 1871). Elle n'a donc guère d'utilité sur un temps
 aussi court, d'autant plus qu'on peut retrouver isolées les
 poursuites en "flagrant délit" dans les modes de saisine du
@@ -52,9 +48,9 @@ le chapitre 10.2).
 
 6.1.2.4.- AAUDIPC (V60 - 1831 à 1874).
 
-Affaires "portées directement a l'audience par les parties
+Affaires "portées directement à l'audience par les parties
 civiles".
 
-La série s'interrompt après 1874. la rubrique disparaissant
-alors du tableau du Comptepgépéggl. L'année suivante. le chiffre
+La série s'interrompt après 1874, la rubrique disparaissant
+alors du tableau du Compte général. L'année suivante, le chiffre
 
