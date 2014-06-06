@@ -5,52 +5,47 @@
 "Nombre des affaires terminées par des ordonnances de
 non-lieu et qui présentaient, au début de l'instruction. le
 caractère de crime".
-7.3.2.5.- ANOLIDEL (x38 - 1831 à 1932).
+
+7.3.2.5.- ANOLIDEL (X38 - 1831 à 1932).
 
 "Nombre des affaires terminées par des ordonnances de
-
 non-lieu et qui présentaient, au début de l'instruction, le
 caractère de délit".
 
-7.3.2.6.- ANICNIDZ (x32 - 1831 à 1932).
+7.3.2.6.- ANICNID2 (X32 - 1831 à 1932).
 
 "Nombre des affaires terminées par des ordonnances de
 non-lieu attendu que les faits ne constituaient ni crime, ni
 délit".
-7.3.2.7.- AINCONNZ (X34 - 1831 à 1932).
+
+7.3.2.7.- AINCONN2 (X34 - 1831 à 1932).
 
 "Nombre des affaires terminées par des ordonnances de
 non-lieu attendu que les auteurs sont restés inconnus".
-7.3.2.8.- AINSUFFZ (x33 - 1831 à 1932).
+
+7.3.2.8.- AINSUFF2 (X33 - 1831 à 1932).
 
 "Nombre des affaires terminées par des ordonnances de
-
 non-lieu attendu qu'il n'y avait pas de charges suffisantes contre
 les auteurs désignés".
 
-7.3.2.9.- AHENTAL2 (X35 - 1905 à 1932. 1966 à 1981).
+7.3.2.9.- AMENTAL2 (X35 - 1905 à 1932, 1966 à 1981).
 
-De 1905 à 193g : "Nombre des affaires terminées par des
+De 1905 à 1932 : "Nombre des affaires terminées par des
 ordonnances de non-lieu à suivre contre tous les inculpés" en
 raison de l'"état mental de l'inculpé".
-
- 
-
- 
 
 Cette rubrique n'apparaît qu'en 1905. Elle est la traduction
 statistique de la circulaire du 12 décembre 1905, dite "circulaire
 Chaumié", sur le rôle des expertises psychiatriques dans la déci-
 sion d'atténuation de culpabilité en raison de l'état mental de
-
 l'accusé ou du prévenu.
 
-agnigggma-iggg : Pour cette période. il n'existe toujours pas
+De 1966 à 1982 : Pour cette période, il n'existe toujours pas
 de ventilation des motifs de non-lieu. La série est relevée dans
-le tableau intitulé "Résultat des affaires soumises aux juqes
+le tableau intitulé "Résultat des affaires soumises aux juges
 d'instruction". Elle concerne des affaires terminées par des
 ordonnances de non-lieu au titre de l'article 64 du Code Pénal et
 sont donc déjà prises en compte dans 1a série ATOTNOLI décrite au
-
 paraqraphe 7.2.2.2.
 

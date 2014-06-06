@@ -14,8 +14,8 @@ culier les affaires passant des mains d'un juge d'instruction
 d'une juridiction à celles d'un juge rattaché à une autre juridic-
 tion, "autre" s'entendant alors géographiquement parlant.
 
-En 1923, le chiffre saisi diffère de celui fourni par 1e
-tableau du Compte général (l 725), des erreurs d'addition ont en
+En 1923, le chiffre saisi diffère de celui fourni par le
+tableau du Compte général (1 725), des erreurs d'addition ont en
 effet dû être rectifiées a posteriori (voir aussi les séries
 ARESINST et ATOTINST).
 
@@ -29,7 +29,7 @@ série ARENVTE.
 En 1957, le chiffre donné semble ne pas inclure les renvois
 devant le tribunal pour enfants.
 
-En 1960, 1e chiffre donné par le Compte général (6 297)
+En 1960, le chiffre donné par le Compte général (6 297)
 inclut les renvois devant le tribunal pour enfants dont le nombre
 n'est pas donné. Nous avons estimé ce dernier à 3 O77 (voir
 ARENVTE) et le solde à 3 220 qui est la valeur retenue pour
