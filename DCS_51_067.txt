@@ -5,37 +5,31 @@ faveur des tribunaux militaires sont inclus (1954 à 1968, 1970) ou
 non (1969, 1971 à 1976) dans la série et la part qu'ils
 représentent :
 
-1954 : 45 1961 : 74 1968 : 39 1975 : 295
-1955 : 39 1962 : 358 1969 z 207 1976 : 226
-1956 : 85 1963 : 132 1970 : 209 1977 : 2
-1957 : - 1964 z 128 1971 : 279 1978 : 2
-1958 : 57 1965 : 72 1972 : 397 1979 : 4
-1959 : - 1966 : 41 1973 : 252 1980 : 8
-1960 : - 1967 z 56 1974 : 136 1981 : 2.
+1954 : 45    1961 :  74    1968 :  39    1975 : 295
+1955 : 39    1962 : 358    1969 : 207    1976 : 226
+1956 : 85    1963 : 132    1970 : 209    1977 :   2
+1957 :  -    1964 : 128    1971 : 279    1978 :   2
+1958 : 57    1965 :  72    1972 : 397    1979 :   4
+1959 :  -    1966 :  41    1973 : 252    1980 :   8
+1960 :  -    1967 :  56    1974 : 136    1981 :   2.
 
 Pour les années 1969 et 1971 à 1976, nous les avons ajoutés à
 la série. De même, de 1977 à 1981, ils n'étaient pas comptés mais
 nous les avons calculés à partir des Cadres et nous les avons
 réintroduits dans cette série.
 
- 
-
 7.2.2.10.- ARESINST (V69 - 1831 à 1981).
 
-Affaires "non réglées" restant entre les mains des juqes
+Affaires "non réglées" restant entre les mains des juges
 d'instruction "le 31 décembre" de l'année du compte.
 
 En 1923, le chiffre diffère de celui qu'on pourrait relever
-dans le çgmpte qénéral (13 899) qui comportait des erreurs
-
+dans le Compte général (13 899) qui comportait des erreurs
 d'addition que nous avons rectifiées.
 
-làâàzmngtgt des atggiresmterminées ar des ordonnances de non-lieu
-
-à suivre rendues par les juges d'instruction et motits, de ces
+7.3.- Etat des affaires terminées par des ordonnances de non-lieu
+à suivre rendues par les juges d'instruction et motifs de ces
 décisions.
-
- 
 
 7.3.1.- Généralités.
 
@@ -50,7 +44,7 @@ comprend pas les ordonnances de non-lieu frappées d'opposition qui
 aux juges d'instruction" (cf ATOTNOLI). Ces séries sont croisées
 avec les cours d'appel et les infractions.
 
-Seule la série AMENTALZ comporte des chiffres au delà de
+Seule la série AMENTAL2 comporte des chiffres au delà de
 1932, mais 1a source diffère pour la seconde période.
 
 A partir de 1905, il est précisé, en ce qui concerne les

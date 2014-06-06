@@ -5,60 +5,54 @@
 "Ordonnances de renvoi devant une autre juridiction".
 
 Le contenu de cette rubrique est assez flou. On peut penser
-qu'elle joue un rôle de résidu "divers". A partir de 1851, on v
+qu'elle joue un rôle de résidu "divers". A partir de 1851, on y
 trouve sans doute les renvois devant le tribunal de police qui
 cessent d'être isolés. En fin de période, cette série subit mani-
-
 festement le contrecoup de l'apparition de la nouvelle rubrique
 relevée dans la série AJONCDES. Le transfert concerne en parti-
-
 culier les affaires passant des mains d'un juge d'instruction
-d'une juridiction à celles d'un juqe rattaché à une autre juridic-
+d'une juridiction à celles d'un juge rattaché à une autre juridic-
 tion, "autre" s'entendant alors géographiquement parlant.
 
-En 1923. le chiffre saisi diffère de celui fourni par 1e
-
+En 1923, le chiffre saisi diffère de celui fourni par 1e
 tableau du Compte général (l 725), des erreurs d'addition ont en
 effet dû être rectifiées a posteriori (voir aussi les séries
-
 ARESINST et ATOTINST).
-De 1954 à 1965 (à l'exclusion des années 1957 et 1960), une
 
+De 1954 à 1965 (à l'exclusion des années 1957 et 1960), une
 note au bas du tableau précise la part que représentent dans cette
 série les affaires concernant des mineurs de 18 ans renvovées
 devant les chambres du Conseil ou les tribunaux pour enfants. Nous
 avons ainsi pu soustraire ces affaires et les reporter dans la
-
 série ARENVTE.
+
 En 1957, le chiffre donné semble ne pas inclure les renvois
-
 devant le tribunal pour enfants.
-En 1960, 1e chiffre donné par le Compten général (6 297)
 
+En 1960, 1e chiffre donné par le Compte général (6 297)
 inclut les renvois devant le tribunal pour enfants dont le nombre
 n'est pas donné. Nous avons estimé ce dernier à 3 O77 (voir
-
 ARENVTE) et le solde à 3 220 qui est la valeur retenue pour
-
 ARENVALT.
-Finalement les renvois devant le tribunal pour enfants sont
 
+Finalement les renvois devant le tribunal pour enfants sont
 exclus de cette série redressée de 1954 à 1981.
+
+7.2.2.9.- AEVOCOUR (V68 - 1932 à 1981).
 
 Affaires "évoquées par la cour ou terminées sans ordonnance".
 
 Le libellé de cette série varie et selon les périodes, il
 s'agit d'"affaires évoquées par" :
-- "la cour royale" (de 1832 à 1846).
+- "la cour royale" (de 1832 à 1846),
 - "la cour d'appel" (de 1847 à 1850),
-- "la cour impériale" (de 1851 à 1869).
-- "1a cour d'appel" (de 1870 à 1877).
+- "la cour impériale" (de 1851 à 1869),
+- "1a cour d'appel" (de 1870 à 1877),
 - "la cour ou suivies de transactions" (de 1878 à 1930),
 - "la cour ou terminées sans ordonnance" (de 1931 à 1981).
 
 En 1944, nous n'avons pas pris en compte les 4 577 dessaisis-
 sements en faveur des cours de justice. En revanche nous avons
-
 ajouté ici les l 893 dessaisissements en faveur des tribunaux
 militaires.
 
