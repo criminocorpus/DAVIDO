@@ -1,60 +1,50 @@
--87.-
+-87-
 
 8.3.2.7.- PLPOFFI (V133 - 1933 à 1943).
 
-Nombre de mises en liberté provisoire d'office par le juqe
+Nombre de mises en liberté provisoire d'office par le juge
 d'instruction ou sur requête du prévenu (sans nécessairement
-
 obtenir l'accord préalable du ministère public).
 
 La série va de 1933 à 1938 (ou 1943 !).
+
 On y trouve donc :
 - de 1933 à 1934, l'article 115 du C.I.C. modifié par la loi du
-
 7 février 1933 ;
 - de 1935 à 1938, l'article 117 du C.I.C. modifié par la loi du
-
 25 mars 1935 ;
 - de 1940 à 1943, le relevé de la rubrique précédente, bien que
 les dispositions correspondantes aient été abrogées par le
-
 décret-loi du 18 novembre 1939.
-On remarque que le Code de Procédure Pénale reprend ces dis-
 
+On remarque que le Code de Procédure Pénale reprend ces dis-
 positions en les refondant avec la mainlevée du mandat de dépôt
 dans l'article 140 de 1959 à 1969, puis 147 à partir de 1970. Mais
 ce cas est relevé dans la série PLPMAIN qui poursuit la mainlevée
 antérieure à 1958.
 
-8 - 4 o -..Dàt entieutèysnLiEÉLiugsmsans.-LsiiemÆ1
-
- 
+8.4.- Détention préventive et jugement correctionnel.
 
 8.4.1.- Généralités.
 
-De 1831 à 1932. le tableau qénéral sur le résultat des
-
+De 1831 à 1932, le tableau général sur le résultat des
 poursuites devant le tribunal correctionnel comprend des rensei-
 gnements sur la détention préventive et la mise en liberté
-provisoire. De 1831 à 1862, une colonne mentionne 1e nombre de
-
-prévenus arrêtés avant le juqement et juqés détenus. une autre
-
-indique le nombre de prévenus arrêtés et juqés après avoir été mis
-en liberté provisoire. En 1863. s'y ajoute une colonne concernant
-
+provisoire. De 1831 à 1862, une colonne mentionne le nombre de
+prévenus arrêtés avant le jugement et jugés détenus, une autre
+indique le nombre de prévenus arrêtés et jugés après avoir été mis
+en liberté provisoire. En 1863, s'y ajoute une colonne concernant
 les prévenus jugés détenus dans le cadre d'une procédure dite de
 "flagrant délit", distinguée de la colonne "autres mandats".
 
-Dans ce tableau distinguant en liqne les délits pour lesquels
-les prévenus sont poursuivis. on a relevé, outre la liqne corres-
+Dans ce tableau distinguant en ligne les délits pour lesquels
+les prévenus sont poursuivis, on a relevé, outre la ligne corres-
 pondant au total (séries PCORxxxx), celle qui correspond au sous-
 total des délits communs (séries PCOMxxxx), soit l'ensemble des
-
 délits sauf les "délits spéciaux" définis à la série ATOTSPE (voir
 le chapitre sur l'activité des tribunaux correctionnels).
 
-8.4.2.- Les séries de la base"L
+8.4.2.- Les séries de la base.
 
 8.4.2.l.- PCOMLPRO (V119 - 1831 à 1929).
 

@@ -1,75 +1,58 @@
 -83-
 
-En 1854. apparaissent les deux rubriques "caution" et "renvoi
-
+En 1854, apparaissent les deux rubriques "caution" et "renvoi
 art. 129 C.I.C.".
+
 En 1855, est ajouté le cas des mainlevées en vertu du nouvel
-
 article 94 du C.I.C..
-En 1863, la loi sur les flagrants délits conduit à aiouter le
 
+En 1863, la loi sur les flagrants délits conduit à ajouter le
 cas de son article 5 qui disparaît cependant entre 1865 et 1868.
+
 En 1865, est ajouté le cas des mises en liberté de droit pré-
-
 vues par le nouvel article 113, alinéa 2, ainsi qu'une distinction
-
 entre crime et délit pour les mainlevées et les mises en liberté
-
 sur requête.
-Ensuite, le nombre de rubriques évolue entre 5 et 10 selon la
 
+Ensuite, le nombre de rubriques évolue entre 5 et 10 selon la
 législation, avec bien sûr autant de ruptures que de réformes.
 
 Les séries ne peuvent reprendre tout ce détail. De plus, une
 bonne partie de l'époque des modifications répétées, et en tout
 cas la période 1933-1958, correspond à un temps où il y avait
-
 manifestement un grand flottement dans la production statistique.
-On observe même pendant quelques années (1940-1943) des
 
+On observe même pendant quelques années (1940-1943) des
 chiffres donnés dans un tableau ne correspondant plus à l'état de
 la législation. En 1944, cette erreur est corrigée dans les
-
 intitulés mais les chiffres manquent ; en 1945 il y a des
 regroupements et de 1948 à 1955 (volumes groupés du Compte
-
 général), le tableau disparaît.
-
- 
 
 On peut alors plutôt tenter une réorganisation des rubriques.
 Les séries suivantes peuvent être conservées avec une homogénéité
-
 acceptable :
-- PLPTOT : TOTAL des mises en liberté malgré 1a divergence obser-
-
+- PLPTOT : TOTAL des mises en liberté malgré la divergence obser-
 vable à partir de 1940 avec la série PDPLPRO (achèvement de la dé-
-
 tention préventive par mise en liberté provisoire) ;
 - PLPRENV : RENVOI devant le tribunal correctionnel ou de simple
-
-police 7
-r PLPMAIN : MAINLEVEE du mandat de dépôt ;
+police ;
+- PLPMAIN : MAINLEVEE du mandat de dépôt ;
 - PLPFLAG : FLAGRANTS DELITS article 5.
 
-Pour les autres séries. on peut envisager un regroupement 0L1
-
+Pour les autres séries, on peut envisager un regroupement ou
 une organisation en trois postes :
 - les mises en liberté sur requête, toujours présentes mais de
-
-'contenu variable ;
+contenu variable ;
 - les mises en liberté de droit qui apparaissent en 1865 et
-
-prennent un contenu variable après 1933 :
+prennent un contenu variable après 1933 ;
 - les mises en liberté d'office prévues pendant la période la plus
-
-cahotigue (1933-1947) que l'on pourra cependant regrouper si
+cahotique (1933-1947) que l'on pourra cependant regrouper si
 nécessaire avec les requêtes.
 
 L'ensemble de ces remarques conduit finalement à considérer
 qu'à toutes fins pratiques, par suite d'absence de chiffre ou en
 raison d'une nomenclature inutilisable, la ventilation des mises
-
 en liberté provisoire subit une rupture de série entre 1939 et
 1956.
 
