@@ -38,7 +38,7 @@ Nombre de "douaniers".
 
 Cette rubrique n'apparaît pas dans le Compte général de 1842.
 
-En 1871, la valeur donnée par 1a ville de Paris est aberrante
+En 1871, la valeur donnée par la ville de Paris est aberrante
 (21 876), nous avons choisi de ne pas en tenir compte et nous
 obtenons alors un total de 21 501 douaniers sur l'ensemble de la
 métropole pour cette année (43 377 - 21 876) ; pour cette période

@@ -21,7 +21,7 @@ nant la détention préventive.
 
 Le tableau concernant l'activité des juges d'instruction
 (tableau LX, p.156) donne en regard du nombre d'affaires traitées
-le nombre d'inculpés soumis à 1a détention préventive (arrêtés
+le nombre d'inculpés soumis à la détention préventive (arrêtés
 dans l'année ou restant détenus de l'année précédente) et le
 nombre d'inculpés mis en liberté provisoire.
 

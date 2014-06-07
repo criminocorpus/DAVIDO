@@ -11,7 +11,7 @@ Cette série représente dans la base une partie de PSPEMAIS.
 
 Les valeurs sont négatives jusqu'en 1840.
 
-En 1905, 1e tableau du Compte général indique 31 prévenus
+En 1905, le tableau du Compte général indique 31 prévenus
 envoyés en maison de correction pour des "délits spéciaux" mais si
 on les additionne aux 860 pour "délits communs", on n'obtient pas
 le total indiqué. Un redressement est possible si l'on considère

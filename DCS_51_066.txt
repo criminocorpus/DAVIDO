@@ -47,7 +47,7 @@ s'agit d'"affaires évoquées par" :
 - "la cour royale" (de 1832 à 1846),
 - "la cour d'appel" (de 1847 à 1850),
 - "la cour impériale" (de 1851 à 1869),
-- "1a cour d'appel" (de 1870 à 1877),
+- "la cour d'appel" (de 1870 à 1877),
 - "la cour ou suivies de transactions" (de 1878 à 1930),
 - "la cour ou terminées sans ordonnance" (de 1931 à 1981).
 

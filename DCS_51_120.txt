@@ -20,8 +20,8 @@ partir des rubriques correspondantes du tableau Compte général.
 Nombre d'affaires concernant des "délits spéciaux" jugées par
 les tribunaux correctionnels.
 
-Ces affaires font l'objet d'un paragraphe à part à 1a fin de
-1a liste des infractions du tableau "Délits jugés par les tribu-
+Ces affaires font l'objet d'un paragraphe à part à la fin de
+la liste des infractions du tableau "Délits jugés par les tribu-
 naux correctionnels - Mode et résultat des poursuites". Ce sont en
 fait des contraventions punies de peines correctionnelles supé-
 rieures à celles de simple police et donc jugées par les tribunaux

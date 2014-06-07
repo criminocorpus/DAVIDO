@@ -20,7 +20,7 @@ Il s'agit des peines d'emprisonnement avec sursis simple
 jusqu'en 1958. simple ou avec mise à l'épreuve ensuite.
 
 Ces chiffres sont relevés jusqu'en 1932 et de 1955 à 1958.
-Ensuite, ils sont calculés de 1a manière suivante :
+Ensuite, ils sont calculés de la manière suivante :
 PSUCOEMP = somme(PSUCOSIM,PSUCOMAE).
 
 A partir de 1977. l'exploitation informatique fait apparaître

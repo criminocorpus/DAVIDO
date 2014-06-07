@@ -4,7 +4,7 @@ De 1831 à 1923, le renseignement est donné en note du tableau
 "Nature et durée des peines". Le chiffre est alors inclus dans la
 
 colonne des "acquittés" au niveau du tableau donnant le "Résultat
-des poursuites". A partir de 1924, il est relevé dans 1a colonne
+des poursuites". A partir de 1924, il est relevé dans la colonne
 correspondante du tableau "Résultat des poursuites". Finalement la
 série PPARENTA représente une partie de PACQUIT.
 
