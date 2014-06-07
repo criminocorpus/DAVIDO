@@ -5,7 +5,6 @@
 
 En 1945, le tableau comporte une erreur d'addition ainsi
 qu'une inversion des valeurs de PPOLEMPR et PPOLAMEN pour la cour
-
 d'appel de Chambéry. Les valeurs saisies de ces séries ont été
 redressées en conséquence (soit 3 599 au lieu de 8 184 pour
 PPOLEMPR).
@@ -13,61 +12,55 @@ PPOLEMPR).
 En 1959, 1e tableau concernant la période du 1er mars au
 31 décembre comporte une inversion des intitulés des colonnes et
 les emprisonnements figurent dans la colonne "à l'amende
-
 seulement".
-En 1972, la présentation de la statistique envoyée aux par-
 
+En 1972, la présentation de la statistique envoyée aux par-
 quets a été modifiée et on observe une inversion des deux colonnes
 "emprisonnement" et "amende". Ce simple changement de présentation
 a entraîné de nombreuses erreurs de la part des juridictions, qui
-
 ne sont pas toujours repérables - même si, pour certaines cours
 d'appel, elles apparaissent très évidemment (Aix ou Grenoble en
 1972 ; Amiens, Grenoble ou Rouen en 1973 : Amiens, Nîmes ... en
-
 1974). Les chiffres que nous aurions obtenus pour ces trois années
 auraient été les suivants : 92 266 en 1972, 13 389 en 1973 et
 21 788 en 1974. Ils sont bien sûr inutilisables et nous avons
 préféré saisir des valeurs manquantes pour ces années.
 
 De 1959 à 1971, comme pour les inculpés, les contraventions
-de cinquième classe ne sont pas distinguées et fiqurent donc ici.
+de cinquième classe ne sont pas distinguées et figurent donc ici.
 
 De 1976 à 1981, seules les contraventions des quatre premiè-
-
 res classes sont prises en compte.
-A partir de 1979, les chiffres proviennent des gadres des
 
+A partir de 1979, les chiffres proviennent des Cadres des
 parquets.
 
-14.2.1o.- PPOLAMEN (p11 - 1331 à 1931))
+14.2.10.- PPOLAMEN (P11 - 1331 à 1931))
+
 "Nombre des inculpés condamnés à l'amende".
 
-En 1945, la valeur saisie diffère de celle qui figure dans 1e
-comptewgénéral : 350 326 au lieu de 345 761 (cf. PPOLEMPR).
+En 1945, la valeur saisie diffère de celle qui figure dans le
+Compte général : 350 326 au lieu de 345 761 (cf. PPOLEMPR).
 
 En 1959, pour la période du 1er mars au 31 décembre, on
-observe une erreur dans les intitulés du tableau du Çpmptepgénéral
-et les amendes fiqurent en fait dans la colonne intitulée "total".
+observe une erreur dans les intitulés du tableau du Compte général
+et les amendes figurent en fait dans la colonne intitulée "total".
 
 Il convient de tenir compte des effets des amnisties pour les
-
 années 1966, 1969 et 1974. Les amnistiés suivant traditionnelle-
-ment les élections présidentielles contiennent en qénéral toutes
-
+ment les élections présidentielles contiennent en général toutes
 les contraventions dans leur champ à moins de quelques exclusions
-ponctuelles. Le nombre de condamnations juqées et enreqistrées
-s'en ressent larqement dans la mesure où il n'est donc pas néces-
+ponctuelles. Le nombre de condamnations jugées et enregistrées
+s'en ressent largement dans la mesure où il n'est donc pas néces-
 saire d'aller jusqu'à ce stade de la procédure pour constater si
-
 l'amnistie s'applique ou non.
+
 De 1959 à 1971, comme pour les inculpés, les contraventions
-
 de cinquième classe ne sont pas distinguées et figurent donc ici.
+
 De 1976 à 1981, seules les contraventions des quatre premiè-
-
 res classes ont été prises en compte.
-A partir de 1979, les chiffres proviennent des Çadres des
 
+A partir de 1979, les chiffres proviennent des Cadres des
 parquets.
 

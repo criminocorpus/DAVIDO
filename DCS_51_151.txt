@@ -1,16 +1,17 @@
 -150-
 
 14.2.6.- PINCULPE (P7 - 1831 à 1975).
+
 "Nombre total des inculpés".
 
 Ce comptage en personnes correspond au moins jusqu'en 1945 au
-total des contraventions juqées. Le total des inculpés est ventilé
+total des contraventions jugées. Le total des inculpés est ventilé
 selon la décision prise à leur égard.
 
 La série est relevée dans le tableau.
 
-Pour les années 1955, 1957 1959 et 1960, une note précise
-qu'il n'est pas tenu compte des affaires réqlées par le paiement
+Pour les années 1955, 1957, 1959 et 1960, une note précise
+qu'il n'est pas tenu compte des affaires réglées par le paiement
 de l'amende de composition, instaurée en 1945. La même note figure
 ensuite dans les Cadres des parquets jusqu'en 1975.
 
@@ -30,34 +31,32 @@ PINCULPE = somme(PPOLACQU,PPOLINCO,PPOLEMPR,PPOLAMEN) sauf de 1972
 "Nombre des inculpés acquittés".
 
 Cf. PINCULPE.
-En 1975. la valeur est aberrante mais correspond cependant à
 
+En 1975. la valeur est aberrante mais correspond cependant à
 ce qui a été publié dans le Compte général et à ce qui était
 fourni par les juridictions.
 
 De 1976 à 1978, les chiffres calculés à partir des Cadres des
-
-parquets sont publiés dans 1e Comptekgénéralidgwlglë en page 25 du
-RÊBRPFË-
+parquets sont publiés dans 1e Compte général de 1978 en page 25 du
+Rapport.
 
 De 1979 à 1981. les chiffres sont calculés à partir des
 
-Cadres des parquets. Les cinq classes de contraVentions ont été
+Cadres des parquets. Les cinq classes de contraventions ont été
 prises en compte.
 
-En 1924, à la suite d'une erreur d'impression dans 1e Compte
+En 1924, à la suite d'une erreur d'impression dans le Compte
 général, il convient de lire 8 207 au lieu de 8 201.
 
  
 
 14.2.8.- PPOLINCO (P9 - 1831 à 1975).
 
-"Nombre des inculpés à l'égard desquels 1e tribunal s'est
+"Nombre des inculpés à l'égard desquels le tribunal s'est
 déclaré incompétent".
 
 La série ne peut être poursuivie au delà de 1975, les Cadres
-
-des parquets ayant été modifiés et ne demandant plus ce renseignes
+des parquets ayant été modifiés et ne demandant plus ce renseigne-
 ment aux juridictions.
 
 En 1896. l'importance du chiffre est principalement due à une
@@ -66,8 +65,8 @@ de la cour d'appel d'Aix-en-Provence (5 532) et plus particulière-
 ment des tribunaux de Marseille (auqmentation de 2 542 par rapport
 à l'année précédente) et de Toulon (auqmentation de 1 517 par
 rapport à l'année précédente). Ces chiffres, par tribunal et non
-par cour d'appel. ont été relevés dans les Comptes généraux de
-l'administration de laniustice civile.
+par cour d'appel, ont été relevés dans les Comptes généraux de
+l'administration de la justice civile.
 
  
 
