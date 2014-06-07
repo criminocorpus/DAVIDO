@@ -7,49 +7,47 @@ quelles il n'"a pas été donné suite".
 
 Ces chiffres ont été relevés de 1876 à 1944 en note au bas du
 tableau concernant l'activité des tribunaux de police. Ces ren-
-seiqnements n'étaient pas demandés auparavant aux juridictions
+seignements n'étaient pas demandés auparavant aux juridictions
 ainsi que le précise la circulaire sur les statistiques du
 
-6 décembre 1876. A partir de 1945, 1a note ne figure plus, non
+6 décembre 1876. A partir de 1945, la note ne figure plus, non
 plus qu'en 1936.
 
 La ventilation selon les motifs de classement n'est indiquée
 que de 1876 à 1883. La circulaire sur les statistiques du
 3 décembre 1877 précise que ces rubriques sont souvent restées
-
-sans réponse dans les gadres des parquets de 1876. Les chiffres en
+sans réponse dans les Cadres des parquets de 1876. Les chiffres en
 sont les suivants :
 
-Année Les faits incriminés Les auteurs Autres motifs
-n'étaient prévus par étaient
-aucune loi pénale inconnus
-1876 2019 2924 4824
-1877 844 3161 2660
-1878 2063 4154 2744
-1879 1532 3170 1577
-1880 689 4111 1712
-1881 624 3984 1558
-1882 551 1313 4652
-1883 563 1900 4658
+Année  Les faits incriminés  Les auteurs  Autres motifs
+       n'étaient prévus par  étaient
+       aucune loi pénale     inconnus
+1876   2019                  2924         4824
+1877    844                  3161         2660
+1878   2063                  4154         2744
+1879   1532                  3170         1577
+1880    689                  4111         1712
+1881    624                  3984         1558
+1882    551                  1313         4652
+1883    563                  1900         4658
 
-l4.2.12.- APOLINFO (P16 - 1842 à 1932).
+14.2.12.- APOLINFO (P16 - 1842 à 1932).
 
 "Nombre d'informations au criminel faites par les juges de
 paix. soit en cas de flagrant délit, soit par délégation ou en
 vertu de commission rogatoire".
 
 Dans le tableau concernant l'activité des tribunaux de simple
-
 police de 1842 à 1932, la rubrique se subdivise en deux colonnes :
 "nombre des affaires" et "nombre des témoins entendus", seule 1a
-
 première a été relevée.
-14.2.13.- PCOMPAVE (917 - 1947 à 1974).
 
-"Amendes de composition - Nombre d'avertissements envovés".
+14.2.13.- PCOMPAVE (P17 - 1947 à 1974).
+
+"Amendes de composition - Nombre d'avertissements envoyés".
 
 A partir de 1945 sont mises en place des procédures permet-
-tant d'éviter le juqement des contraventions par le tribunal de
+tant d'éviter le jugement des contraventions par le tribunal de
 simple police.
 
 La première est l'amende de composition (ordonnance du

@@ -1,48 +1,41 @@
 -94-
 
 Les mineurs.
-Les rubriques varient au cours de la période :
 
+Les rubriques varient au cours de la période :
 - de 1831 à 1923, il existe dans le tableau une colonne intitulée
 "enfants à détenir dans une maison de correction (art. 66 du
-
 C.P.)" . Ce tableau les plaçant lui-même parmi les condamnés, nous
 les avons ajoutés à cette série PCONDASS.
-
-- de 1924 à 1951, la présentation du tableau chanqe et la rubrique
+- de 1924 à 1951, la présentation du tableau change et la rubrique
 "enfants à détenir dans une maison de correction" apparaît dans la
-
 partie acquittés. Nous avons cependant continué de les ajouter
 ici.
-
 - de 1952 à 1978, seuls les majeurs de 18 ans sont pris en compte.
 
 Jusqu'en 1951, des mineurs condamnés à d'autres peines sont
 inclus au niveau des condamnations ; il est possible d'en
 connaître la part grâce au tableau croisant la peine prononcée
-aVec l'âqe. En 1952r cette part est nulle, siqne de l'exclusion de
+avec l'âge. En 1952 cette part est nulle, siqne de l'exclusion de
 fait des mineurs de ces séries.
 
-La mise sous surveillance de 1a haute police.
-
- 
+La mise sous surveillance de la haute police.
 
 Un tableau donne le nombre des "accusés condamnés à des
 peines afflictives et infamantes temporaires" ou à des "peines
 correctionnelles" qui ont fait l'objet d'une mesure de surveil-
 lance de la haute police (loi du 23 janvier 1874) ou d'une inter-
 diction de séjour (loi du 27 mai 1885). Les deux mesures ne sont
-pas distinguées dans le Compte Wgégéralwdehjl885 (paqe 31) 7 à
+pas distinguées dans le Compte général de 1885 (page 31) 7 à
 partir de 1886, seule la mesure d'interdiction de séjour est men-
 tionnée. Ces chiffres n'ont fait l'objet d'aucun relevé et sont
 inclus dans la série PCONDASS.
 
 En revanche, ils sont inclus dans la série des acquittés
-(cf. PACOUIT) lorsqu'il s'agit d'individus déclarés coupables et
+(cf. PACQUIT) lorsqu'il s'agit d'individus déclarés coupables et
 placés sous surveillance sans autre peine, au titre des articles
-
 100 ou 138 du C.P. (de 1832 à 1913).
 
-On observe l'éqalité suivante :
+On observe l'égalité suivante :
 PCONDASS = somme(PMORT,PPERPET,PTEMPS,PCORRECT).
 

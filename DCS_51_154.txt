@@ -5,44 +5,39 @@ le montant de l'amende fixée par voie réglementaire. Elle s'appli-
 que aux contraventions les moins importantes de non récidivistes.
 
 Cette série est relevée de 1947 à 1974, dans le tableau
-
 concernant les tribunaux de police.
+
 A partir de 1955, une note précise que les contraventions
 traitées selon cette procédure sont comptées dans le total des
-
 contraventions (ACONTRAV).
-Pour 1973, une note du Cadre statistique indique que la
 
+Pour 1973, une note du Cadre statistique indique que la
 rubrique ne concerne que les infractions commises avant le
 1er juillet 1972. A partir de cette date s'appliquent l'amende
-
 pénale fixe et l'ordonnance pénale (PAPFTITR et AORDOPEN).
 
 14.2.14.- ACOMPPAI (P18 - 1947 à 1974).
 
-"Amendes de composition - Nombre d'affaires réqlées par le
+"Amendes de composition - Nombre d'affaires réglées par le
 paiement de l'amende".
 
 Cette série est relevée dans les mêmes conditions que
-
 PCOMPAVE. Comme l'indique le titre des deux séries, à s'en tenir à
 l'intitulé des colonnes, PCOMPAVE relève d'une décision indivi-
 
 duelle et donc d'un comptage en personne, tandis que ACOMPAIE
 concerne des affaires. Cependant les textes appliqués semblent
 supposer qu'à chaque affaire (procès-verbal) ne correspond qu'un
-
 contrevenant.
 
-Selon une note du tableau en 1955. 1957. 1959 et 1960. cette
+Selon une note du tableau en 1955, 1957, 1959 et 1960. Cette
 série n'est incluse ni dans le comptage des inculpés (PINCULPE),
 ni dans celui des condamnations à une peine d'amende (PPOLAMEN).
 
 Lorsque l'amende de composition n'est pas acquittée par le
 contrevenant, la procédure normale de jugement doit être suivie.
 Si cela se produit, le comptage sera donc opéré en PINCULPE et
-
-l'une des séries donnant l'issue du juqement.
+l'une des séries donnant l'issue du jugement.
 
 14.2.15.- PAPFTITR (P19 - 1972 à 1981).
 
@@ -50,19 +45,16 @@ l'une des séries donnant l'issue du juqement.
 individuels établis".
 
 La loi du 6 juillet 1966 ajoute à l'amende de composition la
-
 procédure de l'amende forfaitaire qui permet à l'administration
 concernée de percevoir directement le montant de l'amende (circu-
-
 lation routière par exemple).
 
 En 1972, à l'occasion d'un remaniement des procédures simpli-
 fiées, la procédure de l'amende forfaitaire est modifiée avec
-l'adjonction notamment du timbreeamende.
+l'adjonction notamment du timbre-amende.
 
 Ce n'est qu'à partir de ce moment (1972) que cette procédure
-apparaît dans la statistique des tribunaux de police. Il ne s'aqit
-
+apparaît dans la statistique des tribunaux de police. Il ne s'agit
 cependant alors que des contraventions de circulation pour les-
 quelles l'amende forfaitaire n'a pas été pavée et un titre
 

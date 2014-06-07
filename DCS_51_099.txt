@@ -2,11 +2,11 @@
 
 9.2.11.- PTEMPS (V24 - 1831 à 1978).
 
-Nombre de condamnés (condamnations) à des peines afilictives
+Nombre de condamnés (condamnations) à des peines afllictives
 ou infamantes à temps.
 
-Cette série est calculée de 1a manière suivante :
-PTEMPS = somme(PFORCE,PRECLUS,PDETENT.PCARCAN,PBANNI,PDEGRADE).
+Cette série est calculée de la manière suivante :
+PTEMPS = somme(PFORCE,PRECLUS,PDETENT,PCARCAN,PBANNI,PDEGRADE).
 
 9.2.12.- PFORCE (V1 - 1831 à 1959).
 
@@ -15,7 +15,7 @@ temps".
 
 La série s'interrompt après 1959.
 
-En 1960, la rubrique du ggmptewgénéral concerne à la fois les
+En 1960, la rubrique du Compte général concerne à la fois les
 travaux forcés à temps et les réclusions criminelles à temps et le
 chiffre a été saisi au niveau de la série PRECLUS. Ensuite la
 rubrique disparaît, les travaux forcés ayant été remplacés par la
@@ -27,17 +27,15 @@ cette peine ne pouvait être prononcée, l'article 5 de la loi du
 30 mai 1854 permet de la remplacer par une peine de réclusion à
 temps et ils sont alors comptés en PRECLUS.
 
- 
-
 9.2.13.- PRECLUS (V2 - 1831 à 1978).
 
 Nombre de condamnés (condamnations) à la "réclusion
 criminelle à temps".
 
 Cette série tient compte des individus condamnés à cette
-peine dans les cas prévus par les articles 70 et 7l du C.P. et 5
-de 1a loi du 30 mai 1854 (cf. PFORCE).
+peine dans les cas prévus par les articles 70 et 71 du C.P. et 5
+de la loi du 30 mai 1854 (cf. PFORCE).
 
 En 1960, le chiffre inclut les travaux forcés à temps dont on
-ne connaît pas 1a part (cf. PFORCE).
+ne connaît pas la part (cf. PFORCE).
 

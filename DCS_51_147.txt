@@ -3,8 +3,8 @@
 En 1960. le titre du tableau précise "autre que les con-
 traventions de 5ème classe prévues par l'article R.4O du Code
 Pénal". Il y a bien une colonne en blanc dans la partie "contra-
-ventions" du tableau correspondant à la place des R.40 dans 1e
-cadre d'origine, mais il ne semble pas que les "R.4D" aient été
+ventions" du tableau correspondant à la place des R.40 dans le
+cadre d'origine, mais il ne semble pas que les "R.40" aient été
 ôtées de la partie "nombre de prévenus".
 
 A partir de 1961, la colonne blanche en question disparaît,
@@ -12,7 +12,7 @@ seul le titre continue de mentionner l'absence des contraventions
 de cinquième classe prévues par l'article R.40 du Code Pénal -ce
 qui n'est juste que pour la partie "contraventions" du tableau.
 
-De 1960 à 1963, 1a part des contraventions de cinquième
+De 1960 à 1963, la part des contraventions de cinquième
 classe reste inconnue.
 
 De 1964 à 1969, leur nombre fiqure dans les Archives et est
@@ -22,42 +22,33 @@ De 1970 à 1973, leur nombre n'est pas connu mais pourrait
 être exploité à partir des Cadres des parquets.
 
 En 1974 et 1975, le tableau du Compte général fait réappa-
-
-raître la colonne "R.40" et 1e titre du tableau est rectifié en
+raître la colonne "R.40" et le titre du tableau est rectifié en
 conséquence.
 
 A partir de 1976, les Cadres des parquets ont été modifiés et
-
 ce renseignement n'a plus été demandé aux juridictions.
 
-b.- Eëploitationumécanggrapbique ou informatique-des-dpubles
-
- 
-
- 
-
+b.- Exploitation mécanographique ou informatique des doubles
 anonymes des fiches de casier judiciaire.
 
 Les contraventions de cinquième classe sont inscrites au
 casier judiciaire comme les délits, ce qui permet de leur
-appliquer 1e même traitement au niveau de la statistique.
+appliquer le même traitement au niveau de la statistique.
 
 En 1960 et 1961, l'exploitation mécanographique des contra-
 ventions de cinquième classe visées par l'article R.40 fait l'ob-
-
 jet d'un tableau particulier ventilé selon les types d'infrac-
 tions.
 
 A partir de 1962, les 5ème classe "R.40" ou "autres que R.40"
-
 font l'objet d'une publication dans deux tableaux séparés, venti-
 lés selon les types d'infractions.
 
 On doit toutefois mentionner que le traitement statistique
 des fiches de casier judiciaire correspondant aux contraventions
 de cinquième classe a connu bien des vicissitudes : problèmes de
-collecte, qualité médiocre de l'information, modifications léqis-
+collecte, qualité médiocre de l'information, modifications légis-
 latives mal répercutées dans les nomenclatures, toutes ces diffi-
 cultés non résolues n'en font pas une source beaucoup plus fiable
-que les gadggs des parquets.
+que les Cadres des parquets.
 
