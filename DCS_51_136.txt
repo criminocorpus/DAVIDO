@@ -28,7 +28,7 @@ suite de transaction avec l'administration poursuivante". Nous
 avons additionné manuellement ces diverses rubriques lors de la
 saisie.
 
-12.2.8- PEXESTOP (Y16 - 1831 à 1942*).
+12.2.8.- PEXESTOP (Y16 - 1831 à 1942*).
 
 Nombre des prévenus condamnés à l'emprisonnement et non
 écroués car en fuite ou pour d'autres motifs que ceux énumérés

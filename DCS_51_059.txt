@@ -10,18 +10,18 @@ caractère de délit".
 "Affaires laissées sans poursuites attendu que les faits ne
 constituaient ni crime ni délit".
 
-6.2.2.4.- AINCONNl (X5 - 1831 à 1932).
+6.2.2.4.- AINCONN1 (X5 - 1831 à 1932).
 
 "Affaires laissées sans poursuites attendu que les auteurs
 sont restés inconnus".
 
-6.2.2.5.- APAGRAVl (X7 - 1831 à 1932).
+6.2.2.5.- APAGRAV1 (X7 - 1831 à 1932).
 
 "Affaires laissées sans poursuites attendu que les faits
 étaient sans gravité et n'intéressaient pas essentiellement
 l'ordre public".
 
-6.2.2.5.- AMENTALl (X5 - 1905 à 1932).
+6.2.2.5.- AMENTAL1 (X5 - 1905 à 1932).
 
 "Affaires laissées sans poursuites" en raison de l'"état
 mental de l'inculpé".

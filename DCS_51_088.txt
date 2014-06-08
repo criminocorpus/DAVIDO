@@ -46,7 +46,7 @@ le chapitre sur l'activité des tribunaux correctionnels).
 
 8.4.2.- Les séries de la base.
 
-8.4.2.l.- PCOMLPRO (V119 - 1831 à 1929).
+8.4.2.1.- PCOMLPRO (V119 - 1831 à 1929).
 
 Prévenus jugés pour des délits communs arrêtés et mis en
 liberté provisoire jusqu'au jugement.

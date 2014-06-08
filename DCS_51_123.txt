@@ -3,7 +3,7 @@
 En 1905, nous avons opéré un redressement et la valeur saisie
 dans la base est 27 au lieu de 13 (cf.PSPEMAIS).
 
-10.3.2.21.- PSPEAMEN (V13 - 1831 à 1954)
+10.3.2.21.- PSPEAMEN (V13 - 1831 à 1954).
 
 "Nombre des prévenus condamnés à l'amende seulement" par les
 tribunaux correctionnels qui avaient été poursuivis pour des
