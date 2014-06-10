@@ -1,6 +1,6 @@
 -84-
 
-8.3.2- Les séries de la base.
+8.3.2.- Les séries de la base.
 
 8.3.2.1.- PLPTOT (V127 - 1854 à 1981*).
 

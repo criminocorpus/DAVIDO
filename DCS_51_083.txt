@@ -38,7 +38,7 @@ renvoi de la chambre d'accusation figurant alors ailleurs).
 
 8.3.- Mise en liberté provisoire.
 
-8.3.l.- Généralités.
+8.3.1.- Généralités.
 
 Avant 1854, le Compte général ne mentionne les mises en
 liberté provisoire que pour les prévenus jugés par les tribunaux

@@ -28,7 +28,7 @@ Les majeurs et les mineurs sont confondus en général jusqu'en
 1951. Ensuite les mineurs font l'objet d'une exploitation statis-
 tique séparée.
 
-9.2- Les séries de la base.
+9.2.- Les séries de la base.
 
 9.2.1.- ATOTASSI (V15 - 1831 à 1952).
 
