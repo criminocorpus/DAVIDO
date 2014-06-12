@@ -6,53 +6,42 @@
 
 Ces séries proviennent du tableau intitulé "Etat des divers
 agents de la police judiciaire - Agents chargés de rechercher et
-de constater les crimes et les délits. etc.". Ce tableaur qui ne
+de constater les crimes et les délits. etc.". Ce tableau, qui ne
 figure dans les Comptes généraux que de 1842 à 1932, donne le nom-
 bre des principaux auxiliaires du ministère public dans l'exercice
-
 de la police judiciaire.
 
 Les séries ici mentionnées concernent des administrations
 différentes du ministère de la Justice. Elles sont constituées par
-1a sommation au niveau national des effectifs fournis par les
+la sommation au niveau national des effectifs fournis par les
 parquets dans les cadres statistiques au niveau du ressort des
 tribunaux de grande instance. Le mode de comptage suppose qu'un
-
 agent ne soit affecté qu'à un ressort, ce qui n'est pas toujours
-1e cas (cf. NPOLIFER et NPOLIHOB).
+le cas (cf. NPOLIFER et NPOLIMOB).
 
 La classification des agents donnée dans le tableau des
 effectifs ne correspond pas exactement à celle du tableau présenté
 au chapitre suivant pour les affaires transmises par chaque sorte
 d'agent. Les variations de l'un à l'autre sont les suivantes :
 
-Effectifs Affaires Comparaison des deux listes d'agents
+Effectifs  Affaires  Comparaison des deux listes d'agents
 
 NBRIGADE
-
-NGENDARM AGENDARM
-NCOMIPOL APOLICE
-
-NAGENPOL APOLICOM
-NPOLIFER APOLIFER
-
-NPOLIMOB APOLIMOB
-NMAIRES AMAIRE Alors que les affaires transmises par ces
-agents sont données de 1831 à 1932, les
-
-effectifs ne sont indiqués que de 1876 à
-
-1906.
-AJUGE Cette rubrique n'existe que pour les
-
-affaires.
-
-NCHAMPET ACHAMPET
-NPARTIC APARTIC Alors que les effectifs sont donnés dès 1842,
-
-les affaires transmises par ces agents ne
-
-sont indiquées qu'à partir de 1875.
-NFOREST Seuls les effectifs sont indiqués et à partir
-de 1843 seulement.
+NGENDARM   AGENDARM
+NCOMIPOL   APOLICE
+NAGENPOL   APOLICOM
+NPOLIFER   APOLIFER
+NPOLIMOB   APOLIMOB
+NMAIRES    AMAIRE    Alors que les affaires transmises par ces
+                     agents sont données de 1831 à 1932, les
+                     effectifs ne sont indiqués que de 1876 à
+                     1906.
+           AJUGE     Cette rubrique n'existe que pour les
+                     affaires.
+NCHAMPET   ACHAMPET
+NPARTIC    APARTIC Alors que les effectifs sont donnés dès 1842,
+                   les affaires transmises par ces agents ne
+                   sont indiquées qu'à partir de 1875.
+NFOREST            Seuls les effectifs sont indiqués et à partir
+                   de 1843 seulement.
 
