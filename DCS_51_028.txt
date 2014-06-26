@@ -6,14 +6,12 @@ sons que très rarement les modifications intervenues à ce niveau.
 Nous n'avons jamais pris en compte ce critère pour distinguer des
 séries différentes. Pour chaque série ou chaque groupe de séries
 concernés par des changements connus, on a indiqué les risques de
-
 rupture d'homogénéité qui en découlent.
-De même le champ géographique décrit par les séries est légè-
 
+De même le champ géographique décrit par les séries est légè-
 rement variable entre 1831 et 1981. Cet aspect est abordé plus
 loin de facon générale. Dans la mesure où il concerne à l'iden-
 tique l'ensemble des séries, rien n'en résulte pour la définition
-
 d'une série particulière.
 
 Reste alors la définition juridique même conduisant à la
@@ -22,7 +20,7 @@ consisterait à ne retenir comme constituant une série statistique
 qu'une suite de chiffres répondant strictement à une même défini-
 tion juridique. Cela ne garantit rien quant à l'homogénéité
 temporelle des pratiques couvertes par cette définition légale,
-mais cela fournit une méthode possible. A ceci près que le çgmppg
+mais cela fournit une méthode possible. A ceci près que le Compte
 général n'opère pas toujours ainsi et met à l'évidence bout à bout
 des chiffres, même en cas de modification législative : par
 exemple, lorsque la majorité pénale change, l'organisation des
@@ -30,23 +28,22 @@ colonnes du tableau donnant le résultat des poursuites correc-
 tionnelles n'est pas modifiée et emploie à l'identique le terme de
 "mineurs" qui ne couvre plus les mêmes cas. Nous avons donc suivi
 le Compte général dans sa sérialisation "sauvage" passant outre
-
 les modifications juridiques.
-Dès lors, à un premier niveau, on peut considérer comme une
 
+Dès lors, à un premier niveau, on peut considérer comme une
 série sur une certaine période soit une suite de relevés corres-
 pondant à une définition inchangée, soit ce qui est présenté par
 le Compte général comme une série : intitulé fixe ou pratiquement
-fixa malgré une modification du régime juridique, ou regroupement
+fixe malgré une modification du régime juridique, ou regroupement
 de cas de contenu variable mais occupant manifestement la même
 place dans une nomenclature. Cette dernière situation vise au
 premier chef la rubrique "autre" des nomenclatures utilisées par
 le Compte général. Là encore les modications de contenu repérables
 dans la série ainsi constituée sont détaillées au cas par cas ou
-' par groupe de séries.
+par groupe de séries.
 
 Pour le reste nous avons essayé de nous tenir au plus près de
-la publication et les séries présentées ici ne recourent qu'excepu
+la publication et les séries présentées ici ne recourent qu'excep-
 tionnellement à des calculs faits à partir des relevés ou à la
 mise bout à bout de relevés identifiés comme hétérogènes dans leur
 définition juridique.
@@ -59,7 +56,7 @@ restant malgré tout encore très près des séries de base, nous
 avons dû opérer un premier travail de reconstruction pour éviter
 de sombrer dans une multitude de séries définies sur très courte
 période. L'autre cas vient en général de certaines définitions
-éphémères adoptées dans les gâgpgâ du parquet : par exemple
+éphémères adoptées dans les Cadres du parquet : par exemple
 
  
 

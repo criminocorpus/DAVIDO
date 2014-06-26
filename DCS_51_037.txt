@@ -2,11 +2,11 @@
 
 3.2.- Généralités concernant l'ensemble des séries.
 
-3.2.1.- Le territoire national et 1e territoire couvert par la
+3.2.1.- Le territoire national et le territoire couvert par la
 statistique.
 
 Les séries de la base DAVIDO ne concernent que la métropole.
-Cependant, au cours de la période 1831-1981, 1e territoire
+Cependant, au cours de la période 1831-1981, le territoire
 national s'est modifié, en particulier à cause des querres. De
 plus, pour diverses raisons les statistiques n'ont pas toujours
 été publiées de manière exhaustive. Le tableau qui suit présente
@@ -14,54 +14,42 @@ les variations intervenues tant sur le territoire de la France
 métropolitaine ("champ géographique") que sur celui couvert par
 les statistiques publiées ("champ statistique").
 
-PERIODE CHAMP GEOGRAPHIQUE CHAMP STATISTIQUE
-AVANT Les départements de Le champ "statistique" est
-1860 : Savoie, Haute-Savoie et identique au "champ
+PERIODE     CHAMP GEOGRAPHIQUE          CHAMP STATISTIQUE
+AVANT       Les départements de         Le champ "statistique" est
+1860 :      Savoie, Haute-Savoie et     identique au "champ
+            une partie des Alpes-       géographique".
+            Maritimes (le Comté de
+            Nice) sont exclus.
 
-une partie des Alpes- qéoqraphique".
+DE 1860 A   Le territoire métropoli-    En 1860, le "champ statis-
+1869 :      tain correspond au terri-   tique" ne correspond pas
+            toire actuel, divisé en 90  au territoire géoqraphi-
+            départements.               que : il manque encore les
+                                        statistiques de la Savoie,
+                                        de la Haute-Savoie et du
+                                        Comté de Nice. A partir de
+                                        1861, les deux coïncident.
 
-Maritimes (le Comté de
-Nice) sont exclus.
+DE 1870 A   Sont exclus les arron-       Les arrondissements ne
+1913 (1) :  dissements de Colmar,        faisant pas partie du
+            Saverne, Strasbourg,         territoire national sont
+            Schelestadt, Wissembourg,    exclus également du "champ
+            Belfort et Mulhouse (du      statistique". De plus, en
+            ressort de Colmar), ceux     1870 et les cinq premiers
+            de Metz et Thionville (du    mois de 1871, les statis-
+            ressort de Metz), ceux de    tiques du département de
+            Sarrebourg et Vic (du        la Seine sont exclues en
+            ressort de Nancy) - soit     raison de l'incendie du
+            l'Alsace et la Lorraine      palais de justice de
+            (1).                         Paris. En 1870, est aussi
+                                         exclue la statistique du
+                                         tribunal de Remiremont en
+                                         raison également de l'in-
+                                         cendie du palais de
+                                         justice (2).
 
-DE 1860 A Le territoire métropoli- En 1860, 1e "champ statis-
+(1).- Source : Comparaison des tableaux des Compte généraux de
+1869 et 1870 ainsi que pages V et VI du Compte général de 1870.
 
-1869 : tain correspond au terri- tique" ne correspond pas
-toire actuel, divisé en 90 au territoire géoqraphi-
-départements. que z il manque encore les
-
-statistiques de la Savoie,
-de la Haute-Savoie et du
-
-Comté de Nice. A partir de
-1861, les deux coïncident.
-
-DE 1870 A Sont eXClus les arron- Les arrondissements ne
-
-1913 (1) : dissements de Colmar, faisant pas partie du
-Saverne. Strasbourq, territoire national sont
-Schelestadt, Wissembourq, exclus également du "champ
-Belfort et Mulhouse (du statistique". De plus, en
-ressort de Colmar), ceux 1870 et les cinq premiers
-
-de Metz et Thionville (du mois de 1871, les statis-
-ressort de Metz), ceux de tiques du département de
-
-Sarrebourg et Vic (du 1a Seine sont exclues en
-ressort de Nancy) - soit raison de l'incendie du
-l'Alsace et la Lorraine palais de justice de
-
-(1). Paris. En 1870, est aussi
-
-exclue la statistique du
-tribunal de Remiremont en
-raison éqalement de l'in-
-cendie du palais de
-justice (2).
-
-(1).- Source : Comparaison des tableaux des ggmgtes généraux.ge
-
-gags et 1870 ainsi que pages V et VI du Çompte oénéral de 1870.
-(2).- Source : Page V du ggmpte général de 1819 et paqe VII du
-
-MM , '**--*m *---
-
+(2).- Source : Page V du Compte général de 1819 et page VII du
+Compte général de 1871.

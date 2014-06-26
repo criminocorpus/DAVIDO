@@ -1,15 +1,14 @@
 -26-
 
-En dehors de l'exelusion des séries propres aux mineurs, nous
+En dehors de l'exclusion des séries propres aux mineurs, nous
 n'avons donc eu aucune motivation de principe pour exclure des
-séries non relevées dans la base DAVIDO à ce jour. Finalement.
+séries non relevées dans la base DAVIDO à ce jour. Finalement,
 nous avons relevé l'ensemble des données accessibles dont l'ana-
-lyse faisait proqressiVement sentir le besoin. On ne pourra donc
+lyse faisait progressivement sentir le besoin. On ne pourra donc
 juger de la cohérence du choix des séries retenues qu'avec
 l'interprétation des résultats. On trouvera sans doute alors que
 nous avons été guidés en bonne partie par des raisons théoriques,
 comme ce fut le cas pour nos prédécesseurs du C.E.S.. On pourra
-
 aussi estimer que l'absence de séries par infractions limite
 l'intérêt de cette base de données à son stade actuel.
 
@@ -21,8 +20,7 @@ respectives, nous ont permis en bonne partie de restituer l'appa-
 reil conceptuel non présenté par le Compte général lui-même mais
 qu'il contient pourtant implicitement. Dans ce sens, nous pouvons
 dire que nos choix de séries épuisent largement la question. Ou du
-moins. qu'à partir des seuls éléments publiés, on ne peut quère en
-
+moins, qu'à partir des seuls éléments publiés, on ne peut guère en
 dire plus. et en tout cas, pas en relevant et examinant des séries
 supplémentaires.
 
@@ -37,7 +35,6 @@ spéciaux, tant le traitement de ces derniers était particulier au
 XIXème siècle. Mais il n'était guère envisaqeable de traiter de
 front les questions de méthode liées à la définition des séries et
 celles, tout aussi nombreuses, relevant de l'évolution des incri-
-
 minations et de la nomenclature que le Compte général utilise pour
 les décrire.
 
@@ -45,11 +42,10 @@ les décrire.
 
 Donner une suite de chiffres relevés dans le Compte général
 sous un intitulé commun à toute la période de relevé, c'est
-
 affirmer la possibilité de les considérer comme une série statis-
 tique. C'est donc faire l'hypothèse que ces chiffres proviennent
 d'une définition stable, concernent un champ statistique fixe et
-sont obtenus selon des rèqles de production fixes. Autant dire que
+sont obtenus selon des règles de production fixes. Autant dire que
 sur un siècle et demi, en matière judiciaire aucune série statis-
 tique ne peut être déduite de la suite des chiffres relevés.
 

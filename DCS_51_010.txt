@@ -1,41 +1,35 @@
+-9-
+
 - INTRODUCTION -
 
 Le Compte général de l'administration de la justice
 criminelle en France a été publié pour les années 1825 à 1978.
-
- 
-
 Soit au total, compte tenu des interruptions de 1914-1918 et 1939,
 cent quarante huit volumes. Il y a là de quoi attirer l'attention
 de tous les promoteurs de l'histoire quantitative ou "sérielle",
 de méthodologies d'analyse chronologique, de banques de données et
-
 de leurs logiciels informatiques associés...
+
 De fait, dès les années 1950, André DAVIDOVITCH s'intéresse à
-
 cette source dans le cadre du groupe de sociologie criminelle
-animé par Henri LEVY-BRUHL. Son premier mémoire à l'AnnéÊ
-
+animé par Henri LEVY-BRUHL. Son premier mémoire à l'Année
 sociologique sur l'escroquerie utilise des séries statistiques
 issues du Compte général (DAVIDOVITCH 1955-56). En 1961, son
-
 article à la Revue française de sociologie présente et commente
 des séries reconstituées sur un siècle (DAVIDOVITCH 1961). Enfin
-
 en 1964, avec le mémoire présenté avec Raymond BOUDON à l'Année
-sggiologigu . la modélisation statistique et l'informatique sont
+sociologique, la modélisation statistique et l'informatique sont
 de la partie (DAVIDOVITCH et BOUDON, 1964).
 
 L'ouverture de ce chantier devait se poursuivre par un
 travail systématique de constitution d'une base de données infor-
-matisée à partir du Compte général. A la fin des années 60. André
+matisée à partir du Compte général. A la fin des années 60, André
 DAVIDOVITCH et l'unité de sociologie criminelle du C.E.S. (1)
 sont largement absorbés par leurs recherches sur le fonction-
 nement des parquets dont les résultats ébranlent le discours
 convenu de la criminologie classique fondée sur la personnalité
 criminelle. Quelques moyens sont cependant dégagés en 1968 pour
 commencer l'informatisation des séries statistiques qu'André
-
 DAVIDOVITCH traite manuellement depuis près de quinze ans.
 
 Ces moyens sont comptés, le projet avance lentement. Pour les
@@ -47,16 +41,12 @@ de 1968 à 1973, l'informatisation des statistiques criminelles n'a
 apparemment pas la priorité pour eux. Terrain de quelques essais
 d'analyses factorielles mal venues ou de traceurs graphiques trop
 coûteux pour l'heure, elle patauge dans les constitutions de
-fichiers et les vérifications. L'affaire est venue trop tôt. au
+fichiers et les vérifications. L'affaire est venue trop tôt, au
 moins par rapport au développement effectif de l'outil informa-
 tique encore trop coûteux et trop lourd, trop éloigné du travail
 conceptuel des chercheurs. D'autres raisons plus théoriques sont
 en jeu, nous y reviendrons, mais ces contingences d'ordinateurs
 suffisent à expliquer "officiellement" l'arrêt des opérations en
-
 1973.
 
- 
-
 (1).- Centre d'Etudes Sociologiques.
-

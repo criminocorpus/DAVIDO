@@ -1,28 +1,26 @@
--24.-
+-24-
 
 Au C.E.S., les opérations avaient donc été menées sur deux
-fichiers distincts, l'un couvrant toute 1a période utile
+fichiers distincts, l'un couvrant toute la période utile
 (1831-1968 à l'époque) pour les séries intégralement disponibles
 par types d'infractions, l'autre sur la période 1831-1932 pour les
 séries dont la ventilation par infractions n'est disponible que
 sur cet intervalle. D'où i1 résultait pour commencer que les
-
 séries qui ne sont pas ventilées par infractions après 1932
 n'étaient pas relevées au delà (1), et pour finir, qu'aucune série
-
 non ventilée par infractions n'avait été retenue.
 
 Nous avons donc dû reprendre les opérations de relevé dès
 lors que notre objectif prioritaire était la description et la
 compréhension du fonctionnement de la justice pénale.
 
-La première étape fut de compléter 1a base de données par
+La première étape fut de compléter la base de données par
 toutes les séries qui sont disponibles de facon globale sur
 l'ensemble de la période. Cela couvre les séries concernant
 l'orientation des affaires au parquet, puis à l'instruction et les
 séries relatives à la détention préventive.
 
-Ensuite, et comme 1e travail d'interprétation était déjà
+Ensuite, et comme le travail d'interprétation était déjà
 commencé, il est apparu qu'un bon nombre de séries, disponibles
 jusqu'en 1932 seulement et non ventilées par infractions. étaient
 indispensables à l'interprétation des flux au sein de la justice
@@ -30,7 +28,7 @@ pénale. Autrement dit : habitués pour le temps présent à ne
 disposer que de quelques éléments statistiques très globaux sur
 les modes de poursuites et leurs résultats, nous pensions que ce
 petit stock toujours disponible après 1932 constituait l'essen-
-tiel. L'analyse des résultats prouvait le contraire pour 1a
+tiel. L'analyse des résultats prouvait le contraire pour la
 période 1831-1932. Dans un second temps, nous avons donc relevé de
 nouvelles séries pour cette première période de la statistique
 criminelle. Finalement les séries reprises des anciens fichiers
@@ -44,16 +42,12 @@ infractions pour la période 1831-1932. Nous nous sommes arrêtés
 pour l'instant à un ensemble suffisant pour fournir un premier
 cadre d'interprétation des flux judiciaires depuis l'entrée au
 parquet jusqu'à la mise à exécution des peines d'emprisonnement
-
 ferme. Il ne permettra pas de répondre à toutes les questions que
 cette description engendrera car certains croisements manqueront :
-
 par exemple on ne connaît pas le résultat du jugement correction-
-nel selon 1e mode de poursuite (après instruction, en flagrant
+nel selon le mode de poursuite (après instruction, en flagrant
 délit, ou sur citation directe) alors que d'autres croisements en
 indiquent la pertinence.
-
---------------------
 
 (1).- Du moins dans les fichiers informatiques, car par ailleurs
 André DAVIDOVITCH avait fait un ample usage de certaines de ces

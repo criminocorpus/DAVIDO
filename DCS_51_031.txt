@@ -1,4 +1,4 @@
--30...
+-30-
 
 Alors que pendant les années 1860-1890 l'outil n'est modifié
 que pour tenir compte des changements législatifs, la fin du
@@ -8,9 +8,9 @@ les tableaux publiés par juridictions deviennent moins nombreux.
 Un certain nombre de séries qu'on relevait auparavant dans des
 tableaux croisés n'apparaissent plus qu'en note de bas de page.
 Les moyens mêmes de vérifications basés sur les cohérences dimi-
-nuent donc pour le lecteur d'aujourd'hui. Tout cela se paSSe alors
+nuent donc pour le lecteur d'aujourd'hui. Tout cela se passe alors
 que certaines séries sont en augmentation rapide, certains ordres
-de grandeur devenant sans doute plus difficilement maitrisahles
+de grandeur devenant sans doute plus difficilement maitrisables
 (les classements sans suite par exemple).
 
 L'épisode de la fiche individuelle pour l'établissement des
@@ -22,7 +22,7 @@ donc -même si on ne l'écrit pas- peu fiable.
 
 Après la rupture due à la première guerre, la dégradation
 s'accentue. Non pas que les renseignements disparaissent ou
-deviennent incohérents : c'est plutôt la partie " appor " qui
+deviennent incohérents : c'est plutôt la partie "Rapport" qui
 manifeste clairement un désinvestissement de l'autorité centrale
 des questions statistiques. Retard croissant dans la publication,
 diminution du nombre de pages, commentaire de plus en plus

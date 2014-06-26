@@ -1,4 +1,4 @@
-..18...
+-18-
 
 En outre, le lien doit être fait entre infraction, condition
 personnelle du condamné et récidive. Ce dernier effort tournera
@@ -10,10 +10,8 @@ des individus.
 On peut noter cependant qu'entre-temps ce système de fiche
 individuelle avait été également prescrit pour tous les mineurs
 de 18 ans impliqués dans une procédure (circulaire du
-
 28 décembre 1911) pour être également supprimé pendant la guerre.
 Ces abandons, initialement qualifiés de provisoires. durent
-
 jusqu'après la seconde guerre.
 
 1.2.3.- Les fiches de casier judiciaire.
@@ -32,7 +30,7 @@ d'une lente gestation. Son expérimentation est lancée à la fin de
 ainsi : "Mon attention a été appelée, à plusieurs reprises, sur
 les inconvénients qui résultent des conditions dans lesquelles
 sont recueillis, chaque année, par les Parquets, les renseigne-
-ments statistiques destinés à l'établissement du ggmpte généralydg
+ments statistiques destinés à l'établissement du Compte général de
 l'Administration de la justice. Ce document ne peut être publié
 qu'avec un retard considérable et sans garantie suffisante d'exac-
 titude. J'envisage, en conséquence, de réorganiser progressivement
@@ -40,12 +38,10 @@ les services de la statistique, en faisant établir celle-ci selon
 des procédés mécanographiques".
 
 Cette annonce, qui ne fait aucune référence à l'ancienne
-fiche individuelle, est une rupture z l'exploitation centralisée
+fiche individuelle, est une rupture : l'exploitation centralisée
 des renseignements individuels par des moyens modernes permettra
 "au vu des résultats de cette tentative ...d'envisager dans
 l'avenir la suppression complète des statistiques annuelles".
-
- 
 
 En fait, dès 1945, le casier judiciaire devient une source
 d'alimentation pour divers organismes de traitement des
@@ -55,6 +51,6 @@ condamnation. Ceci implique la normalisation des documents
 pré-imprimés utilisés, de leur dactylographie et de leur collecte.
 C'est le but d'une circulaire technique datée du 15 décembre 1946.
 
-(l).- Institut National de la Statistique et des Etudes
+(1).- Institut National de la Statistique et des Etudes
 Economiques.
 

@@ -3,53 +3,47 @@
 2.5.- La base informatisée.
 
 Les tableaux que nous publions dans ce volume donnent l'image
-
 d'une base de données informatisée.
-De ce que nous avons exposé sur 1a construction des séries.
 
+De ce que nous avons exposé sur la construction des séries,
 il résulte que l'on peut parler d'un premier niveau de la base
 DAVIDO pour lequel les séries sont disponibles année par année à
 leur niveau élémentaire de définition (pas de séries reconstruites
-
 ou calculées).
-Dans le langaqe des logiciels utilisés (SAS, DBASE.
 
+Dans le langaqe des logiciels utilisés (SAS, DBASE.
 FRAMEWORK), les séries, auxquelles s'ajoutent l'année de la
 statistique, sont les variables ou les colonnes d'un tableau. Pour
-chaque année, les valeurs relevées dans le Çgmpte général forment
+chaque année, les valeurs relevées dans le Compte général forment
 les enregistrements de la base ou les lignes du tableau.
 
 La taille du fichier dépend évidemment du logiciel utilisé.
 En format "délimité" ou en tableau, SAS il occupe environ 200
-
 kilocaractères.
 
-2.6.- La mise à igurwde la base DAVIDO.
+2.6.- La mise à jour de la base DAVIDO.
 
 Les chiffres contenus dans la base DAVIDO sont pour l'essen-
-tiel issus du çgmpte général. En dehors de quelques éléments
+tiel issus du Compte général. En dehors de quelques éléments
 manquants repris d'archives, seuls les chiffres provenant des
-gadrgs des parquets pour les années 1979 à 1981 n'ont pas fait
+Cadres des parquets pour les années 1979 à 1981 n'ont pas fait
 l'objet d'une publication détaillée. Ils figuraient néanmoins pour
-l'essentiel dans le Rapport du gompteggénéralgdeml978 réalisé par
-
+l'essentiel dans le Rapport du Compte général de 1978 réalisé par
 deux des auteurs du présent volume.
-La publication intégrale et réqulière des séries statistiques
 
+La publication intégrale et régulière des séries statistiques
 pénales n'a pas été poursuivie par la Division de la statistique
-
 du ministère de la Justice.
+
 Nous n'avons pour l'instant pas cherché à résoudre les
-
-problèmes que posent en conséquence le prolonqement des séries de
+problèmes que posent en conséquence le prolongement des séries de
 la base DAVIDO. Ils sont d'ailleurs assez différents selon que les
-
 séries proviennent des Cadres du parquet ou de l'exploitation des
 condamnations inscrites au casier judiciaire. Pour les secondes,
 on a déjà indiqué comment deux ruptures de mode de production et
 un très grand retard d'exploitation imposaient de différer une
 reconstitution de séries qui s'annonce très ardue (voir ci-dessus,
-paragraphe 2.3). Pour les çagres du parquet. outre d'éventuels
+paragraphe 2.3). Pour les Cadres du parquet. outre d'éventuels
 retraitements des documents pour les années 1982 et 1983 dont
 l'exploitation a pu rester trop succincte pour nos besoins, on
 devra régler des questions de ruptures de séries liées soit à des
@@ -59,9 +53,5 @@ modifications législatives importantes et nombreuses entre 1981 et
 Quelle que soit la source, il n'est d'ailleurs pas évident
 que la prolongation des séries soit pertinente au niveau détaillé
 de la base DAVIDO. On devra très probablement se contenter de pro-
-positions de prolongation au niveau de séries agghgg construites
-
+positions de prolongation au niveau de séries ad hoc construites
 ou calculées.
-
- 
-

@@ -2,21 +2,17 @@
 
 1932, le comptage en personne ne commence qu'à l'instruction et,
 entre 1933 et 1978, il n'est utilisé que pour le résultat du
-
 jugement ou la détention préventive.
+
 A partir de la fin du XIXème siècle, les spécialistes de la
-
-statistique criminelle précisent 1a critique des unités de compte
-
+statistique criminelle précisent la critique des unités de compte
 adoptées par le système français.
-D'un côté le comptage en affaire ne correspond pas à
 
+D'un côté le comptage en affaire ne correspond pas à
 l'ambition que l'on conserve de faire de la statistique criminelle
 une mesure de la criminalité : il faudrait pour cela compter des
-
 faits et donc au minimum des infractions (1). De l'autre côté, la
 volonté de mettre en rapport la population des criminels ou des
-
 délinquants poursuivis avec la population totale au regard du
 sexe, de l'âge, etc. conduit à regretter le comptage multiple de
 certains individus au cours d'une période donnée.
@@ -27,16 +23,15 @@ entre 1905 et 1907 (circulaire du 30 décembre 1905, Compte général
 pour 1905 p. V et s.) conduisent ainsi à un enrichissement
 momentané des unités de compte : on cherche à recenser les
 infractions poursuivies et la population concernée pendant une
-période donnée. C'est 1a fiche individuelle dont on a parlé plus
+période donnée. C'est la fiche individuelle dont on a parlé plus
 haut qui doit fournir la base de ces comptages sur plusieurs
 unités, mais de fait la statistique reste, même pendant cette
 période, essentiellement organisée autour des notions d'affaires
 et de personne-décision. D'ailleurs, comme on l'a dit, la guerre
 puis l'effondrement du système de statistique judiciaire viendront
-
 mettre fin à cette tentative.
-Pour terminer, on relèvera que des unités de compte décrivant
 
+Pour terminer, on relèvera que des unités de compte décrivant
 mieux l'activité des magistrats et auxiliaires de justice -au sens
 de travail fourni- ne sont pas recherchées, au moins dans la
 statistique criminelle. La statistique civile est nettement plus
@@ -47,7 +42,6 @@ Compte civil. D'ailleurs, au cours des années 1970, à côté des
 cadres des parquets, les juridictions pénales fournissaient encore
 à la direction des Services judiciaires de la Chancellerie, des
 états statistiques destinés à évaluer leur activité. Les deux
-
 systèmes de collecte de renseignements n'ont été fondus en un seul
 qu'en 1984.
 

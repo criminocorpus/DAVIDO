@@ -13,9 +13,9 @@ plus tôt durant une période (1830-1880) pour laquelle il y a tout
 lieu de supposer que la statistique pénale n'avait rien à envier
 en fiabilité aux autres sources de la "statistique morale".
 
-2.g,- La vérification des séries.
+2.4.- La vérification des séries.
 
-Au second degré l'utilisateur pourra se posar des questions
+Au second degré l'utilisateur pourra se poser des questions
 sur la conformité aux sources des chiffres que nous publions dans
 la base de données DAVIDO. Eviter les erreurs sur un tel ensemble
 de chiffres ne va pas de soi.
@@ -25,16 +25,16 @@ règle générale, ne se trompe pas. L'édition présentée ici étant la
 reproduction d'un listing d'ordinateur, nous évitons le casse-tête
 des erreurs d'impression.
 
-Ensuite. sur un bon nombre de séries, nous avons procédé à
+Ensuite, sur un bon nombre de séries, nous avons procédé à
 des vérifications visuelles. Elles sont fastidieuses et leur
 performance n'est pas absolue.
 
 Nos outils ultimes de vérification ont été les contrôles de
 cohérence : rares sont les séries qui n'obéissent pas à une
 cohérence simple comme le total égale la somme des parties, et
-bien d'autres entrent dans des égalités plus compleXes.
+bien d'autres entrent dans des égalités plus complexes.
 
-De tous ces contrôles, i1 est résulté soit la rectification
+De tous ces contrôles, il est résulté soit la rectification
 d'une erreur imputable à nos manipulations, soit le constat que
 "l'erreur" existe dans le Compte général lui-même. Dans ce dernier
 cas, nous avons parfois retenu dans la base DAVIDO une valeur

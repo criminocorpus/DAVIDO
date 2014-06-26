@@ -1,4 +1,4 @@
--19.-
+-19-
 
 Tout ceci prépare le terrain pour la nouvelle méthode que
 l'on baptisera "statistique mécanographique" par opposition à
@@ -11,25 +11,19 @@ L'I.N.S.E.E. restitue en fin d'exploitation des tableaux donnant
 la répartition des condamnations prononcées selon les critères
 extraits des fiches (infraction, sanction, sexe, âge, profession
 et nationalité des condamnés) de façon beaucoup plus détaillée que
-
 la statistique traditionnelle.
+
 C'est en 1952 que débute la collecte (décret du
-
 16 novembre 1951), mais l'administration ne précipite pas les
-choses. On attend les résultats de l'exploitation mécanoqraphique
-
+choses. On attend les résultats de l'exploitation mécanographique
 avant de supprimer les cadres manuels. Finalement cette
 suppression, limitée en fait au tableau croisant le résultat des
-
 poursuites avec les infractions et aux tableaux donnant le sexe et
 l'âge des condamnés, ne sera décidée que pour 1955, après une
-
 comparaison des deux systèmes sur trois années.
 Cette comparaison a vraisemblablement donné satisfaction aux
-
 statisticiens de l'époque et a permis en tous cas de préciser les
 instructions de collecte, de chiffrement et d'exploitation pour
-
 éviter les erreurs rencontrées lors des contrôles. Sur ce plan
 l'opération semble avoir bénéficié de la garantie technique
 apportée par l'I.N.S.E.E..
@@ -56,6 +50,5 @@ On verra d'ailleurs plus loin (paragraphe 2.3) que pour des
 raisons de fiabilité et en raison de ruptures de séries trop
 importantes, nous n'avons pas pu utiliser cette source statistique
 après le transfert de l'exploitation de l'I.N.S.E.E. au ministère
-
 de la Justice en 1979.
 

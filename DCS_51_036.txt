@@ -1,25 +1,19 @@
 -35-
 
-QJ- PRÉSENTATION DES SERIES.
+3.- PRESENTATION DES SERIES.
 
-3.1.- L'organisation des informationsL
+3.1.- L'organisation des informations.
 
 Chaque série suppose la maîtrise d'une quantité importante
 d'informations. Nous avons déjà présenté celles qui concernent la
-
 source et le mode de production des statistiques criminelles. Nous
 présenterons encore ici un certain nombre d'observations qui
-
 valent pour toutes les séries. Ensuite l'examen des séries propre-
 ment dites commencera. Il sera mené selon un plan qui reflète en
 grande partie le déroulement de la procédure pénale et sa présen-
-
-tation dans 1e Compte général. Pour chaque regroupement de séries
+tation dans le Compte général. Pour chaque regroupement de séries
 dans une partie de ce plan, certaines observations communes sont
-
 données dans un paragraphe intitulé "généralités".
-
- 
 
 De cette façon, allant du général au particulier, le lecteur
 peut prendre connaissance de l'ensemble des considérations entou-
@@ -27,48 +21,32 @@ rant l'établissement d'une série. Le paragraphe concernant en
 propre une série ne contient donc pas toutes ses caractéristiques.
 
 On y trouve systématiquement :
-- dans 1e titre du paragraphe, le nom donné à la série, son
-
+- dans le titre du paragraphe, le nom donné à la série, son
 code dans la base informatique, les années de début et de fin.
-Le nom de la série, limité à huit caractères par les louiciels
-
+Le nom de la série, limité à huit caractères par les logiciels
 utilisés, tente de rappeler le contenu de la série. Il commence
 toujours par un A pour les comptages en affaires. par un P pour
 les comptages en personnes et par un N pour les séries donnant des
-
 effectifs d'agents.
 L'astérisque à la suite des années de début et de fin indique que
-
 des années autres que celles d'interruption de la publication
-(1914-1918 et 1939) sont manquantes à l'intérieur de 1a période
-
+(1914-1918 et 1939) sont manquantes à l'intérieur de la période
 considérée.
 - le titre développé de la série suffit souvent à en indiquer
-
 la définition. Il est reconstruit à partir des indications données
-par 1e tableau dont provient la série. Ses principales variations
-
+par le tableau dont provient la série. Ses principales variations
 sont indiquées.
-- 1a description de la série ne donne que les valeurs man-
-
+- la description de la série ne donne que les valeurs man-
 quantes qui lui sont propres. Les valeurs manquantes propres à un
 groupe de séries ou à toutes les séries (interruption de publica-
-
 tion du Compte général) ne sont pas reprises à chaque série. Ces
-valeurs manquantes (absence de renseignement dans le Çgmpte
-
+valeurs manquantes (absence de renseignement dans le Compte
 général) sont figurées dans la base de données par un point.
 - les commentaires propres à une série donnent en particulier
-
 les valeurs aberrantes et les corrections apportées ainsi que les
 estimations que l'on a pu tenter pour combler des valeurs man-
-
 quantes .
 
- 
-
 On trouvera en annexe deux listes récapitulatives des séries
-
 classées l'une selon les tableaux de chiffres dont le découpage
 correspond au plan d'exposition, l'autre par ordre alphabétique.
-

@@ -9,7 +9,6 @@ par la publication pour quelques années seulement n'avait guère
 d'utilité à présent. Mais là encore, toutes ces informations et
 toutes ces décisions sont consignées dans la description des
 séries de facon à ce que l'utilisateur en retrouve la trace et
-
 puisse en se référant au Compte général retrouver les détails omis
 et en tout cas la provenance de nos chiffres.
 
@@ -19,13 +18,12 @@ séries à un niveau de détail assez grand. Viendra ensuite, au
 moment de l'analyse des résultats, la présentation de séries
 reconstruites ou calculées qui seront évidemment ajoutées à la
 base DAVIDO, mais cette fois avec un statut différent. La recons-
-truction des séries repose alors largement sur 1e travail d'inter-
+truction des séries repose alors largement sur le travail d'inter-
 prétation lui-même : c'est bien souvent pour pouvoir dire quelque
 chose sur une longue période ou pour synthétiser des résultats en
 fonction d'un certain questionnement que l'on arrive à la cons-
 truction d'une série historique sur longue période. Pour ce
 premier niveau de la base DAVIDO, nous en sommes restés finalement
-
 à des considérations très proches de l'état de la source
 statistique.
 
@@ -40,17 +38,14 @@ juridictions.
 La seule indication précise et directe dont on dispose est de
 nature purement interne à la source : les règles de cohérence
 imposées entre les divers chiffres fournis sont plus ou moins
-
 respectées selon les périodes. Encore ces écarts ne permettent-ils
 que de détecter des erreurs certaines. Là où il doit y avoir une
 relation arithmétique entre plusieurs variables, l'inadéquation
 des valeurs données par le Compte général permet de conclure qu'au
 moins une de ces valeurs est erronée. Inversement, on ne peut
 déduire de la cohérence observée que les valeurs sont justes.
-
 Elles peuvent être alors simplement redressées pour faire dispa-
 raître les incohérences. Ou bien de façon intermédiaire, les
-
 relations entre les renseignements demandés peuvent être utilisées
 pour estimer certains d'entre eux (technique à laquelle nous
 recourons d'ailleurs pour estimer les valeurs manquantes ou trop

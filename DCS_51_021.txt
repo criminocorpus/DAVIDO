@@ -9,14 +9,12 @@ niveau policier (AUBUSSON 1988).
 
 L'appareil conceptuel mis en place en 1825 semble avoir
 stabilisé dans un premier temps les définitions utilisées pour le
-
 comptage : on emploie comme unités simultanément l'affaire et la
 personne.
 
 La notion d'affaire a une apparence aussi naturelle pour les
 praticiens que la personne. L'affaire, c'est l'unité de
 traitement : le dossier de la procédure écrite la matérialise
-
 assez facilement. L'inconvénient de cette unité de compte est que
 d'une affaire à l'autre, le contenu peut varier à bien des points
 de vue.
@@ -24,14 +22,12 @@ de vue.
 Une affaire peut concerner plusieurs personnes (complicité).
 peut viser plusieurs infractions (identiques répétées ou
 différentes), peut donner lieu à chaque étape de la procédure à
-
 des décisions multiples (plusieurs décisions d'orientation au
 parquet ou à l'instruction, plusieurs arrêts ou jugements en fin
-
 de parcours). Chacun de ces constituants (personne, infraction,
 décision) peut fournir une unité de compte concurrente de
 l'affaire. Tant que l'affaire reste une unité concrète de gestion,
-elle est un point de passage obligé de 1a statistique. Néanmoins,
+elle est un point de passage obligé de la statistique. Néanmoins,
 on s'accorde à penser aujourd'hui qu'un net progrès dans l'unifor-
 misation entre les juridictions, voire entre les types de conten-
 tieux, doit être obtenu pour que l'affaire reste une unité
@@ -53,7 +49,7 @@ Ici, il convient de préciser que l'unité personne, qu'il
 s'agisse d'inculpés, d'accusés, de prévenus, d'acquittés ou de
 condamnés, est en fait un croisement de la décision et de
 l'individu. Un même individu impliqué au cours de l'année dans
-plusieurs procédures différentes sera copppé plusieurs fpis.
+plusieurs procédures différentes sera compté plusieurs fois.
 
 Sans entrer dans le détail des choses -ce qui sera fait lors
 de l'analyse des séries- on peut relever qu'il n'est pas possible
@@ -62,7 +58,7 @@ pénale avec une seule des deux unités de compte. La description de
 l'activité du parquet et des juges d'instruction n'est possible
 qu'en comptant des affaires dont certaines ne visent personne
 (auteur inconnu), tandis que les sanctions finales et les mesures
-provisoires supposent un comptage par personnesdécision. Jusqu'en
+provisoires supposent un comptage par personne-décision. Jusqu'en
 
  
 
