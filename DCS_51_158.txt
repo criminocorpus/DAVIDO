@@ -1,11 +1,9 @@
 -157-
 
-- L E S T A B L E A U X
-
-D E L A B Â S E D E D 0 N N E E S D A V I D O -
+- LES TABLEAUX DE LA BASE DE DONNEES DAVIDO -
 
 Lorsque le nombre de séries d'un tableau dépasse ce que peut
 contenir une page, ce qui est en général le cas, il est découpé
 par séries en donnant d'abord toutes les années pour le premier
-groupe de séries, puis pour le second, etc..n
+groupe de séries, puis pour le second, etc...
 
