@@ -55,3 +55,4 @@ que la prolongation des séries soit pertinente au niveau détaillé
 de la base DAVIDO. On devra très probablement se contenter de pro-
 positions de prolongation au niveau de séries ad hoc construites
 ou calculées.
+

@@ -14,42 +14,39 @@ les variations intervenues tant sur le territoire de la France
 métropolitaine ("champ géographique") que sur celui couvert par
 les statistiques publiées ("champ statistique").
 
-PERIODE     CHAMP GEOGRAPHIQUE          CHAMP STATISTIQUE
-AVANT       Les départements de         Le champ "statistique" est
-1860 :      Savoie, Haute-Savoie et     identique au "champ
-            une partie des Alpes-       géographique".
-            Maritimes (le Comté de
-            Nice) sont exclus.
 
-DE 1860 A   Le territoire métropoli-    En 1860, le "champ statis-
-1869 :      tain correspond au terri-   tique" ne correspond pas
-            toire actuel, divisé en 90  au territoire géoqraphi-
-            départements.               que : il manque encore les
-                                        statistiques de la Savoie,
-                                        de la Haute-Savoie et du
-                                        Comté de Nice. A partir de
-                                        1861, les deux coïncident.
-
-DE 1870 A   Sont exclus les arron-       Les arrondissements ne
-1913 (1) :  dissements de Colmar,        faisant pas partie du
-            Saverne, Strasbourg,         territoire national sont
-            Schelestadt, Wissembourg,    exclus également du "champ
-            Belfort et Mulhouse (du      statistique". De plus, en
-            ressort de Colmar), ceux     1870 et les cinq premiers
-            de Metz et Thionville (du    mois de 1871, les statis-
-            ressort de Metz), ceux de    tiques du département de
-            Sarrebourg et Vic (du        la Seine sont exclues en
-            ressort de Nancy) - soit     raison de l'incendie du
-            l'Alsace et la Lorraine      palais de justice de
-            (1).                         Paris. En 1870, est aussi
-                                         exclue la statistique du
-                                         tribunal de Remiremont en
-                                         raison également de l'in-
-                                         cendie du palais de
-                                         justice (2).
-
-(1).- Source : Comparaison des tableaux des Compte généraux de
-1869 et 1870 ainsi que pages V et VI du Compte général de 1870.
-
-(2).- Source : Page V du Compte général de 1819 et page VII du
-Compte général de 1871.
++-----------+-------------------------------+--------------------------------+
+|Période    |Champ géographique             |Champ statistique               |
++===========+===============================+================================+
+|Avant      |Les départements de            |Le champ "statistique" est      |
+|1860 :     |Savoie, Haute-Savoie et        |identique au "champ             |
+|           |une partie des Alpes-          |géographique".                  |
+|           |Maritimes (le Comté de         |                                |
+|           |Nice) sont exclus.             |                                |
++-----------+-------------------------------+--------------------------------+
+|De 1860 à  |Le territoire métropolitain    |En 1860, le "champ statistique" |
+|1869 :     |correspond au territoire       |ne correspond pas               |
+|           |actuel, divisé en 90           |au territoire géographique :    |
+|           |départements.                  |il manque encore les            |
+|           |                               |statistiques de la Savoie,      |
+|           |                               |de la Haute-Savoie et du        |
+|           |                               |Comté de Nice. A partir de      |
+|           |                               |1861, les deux coïncident.      |
++-----------+-------------------------------+--------------------------------+
+|De 1870 à  |Sont exclus les arrondissements|Les arrondissements ne          |
+|1913 [#]_ :|de Colmar,                     |faisant pas partie du           |
+|           |Saverne, Strasbourg,           |territoire national sont        |
+|           |Schelestadt, Wissembourg,      |exclus également du "champ      |
+|           |Belfort et Mulhouse (du        |statistique". De plus, en       |
+|           |ressort de Colmar), ceux       |1870 et les cinq premiers       |
+|           |de Metz et Thionville (du      |mois de 1871, les statistiques  |
+|           |ressort de Metz), ceux de      |du département de               |
+|           |Sarrebourg et Vic (du          |la Seine sont exclues en        |
+|           |ressort de Nancy) - soit       |raison de l'incendie du         |
+|           |l'Alsace et la Lorraine.       |palais de justice de            |
+|           |                               |Paris. En 1870, est aussi       |
+|           |                               |exclue la statistique du        |
+|           |                               |tribunal de Remiremont en       |
+|           |                               |raison également de l'incendie  |
+|           |                               |du palais de justice [#]_.      |
++-----------+-------------------------------+--------------------------------+
