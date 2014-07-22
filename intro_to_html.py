@@ -1,7 +1,7 @@
 import re
 from docutils.core import publish_string
 
-intro = ''
+intro = '.. contents:: Sommaire\n\n'
 
 for i in range(10, 40):
     with open('DAVIDO/DCS_51_%03d.txt' % i) as f:
@@ -34,7 +34,8 @@ intro = re.sub(r'^\d+\.\d+\.\d+\.- (.+)$', replace('.'), intro, flags=re.MULTILI
 intro = re.sub(r'^\d+\.\d+\.- (.+)$', replace('-'), intro, flags=re.MULTILINE)
 intro = re.sub(r'^\d+\.- (.+)$', replace('='), intro, flags=re.MULTILINE)
 
-
+with open('intro.rst', 'w') as f:
+    f.write(intro)
 with open('intro.html', 'w') as f:
+    f.write('<style>ul.simple { padding-left: 0; } ul { padding-left: 20px; } ul li { list-style-type: none; }</style>')
     f.write(publish_string(intro, writer_name='html'))
-
