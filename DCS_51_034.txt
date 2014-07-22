@@ -11,7 +11,7 @@ DAVIDO pour lequel les séries sont disponibles année par année à
 leur niveau élémentaire de définition (pas de séries reconstruites
 ou calculées).
 
-Dans le langaqe des logiciels utilisés (SAS, DBASE.
+Dans le langage des logiciels utilisés (SAS, DBASE,
 FRAMEWORK), les séries, auxquelles s'ajoutent l'année de la
 statistique, sont les variables ou les colonnes d'un tableau. Pour
 chaque année, les valeurs relevées dans le Compte général forment
