@@ -1,17 +1,21 @@
 -40-
 
-Effectifs Affaires Comparaison des deux listes d'agents
-
-NPONPECH  APONPECH Alors que les effectifs sont donnés dès 1863,
-                   les affaires transmises par ces agents ne sont
-                   indiquées qu'à partir de 1866.
-NDOUANE   AIMPDOUA Les effectifs ne sont donnés que pour les
-                   douaniers et de 1843 à 1907, tandis que le
-                   nombre des affaires concerne également les
-                   agents des contributions indirectes et est
-                   indiqué de 1908 à 1932.
-          AORPVALT Cette rubrique "divers" n'existe que pour
-                   les affaires.
++-----------+----------+------------------------------------------------+
+| Effectifs | Affaires | Comparaison des deux listes d'agents           |
++===========+==========+================================================+
+| NPONPECH  | APONPECH | Alors que les effectifs sont donnés dès 1863,  |
+|           |          | les affaires transmises par ces agents ne sont |
+|           |          | indiquées qu'à partir de 1866.                 |
++-----------+----------+------------------------------------------------+
+| NDOUANE   | AIMPDOUA | Les effectifs ne sont donnés que pour les      |
+|           |          | douaniers et de 1843 à 1907, tandis que le     |
+|           |          | nombre des affaires concerne également les     |
+|           |          | agents des contributions indirectes et est     |
+|           |          | indiqué de 1908 à 1932.                        |
++-----------+----------+------------------------------------------------+
+|           | AORPVALT | Cette rubrique "divers" n'existe que pour      |
+|           |          | les affaires.                                  |
++-----------+----------+------------------------------------------------+
 
 4.2.- Les séries de la base.
 

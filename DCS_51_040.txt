@@ -24,24 +24,35 @@ effectifs ne correspond pas exactement à celle du tableau présenté
 au chapitre suivant pour les affaires transmises par chaque sorte
 d'agent. Les variations de l'un à l'autre sont les suivantes :
 
-Effectifs  Affaires  Comparaison des deux listes d'agents
-
-NBRIGADE
-NGENDARM   AGENDARM
-NCOMIPOL   APOLICE
-NAGENPOL   APOLICOM
-NPOLIFER   APOLIFER
-NPOLIMOB   APOLIMOB
-NMAIRES    AMAIRE    Alors que les affaires transmises par ces
-                     agents sont données de 1831 à 1932, les
-                     effectifs ne sont indiqués que de 1876 à
-                     1906.
-           AJUGE     Cette rubrique n'existe que pour les
-                     affaires.
-NCHAMPET   ACHAMPET
-NPARTIC    APARTIC Alors que les effectifs sont donnés dès 1842,
-                   les affaires transmises par ces agents ne
-                   sont indiquées qu'à partir de 1875.
-NFOREST            Seuls les effectifs sont indiqués et à partir
-                   de 1843 seulement.
-
++-----------+----------+-----------------------------------------------+
+| Effectifs | Affaires | Comparaison des deux listes d'agents          |
++===========+==========+===============================================+
+| NBRIGADE  |          |                                               |
++-----------+----------+-----------------------------------------------+
+| NGENDARM  | AGENDARM |                                               |
++-----------+----------+-----------------------------------------------+
+| NCOMIPOL  | APOLICE  |                                               |
++-----------+----------+-----------------------------------------------+
+| NAGENPOL  | APOLICOM |                                               |
++-----------+----------+-----------------------------------------------+
+| NPOLIFER  | APOLIFER |                                               |
++-----------+----------+-----------------------------------------------+
+| NPOLIMOB  | APOLIMOB |                                               |
++-----------+----------+-----------------------------------------------+
+| NMAIRES   | AMAIRE   | Alors que les affaires transmises par ces     |
+|           |          | agents sont données de 1831 à 1932, les       |
+|           |          | effectifs ne sont indiqués que de 1876 à      |
+|           |          | 1906.                                         |
++-----------+----------+-----------------------------------------------+
+|           | AJUGE    | Cette rubrique n'existe que pour les          |
+|           |          | affaires.                                     |
++-----------+----------+-----------------------------------------------+
+| NCHAMPET  | ACHAMPET |                                               |
++-----------+----------+-----------------------------------------------+
+| NPARTIC   | APARTIC  | Alors que les effectifs sont donnés dès 1842, |
+|           |          | les affaires transmises par ces agents ne     |
+|           |          | sont indiquées qu'à partir de 1875.           |
++-----------+----------+-----------------------------------------------+
+| NFOREST   |          | Seuls les effectifs sont indiqués et à partir |
+|           |          | de 1843 seulement.                            |
++-----------+----------+-----------------------------------------------+

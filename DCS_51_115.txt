@@ -28,11 +28,13 @@ l'amende : par exemple à démolir des constructions élevées trop
 près des forêts, à restituer des bois enlevés ou replanter des
 terrains défrichés. Leur nombre annuel est le suivant :
 
-1831 : 5   1836 : 22  1841 : 5  1846 : 4
-1832 : 10  1837 : 22  1842 : 5  1847 : -
-1833 : 6   1838 : 20  1843 : -  1848 : 5
-1834 : 27  1839 : 19  1844 : 3  1849 : 6
-1835 : 38  1840 : 21  1845 : 5  1850 : 4
++-----------+-----------+----------+----------+
+| 1831 :  5 | 1836 : 22 | 1841 : 5 | 1846 : 4 |
+| 1832 : 10 | 1837 : 22 | 1842 : 5 | 1847 : - |
+| 1833 :  6 | 1838 : 20 | 1843 : - | 1848 : 5 |
+| 1834 : 27 | 1839 : 19 | 1844 : 3 | 1849 : 6 |
+| 1835 : 38 | 1840 : 21 | 1845 : 5 | 1850 : 4 |
++-----------+-----------+----------+----------+
 
 Ce renseignement est fourni en note au bas du tableau inti-
 tulé "Délits jugés par les divers tribunaux correctionnels du
