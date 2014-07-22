@@ -6,8 +6,10 @@ b.- Tableau de calcul :
 | A    |          |          | CONTR5è | CONT5 R40 | CONT5 AUTRE | C0NT5 TOT |
 | N    |          |          | RENVOI/ | CONDAMN.  | CONDAMN.    | CONDAMN.  |
 | N    |          |          | TOTAL   | CASIER    | CASIER      | CASIER    |
-| E    | ACOMMUTP | ACOMMTPS | RENVOI  |           |             |           |
-| E    | BASE     | BASE     | CALCUL  | RELEVE    | RELEVE      | RELEVE    |
+| É    | ACOMMUTP | ACOMMTPS | RENVOI  |           |             |           |
+| E    +----------+----------+---------+-----------+-------------+-----------+
+|      | BASE     | BASE     | CALCUL  | RELEVE    | RELEVE      | RELEVE    |
+|      +----------+----------+---------+-----------+-------------+-----------+
 |      |     1    |      2   |     3   |      4    |       5     |      6    |
 +======+==========+==========+=========+===========+=============+===========+
 | 1960 |          |          |         |     31336 |             |           |
@@ -33,7 +35,7 @@ b.- Tableau de calcul :
 | A    |             |             |  ESTIM1   |  ESTIM2 | ESTIM3    |
 | N    | TAUX5       | CONT5       |           |         |           |
 | N    | C0NT5 TOTAL | COND5 TOTAL |  1.42*    |  ESTIM1 | CONT5 TOT |
-| E    | / RENVOI    | /CONT5 R40  |           |         |           |
+| É    | / RENVOI    | /CONT5 R40  |           |         |           |
 | E    | CALCUL      | CALCUL      | CONT5 R40 | / 0.64  | / 0.64    |
 |      |       7     |       8     |    9      |    10   |   11      |
 +======+=============+=============+===========+=========+===========+
