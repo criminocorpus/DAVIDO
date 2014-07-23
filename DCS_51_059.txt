@@ -2,31 +2,31 @@
 
 6.2.2.2.- ACLASDEL (X11 - 1831 à 1932).
 
-"Affaires sans suite présentant dans le principe, le
-caractère de délit".
+**"Affaires sans suite présentant dans le principe, le
+caractère de délit".**
 
 6.2.2.3.- ANICNID1 (X4 - 1831 à 1932).
 
-"Affaires laissées sans poursuites attendu que les faits ne
-constituaient ni crime ni délit".
+**"Affaires laissées sans poursuites attendu que les faits ne
+constituaient ni crime ni délit".**
 
 6.2.2.4.- AINCONN1 (X5 - 1831 à 1932).
 
-"Affaires laissées sans poursuites attendu que les auteurs
-sont restés inconnus".
+**"Affaires laissées sans poursuites attendu que les auteurs
+sont restés inconnus".**
 
 6.2.2.5.- APAGRAV1 (X7 - 1831 à 1932).
 
-"Affaires laissées sans poursuites attendu que les faits
+**"Affaires laissées sans poursuites attendu que les faits
 étaient sans gravité et n'intéressaient pas essentiellement
-l'ordre public".
+l'ordre public".**
 
 6.2.2.6.- AMENTAL1 (X5 - 1905 à 1932).
 
-"Affaires laissées sans poursuites" en raison de l'"état
-mental de l'inculpé".
+**"Affaires laissées sans poursuites" en raison de l'"état
+mental de l'inculpé".**
 
-Cette rubrique n'apparaît dans le tableau du Compte général
+Cette rubrique n'apparaît dans le tableau du *Compte général*
 qu'à partir de 1905. Elle est la traduction statistique de la
 circulaire du 12 décembre 1905, dite "circulaire Chaumié". sur le
 rôle des expertises psychiatriques dans la décision d'atténuation
@@ -35,15 +35,15 @@ prévenu.
 
 6.2.2.7.- AINSUFF1 (X8 - 1906 à 1932).
 
-"Affaires laissées sans poursuites" en raison de "charges
-insuffisantes contre les inculpés désignés".
+**"Affaires laissées sans poursuites" en raison de "charges
+insuffisantes contre les inculpés désignés".**
 
-Cette rubrique n'apparaît dans les tableaux des Comptes
-généraux qu'à partir de 1906 à la demande des parquets eux-mêmes,
+Cette rubrique n'apparaît dans les tableaux des *Comptes
+généraux* qu'à partir de 1906 à la demande des parquets eux-mêmes,
 ainsi qu'en témoigne la circulaire sur les statistiques du
 22 décembre 1906, rédigée comme suit : "Plusieurs parquets ont
 appelé mon attention sur l'utilité d'ouvrir, dans ce même cadre,
-une colonne spéciale charges insuffisantes, destinée à recevoir
+une colonne spéciale *charges insuffisantes*, destinée à recevoir
 les affaires dans lesquelles, bien que des soupcons pèsent sur
 l'auteur d'un crime ou d'un délit, il a été impossible de réunir
 contre le présumé coupable des charges de nature à permettre

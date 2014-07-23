@@ -10,18 +10,18 @@ sur toute la période sans qu'il soit possible de les distinguer.
 
 7.2.2.1.- ATOTINST (V61 - 1831 à 1981).
 
-Total des affaires dont ont eu à s'occuper les juges
+**Total des affaires dont ont eu à s'occuper les juges
 d'instruction au cours de l'année (y compris celles restant de
-l'année précédente).
+l'année précédente).**
 
 Ce total, comme pour le parquet, est obtenu par une compta-
 bilité incluant les restes de fin d'année. Les valeurs que nous
 avons retenues pour cette série diffèrent de ce que propose le
-Compte général car nous avons dû pour certaines années en modifier
+*Compte général* car nous avons dû pour certaines années en modifier
 les composants.
 
 Aussi, en 1923, des erreurs d'addition dans le tableau du
-Compte général ont dû être rectifiées a posteriori au niveau des
+*Compte général* ont dû être rectifiées a posteriori au niveau des
 séries ARENVALT et ARESINST ; c'est pourquoi le chiffre saisi au
 niveau du total diffère de celui qui est publié dans le Compte
 général.
@@ -31,22 +31,22 @@ En 1944, les dessaisissements en faveur des cours de justice
 du total des affaires (cf. AJONCDES et AEVOCOUR).
 
 En 1969 et de 1971 à 1981, les chiffres saisis dans la base
-de données diffèrent de ceux qu'on peut relever dans les Comptes
-généraux, en effet nous avons ajouté au total les dessaisissements
+de données diffèrent de ceux qu'on peut relever dans les *Comptes
+généraux*, en effet nous avons ajouté au total les dessaisissements
 en faveur des tribunaux militaires (cf. AEVOCOUR).
 
 Ainsi, si la série ne correspond pas toujours au total donné
-par le Compte général, on obtient par ces modifications une cohé-
+par le *Compte général*, on obtient par ces modifications une cohé-
 rence qu'il s'est cependant dans l'ensemble efforcé de respecter :
 ATOTINST = somme(ATOTNOLI,ARENVACC,ARENVTC,ARENVTP,ARENVTE,
                  AJONCDES,ARENVALT,AEVOCOUR,ARESINST).
 
 7.2.2.2.- ATOTNOLI (V62 - 1831 à 1981).
 
-"Ordonnances de non-lieu" prononcées par les juges
-d'instruction.
+*"Ordonnances de non-lieu" prononcées par les juges
+d'instruction.*
 
-A partir de 1966, le tableau du Compte général comporte deux
+A partir de 1966, le tableau du *Compte général* comporte deux
 rubriques : "article 64 du C.P." (c'est-à-dire en raison de l'état
 mental de l'inculpé) et "pour autres motifs". Nous avons addi-
 tionné les deux rubriques. Les décisions de non-lieu au titre de

@@ -6,13 +6,13 @@
 5.1.- Généralités.
 
 Les séries qui suivent sont relevées dans le tableau intitulé
-en 1831 "Etat général des affaires dont le Ministère public a eu
+en 1831 **"Etat général des affaires dont le Ministère public a eu
 à s'occuper, classées suivant la manière dont elles sont parvenues
-à sa connaissance". Ce tableau distingue d'abord les affaires
+à sa connaissance"**. Ce tableau distingue d'abord les affaires
 reçues directement (ANOUVMP et ANOUVJI) puis ventile les procès-
 verbaux reçus des diverses catégories d'agents de constatation.
 Cet ensemble, totalisé dans ATOTORPV, varie au cours de la
-période. Le tableau disparaît du Compte général après 1932.
+période. Le tableau disparaît du *Compte général* après 1932.
 
 La circulaire sur les statistiques du 30 décembre 1905
 apporte la précision suivante : "L'affaire qui a été l'objet dans
@@ -23,24 +23,24 @@ statistique".
 
 Sont d'abord exclues les "contraventions fiscales jugées à la
 requête des administrations publiques et (les) contraventions
-portées directement devant les tribunaux de simple police" (Compte
-général de 1845, page XXVI). Il en est de même des contraventions
+portées directement devant les tribunaux de simple police" (*Compte
+général de 1841*, page XXVI). Il en est de même des contraventions
 forestières et douanières : "les gardes forestiers et les
 douaniers, placés sous la surveillance et la direction presque
 exclusive des administrations dont ils dépendent, ne constatent
 guère que les contraventions forestières, de pêche et de douane,
 et ce n'est pas au ministère public, mais à leurs administrations
-respectives, qu'ils adressent leurs procès-verbaux" (Compte
-général de 1850, page LXXX). On sait en effet que ces administra-
+respectives, qu'ils adressent leurs procès-verbaux" (*Compte
+général de 1850*, page LXXX). On sait en effet que ces administra-
 tions ont la faculté de mettre en marche l'action publique devant
 les tribunaux correctionnels pour les infractions de leur compé-
-tence. On trouve encore dans le Compte général de 1860 (page
+tence. On trouve encore dans le *Compte général de 1860* (page
 LXXII) une remarque à ce sujet ("Non compris les contraventions en
 matière forestière, de pêche, de contributions indirectes et de
 douanes, qui sont constatées par les agents spéciaux des adminis-
 trations financières. Les procès-verbaux en sont transmis
-directement à ces administrations"), ainsi que dans le Compte
-général de 1871, page XIX ("...non compris les contraventions aux
+directement à ces administrations"), ainsi que dans le *Compte
+général de 1871*, page XIX ("...non compris les contraventions aux
 lois sur les forêts, les douanes, les contributions indirectes,
 etc., qui sont jugées sur la poursuite des administrations
 qu'elles concernent").

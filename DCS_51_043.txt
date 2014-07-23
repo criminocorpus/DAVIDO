@@ -2,13 +2,13 @@
 
 4.2.7.- NMAIRES (V31 - 1876 à 1906).
 
-Nombre de "maires".
+*Nombre de "maires".*
 
 Cette rubrique n'existe pas avant 1876.
 
 4.2.8.- NCHAMPET (V32 - 1842 à 1932).
 
-Nombre de "gardes champêtres communaux".
+*Nombre de "gardes champêtres communaux".*
 
 Loi du 28 septembre 1791, article 1er : "Pour assurer les
 propriétés et conserver les récoltes, il pourra être établi des
@@ -27,8 +27,8 @@ article 2).
 
 4.2.9.- NPARTIC (V33 - 1842 à 1932).
 
-Nombre de "gardes particuliers assermentés", avec parfois en
-plus l'expression "en exercice".
+*Nombre de "gardes particuliers assermentés"*, avec parfois en
+plus l'expression *"en exercice".*
 
 Le décret du 20 messidor an III, article 4, déclare : "Tout
 propriétaire aura le droit d'avoir pour ses domaines un garde
@@ -45,9 +45,9 @@ d'agréement des gardes particuliers.
 
 La mise en place du comptage de ces agents a présenté
 quelques difficultés, en effet 32 tribunaux en 1842 (pages 225 à
-231 et 233 du Compte général de 1842), 16 en 1843 (pages 225, 225,
-228 à 231 et 233 du Compte général de 1843) et 7 en 1844 (pages
-225, 226, 229, 231 et 233 du Compte général de 1844) n'ont pas été
+231 et 233 du *Compte général de 1842*), 16 en 1843 (pages 225, 225,
+228 à 231 et 233 du *Compte général de 1843*) et 7 en 1844 (pages
+225, 226, 229, 231 et 233 du *Compte général de 1844*) n'ont pas été
 en mesure de fournir le renseignement. Les chiffres indiqués pour
 ces trois premières années sont donc sous-estimés.
 

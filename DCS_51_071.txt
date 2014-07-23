@@ -2,7 +2,7 @@
 
 7.4.2.2.- PANLTOT (Y2 - 1831 à 1932).
 
-Nombre total de "prévenus déchargés des poursuites".
+**Nombre total de "prévenus déchargés des poursuites".**
 
 Cette série est le plus souvent calculée. En effet on trouve
 en général dans le tableau la colonne intitulée "non arrêtés
@@ -12,8 +12,8 @@ Cf. PANLARRE.
 
 7.4.2.3.- AANLCRIM (Y3 - 1831 à 1932).
 
-"Nombre des faits présentant le caractère de crime" pour
-lesquels la chambre d'accusation a rendu un arrêt de non-lieu.
+**"Nombre des faits présentant le caractère de crime" pour
+lesquels la chambre d'accusation a rendu un arrêt de non-lieu.**
 
 Le tableau concernant les arrêts de non-lieu donne leur
 ventilation en affaires criminelles et délictuelles dont le total
@@ -38,15 +38,15 @@ d'accusation".
 
 7.4.2.4.- AANLDELI (Y4 - 1831 à 1932).
 
-"Nombre des faits présentant le caractère de délit" pour
-lesquels la chambre d'accusation a rendu un arrêt de non-lieu.
+**"Nombre des faits présentant le caractère de délit" pour
+lesquels la chambre d'accusation a rendu un arrêt de non-lieu.**
 
 Cf. AANLCRIM et PANLARRE.
 
 7.4.2.5.- AANLTOT (Y32 - 1831 à 1932).
 
-Nombre total des arrêts de non-lieu rendus par la chambre
-d'accusation.
+**Nombre total des arrêts de non-lieu rendus par la chambre
+d'accusation.**
 
 Cette série est calculée de la manière suivante :
 AANLTOT = somme(AANLCRIM,AANLDELI). Elle ne correspond pas pour

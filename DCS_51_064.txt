@@ -7,13 +7,13 @@ ensuite, jusqu'en 1932, la série ATOTNOLI compte les ordonnances
 de non-lieu frappées d'opposition qui ne sont pas comprises dans
 la ventilation par nature d'infraction (crime ou délit) ou par
 motifs de non-lieu, ainsi que le précise une note au bas du
-tableau (voir page 228 du Compte général de 1835 et page 100 du
-Compte général de 1932).
+tableau (voir page 228 du *Compte général de 1835* et page 100 du
+*Compte général de 1932*).
 
 7.2.2.3.- ARENVACC (V63 - 1831 à 1981).
 
-"Ordonnances de renvoi devant la chambre d'accusation"
-prononcées par les juges d'instruction.
+**"Ordonnances de renvoi devant la chambre d'accusation"
+prononcées par les juges d'instruction.**
 
 On trouve là les affaires criminelles pour lesquelles la
 chambre d'accusation est saisie par le procureur général en vue
@@ -21,7 +21,7 @@ d'un renvoi devant la cour d'assises.
 
 7.2.2.4.- ARENVTC (V64 - 1831 à 1981).
 
-"Ordonnances de renvoi devant le tribunal correctionnel".
+**"Ordonnances de renvoi devant le tribunal correctionnel".**
 
 Une note au bas du tableau précise quelle part représentent
 dans cette série les "affaires concernant" :
@@ -52,7 +52,7 @@ déduits de la série ARENVTC) :
 
 7.2.2.5.- ARENVTP (V65 - 1831 à 1850).
 
-"Ordonnances de renvoi devant le tribunal de simple police".
+**"Ordonnances de renvoi devant le tribunal de simple police".**
 
 La rubrique disparaît des tableaux des Comptes généraux après
 1850. On peut penser que ces décisions sont alors comptées avec

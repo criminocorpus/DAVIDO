@@ -9,12 +9,12 @@
 6.1.1.- Généralités.
 
 Les séries dont la description suit proviennent du tableau
-intitulé "Première direction donnée aux plaintes, dénonciations et
-procès-verbaux".
+intitulé **"Première direction donnée aux plaintes, dénonciations et
+procès-verbaux".**
 
 Ce tableau est présent dans les Cadres des parquets pour tou-
-te la période. Les chiffres sont relevés dans les Comptes généraux
-jusqu'en 1978, puis dans les Cadres.
+te la période. Les chiffres sont relevés dans les *Comptes généraux*
+jusqu'en 1978, puis dans les *Cadres*.
 
 Initialement, ce tableau ne concernait que les crimes et
 délits. L'introduction en 1958 d'une cinquième classe de contra-
@@ -39,11 +39,11 @@ réservé. Y figurent les affaires non orientées en fin d'année : il
 s'agit donc d'un total comptable.
 
 En 1957, nous avons ajouté ici 18 321 renvois aux juges des
-enfants qui n'avaient pas été comptés dans le tableau du Compte
-général (voir ci-dessous ACOMMUAL).
+enfants qui n'avaient pas été comptés dans le tableau du *Compte
+général* (voir ci-dessous ACOMMUAL).
 
 De 1959 à 1964, les chiffres présentés dans la base diffè-
-rent de ceux publiés dans les Comptes généraux correspondants en
+rent de ceux publiés dans les *Comptes généraux* correspondants en
 raison des modifications apportées au nombre des affaires communi-
 quées aux juges d'instruction (cf. ACOMMUJI).
 

@@ -20,25 +20,25 @@ consisterait à ne retenir comme constituant une série statistique
 qu'une suite de chiffres répondant strictement à une même défini-
 tion juridique. Cela ne garantit rien quant à l'homogénéité
 temporelle des pratiques couvertes par cette définition légale,
-mais cela fournit une méthode possible. A ceci près que le Compte
-général n'opère pas toujours ainsi et met à l'évidence bout à bout
+mais cela fournit une méthode possible. A ceci près que le *Compte
+général* n'opère pas toujours ainsi et met à l'évidence bout à bout
 des chiffres, même en cas de modification législative : par
 exemple, lorsque la majorité pénale change, l'organisation des
 colonnes du tableau donnant le résultat des poursuites correc-
 tionnelles n'est pas modifiée et emploie à l'identique le terme de
 "mineurs" qui ne couvre plus les mêmes cas. Nous avons donc suivi
-le Compte général dans sa sérialisation "sauvage" passant outre
+le *Compte général* dans sa sérialisation "sauvage" passant outre
 les modifications juridiques.
 
 Dès lors, à un premier niveau, on peut considérer comme une
 série sur une certaine période soit une suite de relevés corres-
 pondant à une définition inchangée, soit ce qui est présenté par
-le Compte général comme une série : intitulé fixe ou pratiquement
+le *Compte général* comme une série : intitulé fixe ou pratiquement
 fixe malgré une modification du régime juridique, ou regroupement
 de cas de contenu variable mais occupant manifestement la même
 place dans une nomenclature. Cette dernière situation vise au
 premier chef la rubrique "autre" des nomenclatures utilisées par
-le Compte général. Là encore les modications de contenu repérables
+le *Compte général*. Là encore les modications de contenu repérables
 dans la série ainsi constituée sont détaillées au cas par cas ou
 par groupe de séries.
 
@@ -56,7 +56,7 @@ restant malgré tout encore très près des séries de base, nous
 avons dû opérer un premier travail de reconstruction pour éviter
 de sombrer dans une multitude de séries définies sur très courte
 période. L'autre cas vient en général de certaines définitions
-éphémères adoptées dans les Cadres du parquet : par exemple
+éphémères adoptées dans les *Cadres* du parquet : par exemple
 
  
 

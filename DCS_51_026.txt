@@ -1,7 +1,7 @@
 -25-
 
 Nous avons cependant le sentiment que nos choix respectent la
-construction statistique du Compte général telle qu'elle se pré-
+construction statistique du *Compte général* telle qu'elle se pré-
 sente à sa meilleure période. Les cohérences observables entre les
 tableaux et l'architecture globale indiquent en filigrane un souci
 de description compréhensive des statisticiens du milieu du XIXème
@@ -24,19 +24,19 @@ D'une part un certain nombre d'éléments ont été publiés sous la
 direction de LEVADE (1972) dans la rétrospective sur "la délin-
 quance des jeunes en France. 1825-1968". D'autre part, à partir de
 1952, la publication des statistiques relatives à la justice des
-mineurs est séparée du Compte général : notre limitation à cette
+mineurs est séparée du *Compte général* : notre limitation à cette
 publication ou à ses sources pour nos relevés interdit donc une
 prolongation sous une nouvelle forme de ce premier travail de
 sérialisation propre aux mineurs délinquants.
 
 Les tableaux destinés à l'étude de la récidive occupent une
-bonne place dans le Compte général jusqu'en 1913. La qualité des
+bonne place dans le *Compte général* jusqu'en 1913. La qualité des
 données et leur hétérogénéité comme on le verra dans la section
 consacrée à ce sujet, nous ont conduits à nous limiter aux deux
 principales séries d'ensemble.
 
 Enfin, sans parler d'une bonne quantité de chiffres présentés
-par la table des matières du Compte général sous la rubrique
+par la table des matières du *Compte général* sous la rubrique
 "renseignements divers", nous avons aussi laissé de côté deux
 sujets qui appelaient l'attention des producteurs de statistiques
 au XIXème siècle: l'exercice des voies de recours (appel,

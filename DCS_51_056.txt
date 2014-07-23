@@ -2,17 +2,17 @@
 
 6.1.2.10.- ACOMMTP5 (V55 - 1961 à 1981).
 
-Affaires renvoyées devant le tribunal de police et concernant
-des contraventions de cinquième classe.
+**Affaires renvoyées devant le tribunal de police et concernant
+des contraventions de cinquième classe.**
 
 De 1961 à 1964, les chiffres sont estimés (cf. infra).
 
 En 1965, le chiffre est donné en note au bas du tableau.
 
 De 1966 à 1977, puis de nouveau de 1979 à 1981, les chiffres
-sont calculés à partir des Cadres.
+sont calculés à partir des *Cadres*.
 
-En 1978, le résultat figure dans le Compte général.
+En 1978, le résultat figure dans le *Compte général*.
 
 Estimation des renvois devant le tribunal de police pour des
 contraventions de 5ème classe.
@@ -33,23 +33,23 @@ pour des contraventions de 5ème classe/Renvoi au parquet pour les
 mêmes contraventions (calculé dans la colonne 7). Ce calcul a
 l'inconvénient de mêler des unités de compte différentes (condam-
 nations et affaires respectivement) et des sources statistiques
-différentes (duplicata des fiches de casier judiciaire et Cadres
+différentes (duplicata des fiches de casier judiciaire et *Cadres*
 des parquets), mais il ne s'en présente guère d'autre. De 1965 à
 1968 ce ratio varie, les plus forts écarts à la moyenne pouvant
 être des effets de l'amnistie de 1966 (sous-estimation comptable
 des condamnations et diminution des renvois). Il ne servirait à
 rien pour la même raison de considérer les valeurs obtenues pour
 1969 et 1970 (amnistie de 1969). On s'en tiendra donc à une valeur
-d'estimation de 0,64 pour les années manquantes.
+d'estimation de 0.64 pour les années manquantes.
 
 On déduit donc ainsi une estimation des renvois de contra-
 ventions de 5ème classe pour 1962, 1963 et 1964 (colonne 11). Pour
 1961, il faut en outre procéder à une estimation du total des
 condamnations pour des contraventions de 5ème classe, seul le
 sous-total correspondant aux contraventions prévues par l'article
-R40 du code pénal étant fourni par le Compte général de 1961. Le
+R40 du code pénal étant fourni par le *Compte général* de 1961. Le
 calcul de la colonne 8 montre un ratio Total/R40 assez stable de
-1963 à 1968 et l'on retient une estimation de 1,42 pour 1961 ce
+1963 à 1968 et l'on retient une estimation de 1.42 pour 1961 ce
 qui donne une estimation du total des condamnations (colonne 9)
 puis des renvois (colonne 10).
 

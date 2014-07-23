@@ -1,4 +1,4 @@
--14.-
+-14-
 
 1.2.1.- Les cadres statistiques des parquets (1825-1981).
 
@@ -14,7 +14,7 @@ rassemblés à un premier niveau par le procureur général qui est
 censé les contrôler. Transmis à la Chancellerie, ils sont utilisés
 pour confectionner des tableaux statistiques au niveau national,
 incluant pour certains une ventilation par ressorts géographiques,
-et publiés annuellement jusqu'en 1978 dans le Compte général.
+et publiés annuellement jusqu'en 1978 dans le *Compte général*.
 
 Ce système, simple pour l'autorité centrale puisqu'il reporte
 l'essentiel de la tâche sur les juridictions, porte de nos jours,

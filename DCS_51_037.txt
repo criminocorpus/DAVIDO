@@ -19,13 +19,13 @@ les statistiques publiées ("champ statistique").
 |Période    |Champ géographique             |Champ statistique               |
 +===========+===============================+================================+
 |Avant      |Les départements de            |Le champ "statistique" est      |
-|1860 :     |Savoie, Haute-Savoie et        |identique au "champ             |
+|1860       |Savoie, Haute-Savoie et        |identique au "champ             |
 |           |une partie des Alpes-          |géographique".                  |
 |           |Maritimes (le Comté de         |                                |
 |           |Nice) sont exclus.             |                                |
 +-----------+-------------------------------+--------------------------------+
 |De 1860 à  |Le territoire métropolitain    |En 1860, le "champ statistique" |
-|1869 :     |correspond au territoire       |ne correspond pas               |
+|1869       |correspond au territoire       |ne correspond pas               |
 |           |actuel, divisé en 90           |au territoire géographique :    |
 |           |départements.                  |il manque encore les            |
 |           |                               |statistiques de la Savoie,      |
@@ -34,7 +34,7 @@ les statistiques publiées ("champ statistique").
 |           |                               |1861, les deux coïncident.      |
 +-----------+-------------------------------+--------------------------------+
 |De 1870 à  |Sont exclus les arrondissements|Les arrondissements ne          |
-|1913 [#]_ :|de Colmar,                     |faisant pas partie du           |
+|1913 [#]_  |de Colmar,                     |faisant pas partie du           |
 |           |Saverne, Strasbourg,           |territoire national sont        |
 |           |Schelestadt, Wissembourg,      |exclus également du "champ      |
 |           |Belfort et Mulhouse (du        |statistique". De plus, en       |

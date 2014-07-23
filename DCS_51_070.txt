@@ -7,9 +7,9 @@
 L'ensemble de ces séries est relevé de 1831 à 1932.
 
 Les séries "ANL" (PANLARRE à AANLTOT) proviennent du tableau
-intitulé "Etat des affaires terminées par des arrêts de non-lieu à
+intitulé **"Etat des affaires terminées par des arrêts de non-lieu à
 suivre, rendus par les chambres d'accusation - Prévenus déchargés
-des poursuites". Elles font pendant aux séries précédentes concer-
+des poursuites".** Elles font pendant aux séries précédentes concer-
 nant les ordonnances de non-lieu.
 
 Ces séries sont croisées avec la nature des faits ayant
@@ -19,9 +19,8 @@ De 1925 à 1930. on observe un nombre important de ce type de
 prévenus pour escroquerie, abus de confiance et autres délits.
 
 Les séries "ACC" (AACCASS à AACCPOL) sont relevées dans le
-
-tableau intitulé "Résultat des affaires renvoyées devant la
-chambre d'accusation". Elles sont donc la prolongation des séries
+tableau intitulé **"Résultat des affaires renvoyées devant la
+chambre d'accusation".** Elles sont donc la prolongation des séries
 décrivant l'orientation des affaires à l'issue de l'instruction.
 Mais on ne trouve pas en entrée les seules transmissions des juges
 d'instruction. En effet, de 1844 à 1932, on rencontre au bas du
@@ -43,8 +42,8 @@ ver ces chiffres portant sur très peu d'affaires.
 
 7.4.2.1.- PANLARRE (Y1 - 1831 à 1932).
 
-"Prévenus déchargés des poursuites arrêtés pendant
-l'instruction".
+**"Prévenus déchargés des poursuites arrêtés pendant
+l'instruction".**
 
 Jusqu'en 1857, on trouve au bas du tableau une note précisant
 que sont comptés ici "outre les prévenus impliqués dans les affai-

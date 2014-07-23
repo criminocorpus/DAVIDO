@@ -2,12 +2,12 @@
 
 8.2.2.3.- PDPTOTAL (V118 - 1831 à 1981*).
 
-Total des individus dont la détention préventive a cessé dans
-l'année.
+**Total des individus dont la détention préventive a cessé dans
+l'année.**
 
 Cette série résulte de la totalisation des "sorties" selon la
 formule de cohérence implicitement ou explicitement adoptée par le
-Compte général pour l'année considérée : sa définition varie donc
+*Compte général* pour l'année considérée : sa définition varie donc
 dans le temps (cf. généralités). Elle n'est pas toujours relevée.
 
 Avant 1842 ce total a été calculé selon la formule :
@@ -47,9 +47,9 @@ PDPTOTAL = somme(PDPMAIN,PDPLPRO,PDPRENV,PDPONL,PDPRELA,
 
 8.2.2.4.- PDPMAIN (V103 - 1956 à 1981).
 
-Nombre d'individus dont la détention préventive a cessé par
+**Nombre d'individus dont la détention préventive a cessé par
 suite de mainlevée du mandat de dépôt ou d'arrêt sur conclusion
-conforme du procureur de la république.
+conforme du procureur de la république.**
 
 Cette série apparaît en 1956 avec la reprise du tableau
 concernant l'achèvement de la détention préventive. Elle vise

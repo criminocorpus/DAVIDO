@@ -6,7 +6,7 @@ Affaires "communiquées aux juges d'instruction".
 
 De 1959 à 1964, les chiffres de la base diffèrent de ceux
 qu'on peut observer dans les tableaux des Comptes généraux.
-L'explication en est donnée page XI du Rapport du Compte général
+L'explication en est donnée page XI du *Rapport* du *Compte général*
 de 1965 : "En ce qui concerne les affaires soumises aux juges
 d'instruction, il convient d'observer que de 1959 à 1964
 figuraient dans ce nombre les transmissions diverses aux juges
@@ -16,7 +16,7 @@ suivants..." ; ce sont les chiffres cités dans cette note que nous
 avons relevés.
 
 La concordance entre cette série et le nombre des ordonnances
-de la chambre du Conseil était demandée dans les Cadres au moment
+de la chambre du Conseil était demandée dans les *Cadres* au moment
 de leur mise en place mais contestée par certains parquets
 "attendu qu'il est quelquefois arrivé que dans des affaires très
 simples, on citait directement en police correctionnelle après
@@ -28,18 +28,18 @@ du 16 novembre 1826 - AN/BB/5/348).
 
 6.1.2.3.- AAUDIMP (V48 - 1831 à 1981).
 
-Affaires "portées directement à l'audience par le Ministère
-public".
+**Affaires "portées directement à l'audience par le Ministère
+public".**
 
 De 1863 à 1870, cette série est éclatée en trois rubriques
-sur les tableaux du Compte général :
+sur les tableaux du *Compte général* :
 - conduite immédiate à la barre,
 - citation d'urgence avec mandat,
 - citation directe (C.I.C.) ;
 c'est le total de ces trois colonnes qui a alors été saisi.
 
 En effet, après 1870, cette distinction est supprimée dans
-les Cadres des parquets (circulaire sur les statistiques du
+les *Cadres* des parquets (circulaire sur les statistiques du
 25 novembre 1871). Elle n'a donc guère d'utilité sur un temps
 aussi court, d'autant plus qu'on peut retrouver isolées les
 poursuites en "flagrant délit" dans les modes de saisine du
@@ -48,8 +48,8 @@ le chapitre 10.2).
 
 6.1.2.4.- AAUDIPC (V60 - 1831 à 1874).
 
-Affaires "portées directement à l'audience par les parties
-civiles".
+**Affaires "portées directement à l'audience par les parties
+civiles".**
 
 La série s'interrompt après 1874, la rubrique disparaissant
 alors du tableau du Compte général. L'année suivante, le chiffre

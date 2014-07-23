@@ -17,7 +17,7 @@ A quoi nous pouvons répondre sur un plan méthodologique.
 L'analyse des résultats et l'examen détaillé des séries que
 nous avons relevées, de leur cohérence et de leurs définitions
 respectives, nous ont permis en bonne partie de restituer l'appa-
-reil conceptuel non présenté par le Compte général lui-même mais
+reil conceptuel non présenté par le *Compte général* lui-même mais
 qu'il contient pourtant implicitement. Dans ce sens, nous pouvons
 dire que nos choix de séries épuisent largement la question. Ou du
 moins, qu'à partir des seuls éléments publiés, on ne peut guère en
@@ -35,12 +35,12 @@ spéciaux, tant le traitement de ces derniers était particulier au
 XIXème siècle. Mais il n'était guère envisageable de traiter de
 front les questions de méthode liées à la définition des séries et
 celles, tout aussi nombreuses, relevant de l'évolution des incri-
-minations et de la nomenclature que le Compte général utilise pour
+minations et de la nomenclature que le *Compte général* utilise pour
 les décrire.
 
 2.2.- La construction des séries.
 
-Donner une suite de chiffres relevés dans le Compte général
+Donner une suite de chiffres relevés dans le *Compte général*
 sous un intitulé commun à toute la période de relevé, c'est
 affirmer la possibilité de les considérer comme une série statis-
 tique. C'est donc faire l'hypothèse que ces chiffres proviennent

@@ -19,7 +19,7 @@
 
 4.2.1.- NBRIGADE (V27 - 1842 à 1932).
 
-Nombre de "brigades de gendarmerie".
+**Nombre de "brigades de gendarmerie".**
 
 De 1845 à 1849, une note au bas du tableau précise que ne
 sont pas compris dans cette série les "détachements de voltigeurs
@@ -29,15 +29,15 @@ Compte général de 1849). Ce corps militaire a été constitué en
 
 4.2.2.- NGENDARM (V28 - 1842 à 1932).
 
-Nombre des "gendarmes de tous grades" composant les brigades
+**Nombre des "gendarmes de tous grades"** composant les brigades
 comptées dans la série précédente.
 
 De 1845 à 1849, une note au bas du tableau précise que ne
 sont pas compris dans cette série les "voltigeurs corses" (pages
-226 des Comptes généraux de 1845 à 1848, page 224 du Compte
-général de 1849). En 1850, la note change et dit que "dans ce
+226 des *Comptes généraux de 1845 à 1848*, page 224 du *Compte
+général de 1849*). En 1850, la note change et dit que "dans ce
 nombre sont compris les gendarmes mobiles qui ont remplacé les
-voltigeurs corses" (page 224 du Compte général de 1850).
+voltigeurs corses" (page 224 du *Compte général de 1850*).
 
 Aux termes du Code d'Instruction Criminelle, la gendarmerie,
 présente sur tout le territoire national, a une compétence géné-

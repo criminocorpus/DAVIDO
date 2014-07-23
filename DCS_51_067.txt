@@ -23,16 +23,16 @@ représentent :
 
 Pour les années 1969 et 1971 à 1976, nous les avons ajoutés à
 la série. De même, de 1977 à 1981, ils n'étaient pas comptés mais
-nous les avons calculés à partir des Cadres et nous les avons
+nous les avons calculés à partir des *Cadres* et nous les avons
 réintroduits dans cette série.
 
 7.2.2.10.- ARESINST (V69 - 1831 à 1981).
 
-Affaires "non réglées" restant entre les mains des juges
-d'instruction "le 31 décembre" de l'année du compte.
+**Affaires "non réglées" restant entre les mains des juges
+d'instruction "le 31 décembre" de l'année du compte.**
 
 En 1923, le chiffre diffère de celui qu'on pourrait relever
-dans le Compte général (13 899) qui comportait des erreurs
+dans le *Compte général* (13 899) qui comportait des erreurs
 d'addition que nous avons rectifiées.
 
 7.3.- Etat des affaires terminées par des ordonnances de non-lieu à suivre rendues par les juges d'instruction et motifs de ces décisions.
@@ -40,11 +40,11 @@ d'addition que nous avons rectifiées.
 7.3.1.- Généralités.
 
 Ces séries ont été relevées dans le tableau intitulé jusqu'en
-1855, "Etat des affaires terminées par des ordonnances de non-lieu
+1855, **"Etat des affaires terminées par des ordonnances de non-lieu
 à suivre, rendues par les chambres du conseil", puis "Etat, par
 ressort des cours d'appel, des affaires terminées par des ordon-
 nances de non-lieu à suivre rendues par les juges d'instruction -
-Inculpés déchargés des poursuites" jusqu'en 1932. Ce tableau ne
+Inculpés déchargés des poursuites"** jusqu'en 1932. Ce tableau ne
 comprend pas les ordonnances de non-lieu frappées d'opposition qui
 étaient comptées dans le tableau "Résultat des affaires soumises
 aux juges d'instruction" (cf ATOTNOLI). Ces séries sont croisées

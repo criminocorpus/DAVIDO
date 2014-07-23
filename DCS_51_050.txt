@@ -2,15 +2,15 @@
 
 5.2.13.- APARTIC (V95 - 1875 à 1932).
 
-"Plaintes, dénonciations et procès-verbaux transmis par les
-gardes particuliers".
+**"Plaintes, dénonciations et procès-verbaux transmis par les
+gardes particuliers".**
 
 La rubrique n'existe pas avant 1875 bien que les effectifs
 apparaissent dans le tableau correspondant dès 1842 (cf. NPARTIC),
-sans doute parce que, comme le dit le Rapport du Compte général de
-1843 (page XI), leur concours à l'action de la police judiciaire
+sans doute parce que, comme le dit le Rapport du *Compte général de
+1843* (page XI), leur concours à l'action de la police judiciaire
 "est à peu près nul". C'est encore ce qu'affirme le Rapport du
-Compte général de 1850 (page LXXX).
+*Compte général de 1850* (page LXXX).
 
 L'introduction de cette rubrique en 1875 ne semble pas cor-
 respondre à des modifications législatives mais à une révision de
@@ -38,8 +38,8 @@ dénonciations et procès-verbaux transmis par les gardes-pêche".
 
 5.2.15.- AIMPDOUA (V98 - 1908 à 1932).
 
-"Plaintes, dénonciations et procès-verbaux transmis par les
-agents des contributions indirectes et des douanes".
+**"Plaintes, dénonciations et procès-verbaux transmis par les
+agents des contributions indirectes et des douanes".**
 
 Cette rubrique est introduite en 1908, à l'occasion d'un
 remaniement du cadre statistique de façon à faire apparaître

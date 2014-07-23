@@ -24,24 +24,24 @@ ATOTPARQ = somme(APVRESTE,ANOUVMP,ANOUVJI,ATOTORPV).
 
 5.2.1.- APVRESTE (V83 - 1831 à 1932).
 
-"Plaintes, dénonciations et procés-verbaux antérieurs à
+**"Plaintes, dénonciations et procés-verbaux antérieurs à
 l'année du compte" et demeurés sans traitement au 31 décembre de
-l'année précédente.
+l'année précédente.**
 
 5.2.2.- ANOUVMP (V84 - 1831 à 1932).
 
-"Plaintes, dénonciations et procès-verbaux reçus directement
-pendant l'année par le ministère public".
+**"Plaintes, dénonciations et procès-verbaux reçus directement
+pendant l'année par le ministère public".**
 
 5.2.3.- ANOUVJI (V85 - 1831 à 1932).
 
-"Plaintes,dénonciations et procès-verbaux reçus directement
-pendant l'année par les juges d'instruction".
+**"Plaintes,dénonciations et procès-verbaux reçus directement
+pendant l'année par les juges d'instruction".**
 
 5.2.4.- ATOTORPV (V100 - 1831 à 1932).
 
-Total des affaires transmises pendant l'année au ministère
-public.
+**Total des affaires transmises pendant l'année au ministère
+public.**
 
 Cette série est calculée et correspond à la somme des séries
 qui suivent, soit :

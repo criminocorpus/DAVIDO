@@ -2,7 +2,7 @@
 
 4.2.10.- NPONPECH (V35 - 1863 à 1932).
 
-Nombre de "gardes-pêche".
+*Nombre de "gardes-pêche".*
 
 Selon la loi du 14 floréal an X, article 17, c'est l'adminis-
 tration forestière qui est d'abord responsable de la police de la
@@ -14,12 +14,12 @@ constater les délits forestiers".
 Les garde-pêche sont assimilés aux gardes forestiers (loi du
 15 avril 1829, article 37), l'ensemble est compté dans NFOREST.
 Mais les procès-verbaux des gardes forestiers ne sont pas pris en
-compte dans le tableau par affaires (Compte général de 1831, page
+compte dans le tableau par affaires (*Compte général de 1831*, page
 XX). En effet, l'administration forestière dépendant du ministre
 des Finances (article 1er du Code forestier, ordonnance du
 1er août 1827), les contraventions sont poursuivies directement
 sans communication préalable au ministère public ainsi que
-l'indique le Compte général de 1844, page XLIII : "On doit
+l'indique le *Compte général de 1844*, page XLIII : "On doit
 laisser en dehors de cette énumération... gardes particuliers
 assermentés qui ne s'occupent que de la police rurale,... gardes
 forestiers et... douaniers chargés exclusivement de constater
@@ -38,14 +38,14 @@ celui "de l'agriculture, du commerce et des travaux publics"
 C'est donc en 1863 (ainsi qu'en témoigne la circulaire sur
 les statistiques du 24 novembre 1866, suite de la loi du
 31 mai 1865), qu'est individualisée dans les Cadres des parquets
-et dans le Compte général une rubrique intitulée "Agents des Ponts
-et Chaussées (Police de la pêche)". Cependant le comptage des
+et dans le *Compte général* une rubrique intitulée **"Agents des Ponts
+et Chaussées (Police de la pêche)".** Cependant le comptage des
 affaires correspondantes n'apparaît qu'en 1866 (voir APONPECH).
 
 D'après le décret du 7 novembre 1896, article 1er, il semble
 que la police de la pêche retourne à l'administration forestière
 qui dépend alors du ministère de l'Agriculture. Bien que les Ponts
 et Chaussées dépendent maintenant du ministère des Travaux publics
-la rubrique du Compte général conserve la même dénomination. Au vu
+la rubrique du *Compte général* conserve la même dénomination. Au vu
 des chiffres, il semble que ce soit toujours les mêmes agents qui
 soient comptés.

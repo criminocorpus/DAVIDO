@@ -2,17 +2,17 @@
 
 7.4.2.6.- AACCASS (Y8 - 1831 à 1932).
 
-"Nombre des arrêts portant renvoi aux assises".
+**"Nombre des arrêts portant renvoi aux assises".**
 
 7.4.2.7.- AACCCOR (Y9 - 1831 à 1932).
 
-"Nombre des arrêts portant renvoi devant les tribunaux de
-police correctionnelle".
+**"Nombre des arrêts portant renvoi devant les tribunaux de
+police correctionnelle".**
 
 7.4.2.8.- AACCPOL (Y10 - 1831 à 1932).
 
-"Nombre des arrêts portant renvoi devant les tribunaux de
-simple police ou une autre juridiction".
+**"Nombre des arrêts portant renvoi devant les tribunaux de
+simple police ou une autre juridiction".**
 
 De 1831 à 1854, le tableau distingue les renvois devant le
 tribunal de police et devant une autre juridiction. Ils sont ici

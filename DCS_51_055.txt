@@ -2,7 +2,7 @@
 
 6.1.2.7.- ACOMMUTP (V54 s 1961 à 1981).
 
-Affaires "renvoyées devant le tribunal de police".
+**Affaires "renvoyées devant le tribunal de police".**
 
 En 1961, le chiffre est donné dans une note au bas du tableau
 qui précise la part que représentent ces affaires dans les renvois
@@ -17,7 +17,7 @@ cinquièmes classes (ACOMMTPS).
 
 6.1.2.8.- ATOTCLAS (X3 - 1831 à 1981).
 
-Affaires "classées au parquet" sans poursuite.
+**Affaires "classées au parquet" sans poursuite.**
 
 C'est la rubrique qu'on appelle aujourd'hui le "classement
 sans suite".
@@ -45,8 +45,8 @@ classées sans suite (voir le chapitre 6.2).
 
 6.1.2.9.- ARESPARQ (V58 - 1831 à 1981).
 
-Affaires "sur lesquelles il restait à prendre une décision le
-31 décembre" de l'année considérée.
+**Affaires "sur lesquelles il restait à prendre une décision le
+31 décembre" de l'année considérée.**
 
 Ces affaires sont reprises dans la comptabilisation de
 l'année suivante. On n'observe cependant pas l'égalité

@@ -8,7 +8,7 @@ baisse, visible à partir de la première guerre mondiale. La
 brusque coupure de 1933 est à ce titre comme la reconnaissance
 officielle du caractère secondaire et négligeable de la statisti-
 que pénale pour les praticiens de cette époque. Etat d'esprit qui
-est à l'opposé de celui que manifeste le Compte général un siècle
+est à l'opposé de celui que manifeste le *Compte général* un siècle
 plus tôt durant une période (1830-1880) pour laquelle il y a tout
 lieu de supposer que la statistique pénale n'avait rien à envier
 en fiabilité aux autres sources de la "statistique morale".
@@ -36,7 +36,7 @@ bien d'autres entrent dans des égalités plus complexes.
 
 De tous ces contrôles, il est résulté soit la rectification
 d'une erreur imputable à nos manipulations, soit le constat que
-"l'erreur" existe dans le Compte général lui-même. Dans ce dernier
+"l'erreur" existe dans le *Compte général* lui-même. Dans ce dernier
 cas, nous avons parfois retenu dans la base DAVIDO une valeur
 différente de celle qu'on avait primitivement relevée. Ces déci-
 sions sont toutes mentionnées dans la description des séries
@@ -52,7 +52,7 @@ En définitive, l'utilisateur peut considérer -avec un risque
 que nous jugeons très faible- que la base est fiable par rapport à
 sa source et qu'elle comporte seulement des redressements qu'il
 lui est possible de supprimer en reprenant la valeur imprimée dans
-le Compte général. Néanmoins, le lecteur qui pourrait faire état
+le *Compte général*. Néanmoins, le lecteur qui pourrait faire état
 auprès des auteurs d'une erreur matérielle passée inapercue d'eux,
 serait évidemment l'objet de toute leur reconnaissance.
 

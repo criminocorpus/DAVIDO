@@ -4,7 +4,7 @@ confiance limitée dans le sérieux de ces magistrats : la circu-
 laire met en place le système des "cadres bis". Le procureur
 général fait collecter, pour toutes les juridictions de la cour
 d'appel, les cadres statistiques remplis. Puis il "sera chargé de
-vérifier ces documents, d'en récapituler le contenu sur des états
+vérifier ces documents, d'en *récapituler le contenu* sur des états
 spéciaux... et de transmettre le tout à la Chancellerie. Cette
 décentralisation des travaux statistiques aura le double avantage
 de faciliter la surveillance que vous devez exercer sur les

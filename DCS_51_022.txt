@@ -18,9 +18,9 @@ sexe, de l'âge, etc. conduit à regretter le comptage multiple de
 certains individus au cours d'une période donnée.
 
 Les comparaisons internationales qui sont évoquées dans les
-circulaires statistiques et dans les Rapports du Compte général
-entre 1905 et 1907 (circulaire du 30 décembre 1905, Compte général
-pour 1905 p. V et s.) conduisent ainsi à un enrichissement
+circulaires statistiques et dans les *Rapports* du *Compte général*
+entre 1905 et 1907 (circulaire du 30 décembre 1905, *Compte général
+pour 1905* p. V et s.) conduisent ainsi à un enrichissement
 momentané des unités de compte : on cherche à recenser les
 infractions poursuivies et la population concernée pendant une
 période donnée. C'est la fiche individuelle dont on a parlé plus
@@ -36,9 +36,9 @@ mieux l'activité des magistrats et auxiliaires de justice -au sens
 de travail fourni- ne sont pas recherchées, au moins dans la
 statistique criminelle. La statistique civile est nettement plus
 orientée dans ce sens et il est même curieux de remarquer que
-quelques comptages en terme de jugements figurent, à certaines
+quelques comptages en terme de *jugements* figurent, à certaines
 périodes, pour les juridictions pénales dans les tableaux du
-Compte civil. D'ailleurs, au cours des années 1970, à côté des
+*Compte* civil. D'ailleurs, au cours des années 1970, à côté des
 cadres des parquets, les juridictions pénales fournissaient encore
 à la direction des Services judiciaires de la Chancellerie, des
 états statistiques destinés à évaluer leur activité. Les deux

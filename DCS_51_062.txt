@@ -39,8 +39,8 @@ PONLARRE).
 Ces séries concernent les affaires dont les juges
 d'instruction ont eu à s'occuper au cours de l'année selon les
 décisions qui ont été prises à leur égard. Elles sont relevées
-dans le tableau intitulé "Travaux des juges d'instruction" ou
-"Résultat des affaires communiquées aux juges d'instruction".
+dans le tableau intitulé **"Travaux des juges d'instruction"** ou
+**"Résultat des affaires communiquées aux juges d'instruction".**
 
 Les décisions ne sont pas nécessairement définitives
 puisqu'un appel devant la chambre d'accusation peut provoquer leur
