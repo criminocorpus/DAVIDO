@@ -1,6 +1,7 @@
 # coding: utf-8
 
 from __future__ import unicode_literals
+from io import open	
 import re
 from docutils.core import publish_string
 
@@ -18,7 +19,7 @@ def replace(char, big=False):
         titre = match.group(1)
         if tout != '0.- Introduction':
             titre = tout
-        chars = char * len(titre.decode('utf-8'))
+        chars = char * len(titre)
         out = titre + '\n' + chars
         if big:
             out = chars + '\n' + out
@@ -49,7 +50,7 @@ def to_rst(start, end):
 
 
 def rst_to_html(rst):
-    return publish_string(rst, writer_name='html')
+    return publish_string(rst, writer_name='html').decode('utf-8')
 
 intro = to_rst(10, 39)
 
