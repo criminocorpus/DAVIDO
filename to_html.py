@@ -19,6 +19,7 @@ def replace(char, big=False):
         titre = match.group(1)
         if tout != '0.- Introduction':
             titre = tout
+        titre = titre.rstrip('.')
         chars = char * len(titre)
         out = titre + '\n' + chars
         if big:
