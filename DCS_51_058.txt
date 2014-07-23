@@ -17,7 +17,7 @@ que pour la période 1961-1964.
 A partir de 1978, nous avons procédé comme pour la série
 ACOMMTP5.
 
-6.2.- Etat des affaires laissées sans poursuites par le minitère public et motifs de ces décisions.
+6.2.- Etat des affaires laissées sans poursuites par le ministère public et motifs de ces décisions.
 
 6.2.1.- Généralités.
 
@@ -40,7 +40,7 @@ qu'il soit possible de les distinguer.
 
 On peut vérifier les égalités suivantes :
 
-ATOTCLAS = somme(ANICNIDl,AINCONNl,APAGRAV1,AMENTAL1,AINSUFF1,AAUTRE1)
+ATOTCLAS = somme(ANICNID1,AINCONN1,APAGRAV1,AMENTAL1,AINSUFF1,AAUTRE1)
          = somme(ACLASCRI,ACLASDEL).
 
 6.2.2.- Les séries de la base.

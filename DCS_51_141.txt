@@ -1,6 +1,6 @@
 -140-
 
-c. - Récidive : Synopsis.
+c.- Récidive : Synopsis.
 
 +--------+--------------+--------------+------------------------------------+
 | Années | Définition   | Unité        |        Champ                       |

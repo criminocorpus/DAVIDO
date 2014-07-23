@@ -40,7 +40,7 @@ moins" par les tribunaux correctionnels qui avaient été poursuivis
 pour "délits spéciaux".
 
 Jusqu'en 1872, les condamnés à une peine égale à un an sont
-comptés en PSPESUPl. Ensuite les libellés des colonnes du tableau
+comptés en PSPESUP1. Ensuite les libellés des colonnes du tableau
 ayant changé. elles sont prises en compte ici. Il n'est pas
 possible d'homogénéiser ces deux séries comme on l'a fait pour
 l'ensemble des délits.

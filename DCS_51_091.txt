@@ -40,3 +40,4 @@ PACCUSE = somme(PACQUIT,PCONDASS).
 Les mineurs remis à parents ou envoyés en maison de cor-
 rection sont donc inclus dans ce comptage (cf. PPARENTA et
 PMAISONA).
+
