@@ -16,7 +16,7 @@ solution varie au cours de la période :
 une colonne unique intitulée "acquittés" dans laquelle mineurs et
 majeurs sont confondus. C'est le chiffre qui a été relevé. Il est
 cependant possible, à l'aide du tableau intitulé "Résultat des
-poursuites pour les accusés de chaque âqe et de chaque sexe avec
+poursuites pour les accusés de chaque âge et de chaque sexe avec
 l'indication des peines prononcées" de connaître la part des
 mineurs, mais seulement de 1831 à 1912 ; ensuite la colonne
 "acquittés" disparaît de ce tableau. De plus, selon une note de

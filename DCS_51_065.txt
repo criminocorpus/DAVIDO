@@ -26,6 +26,11 @@ rapport est à peu près constant, ce qui nous permet de conserver
 pour 1960 la même clé de répartition. On estime ainsi à 3 O77 le
 nombre d'affaires renvoyées devant le juge des enfants.
 
+(1).- Lorsque dans le titre d'une série, les années de début et de
+fin sont suivies d'une astérisque, cela signifie qu'à l'intérieur
+de la période considérée, des années autres que les années
+d'interruption de publication sont manquantes.
+
 7.2.2.7.- AJONCDES (V70 - 1976 à 1981).
 
 "Ordonnances de jonction, de dessaisissement, d'incompétence,
@@ -43,9 +48,4 @@ des parquets. Mais par souci d'homogénéité, on n'u a pas ajouté
 les dessaisissements en faveur des tribunaux militaires donnés en
 note au bas des tableaux ou calculés à partir des Cadres des
 parquets. Ils ont été ajoutés à la série AEVOCOUR.
-
-(1).- Lorsque dans le titre d'une série, les années de début et de
-fin sont suivies d'une astérisque, cela signifie qu'à l'intérieur
-de la période considérée, des années autres que les années
-d'interruption de publication sont manquantes.
 

@@ -21,7 +21,7 @@ résultat des poursuites que le nombre total de condamnations
 auxquelles le sursis s'applique sans distinction de la peine
 prononcée.
 
-A partir de 1955, l'exploitation mécanoqraphique donne un
+A partir de 1955, l'exploitation mécanographique donne un
 tableau pour l'ensemble des peines par quantum, puis un tableau
 identique pour les peines avec sursis. Mais la modalité du sursis
 dit "partiel" puisqu'il ne s'applique qu'à une partie de la peine,
@@ -30,7 +30,7 @@ n'a pas été prise en compte à sa création en 1970.
 De 1970 à 1976, on ne sait pas si les sursis partiels ont été
 traités comme des peines fermes ou comme des peines avec sursis,
 voire placés en peines non mentionnées. On sait seulement qu'il
-n'y a pas de double comptaqe.
+n'y a pas de double comptage.
 
 En 1977 et 1978 est introduite une nouvelle nomenclature des
 peines. On code d'abord la nature de la peine principale : empri-

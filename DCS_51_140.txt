@@ -15,7 +15,7 @@ tution des casiers judiciaires et celle qui l'a suivie ne pourrait
 que conduire à des conclusions erronées".
 
 Pour ce qui est de l'unité de compte, on note donc qu'il faut
-attendre 1836 pour adopter la règle de comptaqe multiple des réci-
+attendre 1836 pour adopter la règle de comptage multiple des réci-
 divistes condamnés plusieurs fois dans l'année, ce qui revient à
 compter les condamnations de récidivistes et non les récidivistes.
 
@@ -47,3 +47,4 @@ sûr, que de connaître la récidive légale ou, au plus, l'existence
 d'une condamnation antérieure non amnistiée. L'évolution de cette
 statistique devient donc. avec le temps, essentiellement liée à
 l'influence des différentes lois d'amnistie.
+

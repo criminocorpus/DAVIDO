@@ -16,7 +16,7 @@ distinguer.
 
 Le total des séries décrites ci-après correspond à une
 ventilation de la série ATOTPARQ (décrite dans le chapitre
-suivant) et on a l'éqalité suivante :
+suivant) et on a l'égalité suivante :
 
 ATOTPARQ = somme(APVRESTE,ANOUVMP,ANOUVJI,ATOTORPV).
 

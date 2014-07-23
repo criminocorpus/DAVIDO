@@ -7,38 +7,38 @@ c. - Récidive : Synopsis.
 |        |              | de compte    +-----------+------------------------+
 |        |              |              | Assises   | Tribunal correctionnel |
 +========+==============+==============+===========+========================+
-| 1831   | Déjà         | Personnes    | Accusés   | Prévenus délits        |
-|        | condamné     | poursuivies  |           | communs ?              |
+| | 1831 | Déjà         | Personnes    | Accusés   | Prévenus délits        |
+| | 1834 | condamné     | poursuivies  |           | communs ?              |
 |        | sans         | sans double  |           |                        |
-| 1834   | précision    | compte       |           |                        |
+|        | précision    | compte       |           |                        |
 +--------+--------------+--------------+-----------+------------------------+
-| 1835   | Idem         | Accusés ou   | Accusés   | Prévenus               |
-|        |              | prévenus     |           | poursuivis             |
+| | 1835 | Idem         | Accusés ou   | Accusés   | Prévenus               |
+| | 1850 |              | prévenus     |           | poursuivis             |
 |        |              | autant de    |           | à la requête du        |
 |        |              | fois qu'ils  |           | Ministère public       |
-| 1850   |              | apparaissent |           |                        |
+|        |              | apparaissent |           |                        |
 +--------+--------------+--------------+-----------+------------------------+
-| 1851   | Déjà         | Idem         | Idem      | Idem                   |
-|        | condamné     |              |           |                        |
+| | 1851 | Déjà         | Idem         | Idem      | Idem                   |
+| | 1859 | condamné     |              |           |                        |
 |        | selon casier |              |           |                        |
-| 1859   | judiciaire   |              |           |                        |
+|        | judiciaire   |              |           |                        |
 +--------+--------------+--------------+-----------+------------------------+
-| 1860   | Idem         | Idem         | Idem      | Prévenus sauf          |
-|        |              |              |           | "délinquants           |
-| 1870   |              |              |           | forestiers"            |
+| | 1860 | Idem         | Idem         | Idem      | Prévenus sauf          |
+| | 1870 |              |              |           | "délinquants           |
+|        |              |              |           | forestiers"            |
 +--------+--------------+--------------+-----------+------------------------+
-| 1871   | Idem         | Condamnation | Condamnés | Condamnés, sauf        |
-|        |              |              |           | "délinquants           |
-| 1913   |              |              |           | forestiers"            |
+| | 1871 | Idem         | Condamnation | Condamnés | Condamnés, sauf        |
+| | 1913 |              |              |           | "délinquants           |
+|        |              |              |           | forestiers"            |
 +--------+--------------+--------------+-----------+------------------------+
 |                INTERRUPTION DE LA PUBLICATION                             |
 +--------+--------------+--------------+-----------+------------------------+
-| 1926   | Idem         | Idem         | Idem      |Condamnés               |
-|        |              |              |           |(total)                 |
-| 1954   |              |              |           |                        |
+| | 1926 | Idem         | Idem         | Idem      |Condamnés               |
+| | 1954 |              |              |           |(total)                 |
+|        |              |              |           |                        |
 +--------+--------------+--------------+-----------+------------------------+
-| 1955   | Idem         | Condamnation | Idem      |Idem                    |
-|        |              | inscrite au  |           |                        |
-| 1978   |              | casier       |           |                        |
+| | 1955 | Idem         | Condamnation | Idem      |Idem                    |
+| | 1978 |              | inscrite au  |           |                        |
+|        |              | casier       |           |                        |
 +--------+--------------+--------------+-----------+------------------------+
 

@@ -2,7 +2,7 @@
 
 nels N° 3B bis provenant des parquets. Cette série ne peut être
 prolongée au delà de 1975, les Cadres des parquets ne demandant
-plus ce renseiqnement ensuite.
+plus ce renseignement ensuite.
 
 Les majeurs et les mineurs y sont confondus jusqu'en 1951. A
 partir de 1952, seuls les majeurs sont pris en compte.
@@ -28,13 +28,17 @@ l'amende : par exemple à démolir des constructions élevées trop
 près des forêts, à restituer des bois enlevés ou replanter des
 terrains défrichés. Leur nombre annuel est le suivant :
 
-+-----------+-----------+----------+----------+
-| 1831 :  5 | 1836 : 22 | 1841 : 5 | 1846 : 4 |
-| 1832 : 10 | 1837 : 22 | 1842 : 5 | 1847 : - |
-| 1833 :  6 | 1838 : 20 | 1843 : - | 1848 : 5 |
-| 1834 : 27 | 1839 : 19 | 1844 : 3 | 1849 : 6 |
-| 1835 : 38 | 1840 : 21 | 1845 : 5 | 1850 : 4 |
-+-----------+-----------+----------+----------+
++------+----+------+----+------+---+------+---+
+| 1831 | 5  | 1836 | 22 | 1841 | 5 | 1846 | 4 |
++------+----+------+----+------+---+------+---+
+| 1832 | 10 | 1837 | 22 | 1842 | 5 | 1847 | \-|
++------+----+------+----+------+---+------+---+
+| 1833 | 6  | 1838 | 20 | 1843 | \-| 1848 | 5 |
++------+----+------+----+------+---+------+---+
+| 1834 | 27 | 1839 | 19 | 1844 | 3 | 1849 | 6 |
++------+----+------+----+------+---+------+---+
+| 1835 | 38 | 1840 | 21 | 1845 | 5 | 1850 | 4 |
++------+----+------+----+------+---+------+---+
 
 Ce renseignement est fourni en note au bas du tableau inti-
 tulé "Délits jugés par les divers tribunaux correctionnels du
@@ -52,3 +56,4 @@ A partir de 1955, les séries PPREVENU et PRELAXE proviennent
 de l'exploitation des Cadres des parquets tandis que PCONDCOR
 provient de l'exploitation des duplicata de fiches de casier
 judiciaire. Il n'y a donc plus concordance entre ces trois séries.
+

@@ -20,7 +20,7 @@ Les prévenus mineurs remis à leurs parents ou envoyés dans
 une maison de correction sont inclus dans cette série (voir
 PSPEPARE et PSPEMÀIS).
 
-A partir de 1851, on observe l'éqalité suivante :
+A partir de 1851, on observe l'égalité suivante :
 PSPEPREV = somme(PSPEACQU,PSPEPRIS,PSPEAMEN).
 
 De 1831 à 1850 (à l'exception de 1843 et 1847), la différence
@@ -55,3 +55,4 @@ De 1832 à 1839, les valeurs sont donc nulles par addition de
 valeurs manquantes (remis à parents) et de valeurs nulles (placés
 sous surveillance) tandis qu'en 1840, la valeur est nulle par
 addition de deux valeurs nulles.
+

@@ -47,7 +47,7 @@ de ADEFSIGN pour cette année.
 
 10.3.2.27.- ADEFNOOP (D6 - 1856 à 1932*).
 
-Nombre de jugements qui après avoir été siqnifiés "ont été
+Nombre de jugements qui après avoir été signifiés "ont été
 non suivis d'opposition".
 
 Cette série est relevée de 1856 à 1932 en note du tableau
