@@ -1,24 +1,24 @@
 -37-
 
-|De 1914 à  |Sont exclus les départements   |La publication du Compte        |
-|1918 :     |suivants : Aisne,              |général est interrompue         |
+|De 1914 à  |Sont exclus les départements   |La publication du *Compte       |
+|1918       |suivants : Aisne,              |général* est interrompue        |
 |           |Marne, Ardennes,               |pour cette période et les       |
 |           |Meurthe-et-Moselle, Nord, Oise,|statistiques fournies par       |
 |           |Pas-de-Calais, Bas-Rhin,       |les juridications n'ont         |
 |           |Haut-Rhin, Somme, Vosges.      |fait l'objet que d'une          |
 |           |                               |publication très partielle      |
-|           |                               |dans le Rapport du Compte       |
-|           |                               |général de 1919.                |
+|           |                               |dans le *Rapport* du *Compte    |
+|           |                               |général de 1919*.               |
 +-----------+-------------------------------+--------------------------------+
 |De 1919 à  |Le territoire métropolitain    |De 1919 à 1924, la cour         |
-|1938 :     |correspond au                  |d'appel de Colmar ne            |
+|1938       |correspond au                  |d'appel de Colmar ne            |
 |           |territoire actuel, divisé      |figure toujours pas dans        |
 |           |en 90 départements.            |la statistique ; elle           |
 |           |                               |n'est réintroduite qu'à         |
 |           |                               |partir de 1925.                 |
 +-----------+-------------------------------+--------------------------------+
-|De 1939 à  |Sont exclus les départements   |En 1939, le Compte général      |
-|1942 :     |du Bas-Rhin, du                |n'a pas été publié.             |
+|De 1939 à  |Sont exclus les départements   |En 1939, le *Compte général*    |
+|1942       |du Bas-Rhin, du                |n'a pas été publié.             |
 |           |Haut-Rhin et de la Moselle     |En 1940 et 1941, la             |
 |           |(cour d'appel de Colmar).      |statistique de la cours         |
 |           |                               |d'appel de Colmar ne            |
@@ -29,13 +29,13 @@
 |           |                               |figurent pas.                   |
 +-----------+-------------------------------+--------------------------------+
 |En 1943 et |Sont exclus les départements   |Le "champ statistique"          |
-|1944 :     |du Bas-Rhin, du                |correspond au territoire        |
+|1944       |du Bas-Rhin, du                |correspond au territoire        |
 |           |Haut-Rhin et de la Moselle     |national, sauf en 1943 où       |
 |           |(cour d'appel de Calmar),      |il manque le tribunal de        |
 |           |ainsi que celui de la          |Rouen.                          |
 |           |Corse.                         |                                |
 +-----------+-------------------------------+--------------------------------+
-|En 1945 :  |Les départements du            |Le "champ statistique"          |
+|En 1945    |Les départements du            |Le "champ statistique"          |
 |           |Bas-Rhin, du Haut-Rhin et      |correspond au territoire        |
 |           |de la Moselle sont exclus      |national.                       |
 |           |(cour d'appel de Colmar).      |                                |

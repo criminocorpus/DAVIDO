@@ -11,8 +11,8 @@ judiciaire.
 
 5.2.16.- AORPVALT (V99 - 1831 à 1932).
 
-"Plaintes, dénonciations et procès-verbaux transmis de toute
-autre manière" (c'est-à-dire autre que celles prévues par les
+**"Plaintes, dénonciations et procès-verbaux transmis de toute
+autre manière"** (c'est-à-dire autre que celles prévues par les
 séries précédentes, de AGENDARM à AIMPDOUA).
 
 Ce poste reliquat a un contenu évidemment lié à la variation

@@ -2,7 +2,7 @@
 
 8.2.2.5.- PDPMPUB (V105 - 1875 à 1947).
 
-Nombre des individus mis en liberté par le ministère public.
+**Nombre des individus mis en liberté par le ministère public.**
 
 Cette rubrique apparaît en 1875. L'auteur du rapport la jus-
 tifie ainsi : "il arrive assez souvent que des individus arrêtés
@@ -12,14 +12,14 @@ décide de poursuivre l'affaire par citation directe, soit parce
 que le fait est sans aucune gravité ou rentre dans la compétence
 des tribunaux de simple police, militaires, administratifs,etc. ;
 jusqu'à présent, la statistique les avait à tort négligés."
-(Rapport du Compte général de 1875, p. XXI et XXII).
+(*Rapport* du *Compte général de 1875*, p. XXI et XXII).
 
 La série s'arrête définitivement en 1947.
 
 8.2.2.6.- PDPLPRO (V106 - 1831 à 1981*).
 
-Nombre des individus dont la détention préventive s'est
-achevée par la mise en liberté provisoire.
+**Nombre des individus dont la détention préventive s'est
+achevée par la mise en liberté provisoire.**
 
 Les relevés utilisés pour constituer cette série sont
 d'origine variable.
@@ -29,20 +29,20 @@ prévenus jugés par les tribunaux correctionnels en état de liberté
 provisoire sous caution (Cf. PCORLPRO) ce qui se justifie puisque
 le rapport opère ainsi ensuite.
 
-De 1844 à 1853, le relevé provient du Rapport du Compte
-général correspondant, dans son paragraphe sur la détention
+De 1844 à 1853, le relevé provient du *Rapport* du *Compte
+général* correspondant, dans son paragraphe sur la détention
 préventive (1844 p. XLIV, 1845 p. XLVI, 1846 p. XXIX, 1847
 p. XXXV, 1848 p. XLV, 1849 p. XXXVIII, 1851 p. XXV, 1852 p. XXV,
 1853 p. XXIX) ; de 1844 à 1847 ce chiffre correspond à celui des
 prévenus jugés par les tribunaux correctionnels après avoir été
 mis en liberté provisoire sous caution.
 
-En 1850, le Rapport du Compte général ne donne pas le chiffre
+En 1850, le *Rapport* du *Compte général* ne donne pas le chiffre
 des mises en liberté provisoire. On peut toutefois le reconstituer
 comme solde des autres modes d'achèvement de la détention énumé-
 rés (en incluant les détenus jugés pour délits de presse et délits
 politiques) et l'on vérifie que la moyenne quinquennale 1846-1850
-donné par le Rapport du Compte général de 1850 (p. LXXXIV) corres-
+donné par le Rapport du *Compte général de 1850* (p. LXXXIV) corres-
 pond bien à ce chiffre.
 
 De 1854 à 1864, le relevé est fait dans le tableau concernant

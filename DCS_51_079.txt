@@ -11,9 +11,9 @@ de dépôt. Voir à ce propos PLPTOT.
 
 8.2.2.7.- PDPRENV (V107 - 1956 à 1981).
 
-Nombre d'individus détenus préventivement dont la détention
+**Nombre d'individus détenus préventivement dont la détention
 s'est achevée par renvoi devant le tribunal de police ou devant le
-tribunal correctionnel.
+tribunal correctionnel.**
 
 De 1956 à 1958, la série vise les articles 129 et 131 du
 C.I.C. et ne contient pas les cas de renvoi devant le tribunal
@@ -30,8 +30,8 @@ liberté provisoire le cas des articles 129 et 131 du C.I.C.
 
 8.2.2.8.- PDPONL (V108 - 1831 à 1981*).
 
-Nombre d'individus dont la détention préventive s'est achevée
-par une ordonnance de non-lieu.
+**Nombre d'individus dont la détention préventive s'est achevée
+par une ordonnance de non-lieu.**
 
 Cette série est relevée de 1831 à 1853 dans le tableau con-
 cernant les ordonnances de non-lieu (par infractions ou par cours

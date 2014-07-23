@@ -5,8 +5,8 @@ d'accusation.
 
 8.2.2.9.- PDPACQUI (V109 - 1831 à 1921).
 
-Nombre des prévenus arrêtés et détenus préventivement
-acquittés par les cours d'assises.
+**Nombre des prévenus arrêtés et détenus préventivement
+acquittés par les cours d'assises.**
 
 De 1831 à 1853, le relevé provient d'une note de bas de page
 du tableau concernant l'activité des cours d'assises qui indique
@@ -45,8 +45,8 @@ jugés détenus par les tribunaux correctionnels (PDPRELA).
 
 8.2.2.10.- PDPCONAS (V110 - 1831 à 1921).
 
-Nombre de prévenus arrêtés et détenus préventivement
-condamnés par les cours d'assises.
+**Nombre de prévenus arrêtés et détenus préventivement
+condamnés par les cours d'assises.**
 
 Jusqu'en 1865, c'est le même chiffre que celui de l'ensemble
 des condamnés criminels et on a l'égalité PDPCONAS = PCONDASS.

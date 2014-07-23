@@ -35,8 +35,8 @@ tistique en matière de détention préventive.
 
 8.2.2.1.- PDPREST (V101 - 1861 à 1981*).
 
-Nombre des individus soumis à la détention préventive restant
-détenus de l'année précédente.
+**Nombre des individus soumis à la détention préventive restant
+détenus de l'année précédente.**
 
 Cette série est relevée dans le tableau concernant l'activité
 des juges d'instruction à partir de 1861.

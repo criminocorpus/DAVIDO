@@ -12,7 +12,7 @@ stabilisé dans un premier temps les définitions utilisées pour le
 comptage : on emploie comme unités simultanément l'affaire et la
 personne.
 
-La notion d'affaire a une apparence aussi naturelle pour les
+La notion d'*affaire* a une apparence aussi naturelle pour les
 praticiens que la personne. L'affaire, c'est l'unité de
 traitement : le dossier de la procédure écrite la matérialise
 assez facilement. L'inconvénient de cette unité de compte est que
@@ -36,7 +36,7 @@ statistiquement pertinente.
 Ceci n'empêche qu'il soit aussi nécessaire de combiner
 l'affaire avec d'autres unités de compte.
 
-La personne était évidemment imposée dès le début de la
+La *personne* était évidemment imposée dès le début de la
 statistique comme unité à côté de l'affaire puisque l'auteur d'une
 infraction est le support élémentaire d'un bon nombre de
 décisions. On relèvera d'ailleurs que pendant longtemps (jusqu'en
@@ -48,8 +48,8 @@ obtenus avec l'une ou l'autre.
 Ici, il convient de préciser que l'unité personne, qu'il
 s'agisse d'inculpés, d'accusés, de prévenus, d'acquittés ou de
 condamnés, est en fait un croisement de la décision et de
-l'individu. Un même individu impliqué au cours de l'année dans
-plusieurs procédures différentes sera compté plusieurs fois.
+l'individu. *Un même individu impliqué au cours de l'année dans
+plusieurs procédures différentes sera compté plusieurs fois.*
 
 Sans entrer dans le détail des choses -ce qui sera fait lors
 de l'analyse des séries- on peut relever qu'il n'est pas possible

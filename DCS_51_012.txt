@@ -8,7 +8,7 @@ scientifique d'un discours partisan peu enclin aux considérations
 méthodologiques. Il n'était pas question pour nous de publier des
 milliers de chiffres sans en donner le mode d'emploi obligé.
 
-Le Compte général représente une base virtuelle de plusieurs
+Le *Compte général* représente une base virtuelle de plusieurs
 centaines de milliers de chiffres au niveau national. Avec les
 données locales, on atteint peut-être le million comme ordre de
 grandeur. C'est dire que l'informatisation intégrale de cette
@@ -30,7 +30,7 @@ chiffres.
 
 On concevra la lourdeur d'un tel travail. Si la preuve en est
 nécessaire, on fera allusion un instant à la situation que l'on
-connaît actuellement. Si le Compte général est, par la force des
+connaît actuellement. Si le *Compte général* est, par la force des
 choses, sous-utilisé dans les recherches du champ pénal, il n'est
 pas ignoré. Seulement les chiffres publiés par les auteurs qui
 l'ont consulté n'ont aucun caractère systématique. Chacun a relevé
@@ -42,8 +42,5 @@ les erreurs matérielles lorsqu'on constate des divergences entre
 les auteurs... Et pourtant, ceux qui ont ainsi tenté de produire,
 ne serait-ce que quelques séries sur une cinquantaine d'années
 sans trop de considérations méthodologiques, se souviendront du
-temps qu'ils ont dû passer sur un Compte général rébarbatif et
+temps qu'ils ont dû passer sur un *Compte général* rébarbatif et
 ésotérique.
-
- 
-

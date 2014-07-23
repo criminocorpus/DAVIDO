@@ -9,7 +9,7 @@ par la publication pour quelques années seulement n'avait guère
 d'utilité à présent. Mais là encore, toutes ces informations et
 toutes ces décisions sont consignées dans la description des
 séries de facon à ce que l'utilisateur en retrouve la trace et
-puisse en se référant au Compte général retrouver les détails omis
+puisse en se référant au *Compte général* retrouver les détails omis
 et en tout cas la provenance de nos chiffres.
 
 De tout cela, on retiendra que nous avons pris le parti de
@@ -31,8 +31,8 @@ statistique.
 
 Il est difficile de donner des indications précises quant à
 la fiabilité des séries statistiques construites à partir du
-Compte général dans la mesure où l'on ne sait rien sur les
-méthodes employées pour remplir les Cadres statistiques dans les
+*Compte général* dans la mesure où l'on ne sait rien sur les
+méthodes employées pour remplir les *Cadres* statistiques dans les
 juridictions.
 
 La seule indication précise et directe dont on dispose est de
@@ -41,7 +41,7 @@ imposées entre les divers chiffres fournis sont plus ou moins
 respectées selon les périodes. Encore ces écarts ne permettent-ils
 que de détecter des erreurs certaines. Là où il doit y avoir une
 relation arithmétique entre plusieurs variables, l'inadéquation
-des valeurs données par le Compte général permet de conclure qu'au
+des valeurs données par le *Compte général* permet de conclure qu'au
 moins une de ces valeurs est erronée. Inversement, on ne peut
 déduire de la cohérence observée que les valeurs sont justes.
 Elles peuvent être alors simplement redressées pour faire dispa-

@@ -2,8 +2,8 @@
 
 8.2.2.11.- PDPRELA (V111 - 1831 à 1981*).
 
-Nombre d'individus détenus préventivement jusqu'à
-acquittement par les tribunaux correctionnels ou remise à parents.
+**Nombre d'individus détenus préventivement jusqu'à
+acquittement par les tribunaux correctionnels ou remise à parents.**
 
 De 1831 à 1853, la série est relevée dans des notes accom-
 pagnant le tableau sur le résultat des poursuites devant les
@@ -14,13 +14,13 @@ valeurs sont manquantes de 1948 à 1955.
 En 1871, le tableau ne donne pas la ventilation des jugés
 détenus selon le résultat du jugement. On ne peut la retrouver
 qu'en calculant la valeur de PDPRELA en 1871 à partir de la valeur
-moyenne pour 1871-1875 donnée dans le Rapport au président de la
+moyenne pour 1871-1875 donnée dans le *Rapport au président de la
 République sur l'administration de la Justice criminelle en France
-de 1826 à 1880 (tableau 16, p. CLVI du Compte général de 1880) et
+de 1826 à 1880* (tableau 16, p. CLVI du *Compte général de 1880*) et
 les valeurs relevées de 1872 à 1875. Ce calcul donne le chiffre de
 2 288.
 
-En 1923, la valeur observée dans le Compte général (11 464)
+En 1923, la valeur observée dans le *Compte général* (11 464)
 est aberrante. Nous avons donc estimé par interpolation linéaire
 entre les années 1922 et 1924 la valeur qui apparaît dans la base
 (4 297). En 1956, à la reprise de ce tableau les acquittements des
@@ -50,12 +50,12 @@ devant les tribunaux correctionnels :
 +------+----+------+----+------+----+-----------+
 
 A partir de 1854, ces mineurs sont inclus dans la série fournie
-par le Compte général.
+par le *Compte général*.
 
 8.2.2.12.- PDPEMPRI (V113 - 1831 à 1981*).
 
-Nombre d'individus détenus préventivement dont la détention
-préventive s'est achevée par une condamnation à l'emprisonnement.
+**Nombre d'individus détenus préventivement dont la détention
+préventive s'est achevée par une condamnation à l'emprisonnement.**
 
 Cette série est relevée de la même façon que PDPRELA. Après
 1874, le relevé résulte de la totalisation des sous-rubriques

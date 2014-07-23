@@ -16,7 +16,7 @@ l'Unité de Recherche de Sociologie Criminelle du C.E.S..
 Nous avons conservé comme début de nos séries l'année 1831,
 date de consolidation des statistiques criminelles quant à leur
 contenu : c'est en effet cette année qu'on voit apparaître pour la
-première fois dans le Compte général les tableaux concernant le
+première fois dans le *Compte général* les tableaux concernant le
 parquet (renseignant notamment sur l'origine des affaires, la
 première orientation qui leur est donnée, les classements sans
 suite), ainsi que les tableaux concernant l'activité des juridic-
@@ -27,10 +27,10 @@ matière de détention provisoire, de récidive correctionnelle,
 d'exécution des peines d'emprisonnement correctionnel ou d'acti-
 vité des chambres d'accusation - soit 23 séries suplémentaires.
 
-En conclusion : sur les 225 séries de la base, plus de la
+*En conclusion : sur les 225 séries de la base, plus de la
 moitié, sont renseignées en 1831 (soit 127, dont 68 sont antérieu-
 res à 1831 et 59 apparaissent cette année -sur ces 59 séries, 36
-correspondent à de nouveaux tableaux).
+correspondent à de nouveaux tableaux).*
 
 D'autres renseignement, ne seront publiés que plus tard.
 C'est le cas des effectifs des agents de la police judiciaire

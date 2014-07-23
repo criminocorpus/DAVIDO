@@ -2,8 +2,8 @@
 
 6.1.2.11.- ACOMMTP4 (V56 - 1961 à 1981).
 
-Affaires renvoyées devant le tribunal de police et concernant
-des contraventions des quatre premières classes.
+**Affaires renvoyées devant le tribunal de police et concernant
+des contraventions des quatre premières classes.**
 
 De 1961 à 1964, les chiffres sont calculés en faisant
 l'opération suivante : ACOMMTP4 = ACOMMUTP-ACOMMTP5.
@@ -22,8 +22,8 @@ ACOMMTP5.
 6.2.1.- Généralités.
 
 Ces séries ont été relevées dans le tableau intitulé
-"Affaires laissées sans poursuites par le Ministère public et
-motifs de cette détermination". Ce tableau disparaît après 1932.
+**"Affaires laissées sans poursuites par le Ministère public et
+motifs de cette détermination"**. Ce tableau disparaît après 1932.
 
 Les affaires sont distinquées, d'une part, selon qu'elles
 concernent des crimes ou délits et d'autre part, selon les motifs
@@ -47,6 +47,6 @@ ATOTCLAS = somme(ANICNID1,AINCONN1,APAGRAV1,AMENTAL1,AINSUFF1,AAUTRE1)
 
 6.2.2.1.- ACLASCRI (X10 - 1831 à 1932).
 
-"Affaires sans suite présentant dans le principe, le
-caractère de crime".
+**"Affaires sans suite présentant dans le principe, le
+caractère de crime".**
 

@@ -1,7 +1,7 @@
 -53-
 
-peut être estimé à partir des précisions qu'apporte le Rapport du
-Compte général de 1875, page XX, à ce sujet : le total des
+peut être estimé à partir des précisions qu'apporte le *Rapport* du
+*Compte général de 1875*, page XX, à ce sujet : le total des
 affaires dont ont eu à s'occuper les procureurs de la République
 (ATOTPARQ) en 1875 "est inférieur de 6 534 à celui de 1874 ; mais
 il ne décèle pas une réduction aussi considérable : il provient
@@ -17,13 +17,13 @@ cohérence d'ensemble des séries concernant le parquet.
 
 6.1.2.5.- ACOMMUAL (V52 - 1831 à 1981).
 
-Affaires "renvoyées devant une autre juridiction".
+**Affaires "renvoyées devant une autre juridiction".**
 
 Il s'agit essentiellement des renvois liés à des questions de
 compétence géographique.
 
 De 1954 à 1965, les chiffres saisis diffèrent de ceux qu'on
-peut observer dans les tableaux des Comptes généraux. En effet,
+peut observer dans les tableaux des *Comptes généraux*. En effet,
 pour un comptage plus homogène, on a soustrait, d'une part les
 affaires communiquées aux juges des enfants (de 1954 à 1965),
 d'autre part celles renvoyées devant le tribunal de police (en
@@ -45,7 +45,7 @@ choisie.
 
 6.1.2.6.- ACOMMUJE (V53 - 1954 à 1981).
 
-Affaires "communiquées aux juges des enfants".
+**Affaires "communiquées aux juges des enfants".**
 
 Cette rubrique n'apparaît dans les tableaux qu'à partir de
 1966. La série a pu cependant être reconstituée à partir de 1954,

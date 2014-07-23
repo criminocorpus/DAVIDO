@@ -2,11 +2,11 @@
 
 7.2.2.6.- ARENVTE (V66 - 1954 à 1981*) (1).
 
-"Ordonnances de renvoi" des affaires concernant des mineurs
-de 18 ans, "devant le tribunal pour enfants".
+**"Ordonnances de renvoi" des affaires concernant des mineurs
+de 18 ans, "devant le tribunal pour enfants".**
 
 Cette rubrique n'apparaît explicitement dans les tableaux du
-Compte génénal qu'à partir de 1966.
+*Compte génénal* qu'à partir de 1966.
 
 Pour les années 1954 à 1965, la série a pu être reconstituée
 à partir des notes au bas du tableau, indiquant la part que repré-
@@ -33,17 +33,17 @@ d'interruption de publication sont manquantes.
 
 7.2.2.7.- AJONCDES (V70 - 1976 à 1981).
 
-"Ordonnances de jonction, de dessaisissement, d'incompétence,
-de refus d'informer" prononcées par les juges d'instruction.
+**"Ordonnances de jonction, de dessaisissement, d'incompétence,
+de refus d'informer" prononcées par les juges d'instruction.**
 
-En 1944, on trouve dans le tableau du Compte général deux
+En 1944, on trouve dans le tableau du *Compte général* deux
 rubriques intitulées dessaisissements "en faveur des cours de
 justice" et "en faveur des tribunaux militaires". Nous n'avons pas
 pris en compte les premiers, au nombre de 4 577, pour la consti-
 tution de cette série. Les seconds sont comptés dans AEVOCOUR.
 
 De 1976 à 1981, le chiffre a été relevé dans la rubrique
-correspondante des Comptes généraux ou calculé à partir des Cadres
+correspondante des *Comptes généraux* ou calculé à partir des Cadres
 des parquets. Mais par souci d'homogénéité, on n'u a pas ajouté
 les dessaisissements en faveur des tribunaux militaires donnés en
 note au bas des tableaux ou calculés à partir des Cadres des

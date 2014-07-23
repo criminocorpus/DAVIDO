@@ -13,7 +13,7 @@ sont également placés dans cet ensemble de séries.
 
 7.3.2.1.- PONLTOT (Y6 - 1831 à 1932).
 
-"Nombre total des inculpés déchargés des poursuites".
+**"Nombre total des inculpés déchargés des poursuites".**
 
 Le chiffre inclut les inculpés déchargés des poursuites dans
 des affaires ou d'autres sont poursuivis, aussi bien que les in-
@@ -29,21 +29,21 @@ second chiffre.
 
 7.3.2.2.- PONLARRE (Y7 - 1831 à 1932).
 
-"Nombre des inculpés arrêtés déchargés des poursuites".
+**"Nombre des inculpés arrêtés déchargés des poursuites".**
 
 Cf. les séries AONLDEFI et PONLTOT.
 
 Il résulte des cohérences concernant la détention préventive
 et des commentaires de cette série donnés par les Rapports des
-Comptes généraux, qu'il s'agit des inculpés pour qui le non-lieu
+*Comptes généraux*, qu'il s'agit des inculpés pour qui le non-lieu
 met fin à la détention préventive.
 
 On a donc l'égalité PONLARRE = PDPONL.
 
 7.3.2.3.- AONLDEFI (Y5 - 1831 à 1932).
 
-Nombre total des affaires terminées par des ordonnances de
-non-lieu non frappées d'opposition.
+**Nombre total des affaires terminées par des ordonnances de
+non-lieu non frappées d'opposition.**
 
 On observe les égalités suivantes :
 AONLDEFI = somme(ANICNID2,AINSUFF2,AINCONN2,AMENTAL2)
