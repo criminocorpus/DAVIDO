@@ -58,7 +58,7 @@ intro = to_rst(10, 39)
 with open('intro.rst', 'w') as f:
     f.write(intro)
 with open('intro.html', 'w') as f:
-    f.write('<style>ul.simple { padding-left: 0; } ul { padding-left: 20px; } ul li { list-style-type: none; }</style>')
+    f.write('<style>.contents ul.simple { padding-left: 0; } .contents ul { padding-left: 20px; } .contents ul li { list-style-type: none; }</style>')
     f.write(rst_to_html(intro))
 
 liste_comptes = to_rst(208, 209)
@@ -73,6 +73,6 @@ series = to_rst(40, 144)
 with open('series.rst', 'w') as f:
     f.write(series)
 with open('series.html', 'w') as f:
-    f.write('<style>ul.simple { padding-left: 0; } ul { padding-left: 20px; } ul li { list-style-type: none; }</style>')
+    f.write('<style>.contents ul.simple { padding-left: 0; } .contents ul { padding-left: 20px; } .contents ul li { list-style-type: none; }</style>')
     f.write(rst_to_html(series))
 
