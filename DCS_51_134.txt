@@ -5,12 +5,12 @@
 12.1.- Généralités.
 
 L'ensemble de ces séries est relevé de 1831 à 1942, d'abord
-dans un tableau intitulé "Durée des procédures criminelles -
-Tribunaux correctionnels - Cours et tribunaux d'appels...", le
-plus souvent dans la partie "Exécution des jugements correction-
-nels", puis, à partir de 1886 dans une note fiqurant au bas du
-tableau intitulé "Résultat des poursuites eu égard à l'âge et au
-sexe des prévenus". Il concerne les individus condamnés à l'empri-
+dans un tableau intitulé **"Durée des procédures criminelles -
+Tribunaux correctionnels - Cours et tribunaux d'appels..."**, le
+plus souvent dans la partie **"Exécution des jugements correction-
+nels"**, puis, à partir de 1886 dans une note fiqurant au bas du
+tableau intitulé **"Résultat des poursuites eu égard à l'âge et au
+sexe des prévenus"**. Il concerne les individus condamnés à l'empri-
 sonnement.
 
 Ces chiffres manquent pour 1935.
@@ -19,8 +19,8 @@ Ces chiffres manquent pour 1935.
 
 12.2.1.- PEXETOT (Y12 - 1831 à 1942*).
 
-Total des prévenus condamnés à l'emprisonnement par les
-tribunaux correctionnels (total calculé 2).
+**Total des prévenus condamnés à l'emprisonnement par les
+tribunaux correctionnels (total calculé 2).**
 
 De 1831 à 1890, PEXETOT = PEXEFERM.
 De 1891 à 1942, PEXETOT = PEXEFERM+PEXESURS.
@@ -39,9 +39,9 @@ tiaire ne sont pas compris.
 
 12.2.2.- PEXESURS (Y14 - 1891 à 1942*).
 
-Nombre des prévenus condamnés à l'emprisonnement non écroués
+**Nombre des prévenus condamnés à l'emprisonnement non écroués
 "par suite de sursis à l'exécution de la peine" (avec ou sans
-détention préventive).
+détention préventive).**
 
 En 1891 et 1892, les chiffres fournis par le Compte général
 ne concernent que les sursis prononcés sans détention préalable.

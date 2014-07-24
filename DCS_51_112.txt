@@ -2,18 +2,18 @@
 
 10.2.2.8.- AMPURGE (V79 - 1863 à 1929).
 
-"Affaires poursuivies à la requête du Ministère public" en
+**"Affaires poursuivies à la requête du Ministère public" en
 application de la "loi du 20 mai 1863" (flagrant délit) par
-"citation d'urgence avec mandat (préalable)".
+"citation d'urgence avec mandat (préalable)".**
 
 De même que la précédente, cette série n'apparaît que de 1863
 à 1929 (Cf. AMPFLAG).
 
 10.2.2.9.- AMPFLAG (V80 - 1863 à 1975).
 
-Total des "affaires poursuivies à la requête du Ministère
+**Total des "affaires poursuivies à la requête du Ministère
 public" en application de la "loi du 20 mai 1863 (flagrant
-délit)".
+délit)".**
 
 Cette série est calculée de 1863 à 1929 en sommant AMPBARRE
 et AMPURGE, puis relevée. En effet, la rubrique apparaît en tant
@@ -22,8 +22,8 @@ ne sont plus distinguées.
 
 10.2.2.10.- PMPRELA (YZO - 1831 à 1932).
 
-"Nombre des prévenus poursuivis à la requête du Ministère
-public acquittés".
+**"Nombre des prévenus poursuivis à la requête du Ministère
+public acquittés".**
 
 On peut distinquer les condamnés à la surveillance (article
 271, paragraphe 2 du Code Pénal). En 1833, de 1835 à 1838 et de
@@ -40,13 +40,13 @@ pour respecter la cohérence avec la série PPREVENU.
 
 10.2.2.11.- PMPEMP (Y21 - 1831 à 1932).
 
-"Nombre des prévenus poursuivis à la requête du Ministère
-public condamnés à l'emprisonnement".
+**"Nombre des prévenus poursuivis à la requête du Ministère
+public condamnés à l'emprisonnement".**
 
 A partir de 1891, une note précise que le sursis est compris.
 
 10.2.2.12.- PMPAMEN (Y22 - 1831 à 1932).
 
-"Nombre des prévenus poursuivis à la requête du Ministère
-public condamnés à l'amende (seulement)".
+**"Nombre des prévenus poursuivis à la requête du Ministère
+public condamnés à l'amende (seulement)".**
 

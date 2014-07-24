@@ -2,23 +2,23 @@
 
 10.2.2.19.- AMPRELA (Y29 - 1842 à 1932).
 
-Nombre d'"affaires jugées à la requête du Ministère public"
+**Nombre d'"affaires jugées à la requête du Ministère public"
 pour lesquelles "il y a eu acquittement de tous les prévenus
-impliqués".
+impliqués".**
 
 Cette série ne débute qu'en 1842.
 
 10.2.2.20.- AADRELA (Y30 - 1842 à 1932).
 
-Nombre d'"affaires jugées à la requête des administrations
+**Nombre d'"affaires jugées à la requête des administrations
 publiques" pour lesquelles "il y a eu acquittement de tous les
-prévenus impliqués".
+prévenus impliqués".**
 
 10.2.2.21.- APCRELA (Y31 - 1842 à 1932).
 
-Nombre d'"affaires poursuivies à la requête des parties
+**Nombre d'"affaires poursuivies à la requête des parties
 civiles" pour lesquelles "il y a eu acquittement de tous les
-prévenus impliqués".
+prévenus impliqués".**
 
 10.3.- Activité des tribunaux correctionnels - Résultat des poursuites.
 
@@ -29,7 +29,7 @@ les décisions prises par les tribunaux correctionnels (relaxe,
 condamnation, nature de peines). Nous y avons ajouté les séries
 données en note de bas de tableau à propos du mode de jugement.
 
-On trouve dans le Compte général de 1975, volume II, à la
+On trouve dans le *Compte général de 1975*, volume II, à la
 dernière page de la table des matières, la note suivante : "Par
 suite de difficultés de mise au point informatique, les items "non
 mentionnés" n'apparaissent pas toujours, ce qui peut occasionner
@@ -42,7 +42,7 @@ des écarts entre les totaux des différents tableaux".
 "Nombre des affaires" poursuivies par les tribunaux
 correctionnels.
 
-Les relevés ont été faits dans les Comptes généraux jusqu'en
-1954. dans les Archives de 1955 à 1969. puis les chiffres ont été
+Les relevés ont été faits dans les *Comptes généraux* jusqu'en
+1954. dans les *Archives* de 1955 à 1969. puis les chiffres ont été
 obtenus par l'exploitation directe des Cadres statistiques crimi-
 

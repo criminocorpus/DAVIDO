@@ -4,17 +4,17 @@ sur une partie de la peine et la série est calculée par sommation
 de ces deux rubriques. Le nombre des sursis partiels est alors de
 977 en 1977 et de 1 087 en 1978. Ils sont compris dans PSUCOAME.
 Lorsque des sursis avec des mises à l'épreuve apparaissaient
-pour des amendes dans les Comptes généraux, nous avons considéré
+pour des amendes dans les *Comptes généraux*, nous avons considéré
 qu'il s'agissait en fait de sursis simple et les avons ajoutés.
-En 1908, le Compte général comporte vraisemblablement une
+En 1908, le *Compte général* comporte vraisemblablement une
 erreur d'impression que nous avons dû rectifier. La valeur saisie
 dans la base est donc 17 718 au lieu de 17 618.
 
 11.2.9.- PSUCOEMP (S12 - 1891 à 1978*).
 
-Nombre de condamnés (ou condamnations) à des peines
+**Nombre de condamnés (ou condamnations) à des peines
 d'emprisonnement assorties du sursis qui ont été prononcées par
-les tribunaux correctionnels (et les cours d'appel).
+les tribunaux correctionnels (et les cours d'appel).**
 
 Il s'agit des peines d'emprisonnement avec sursis simple
 jusqu'en 1958. simple ou avec mise à l'épreuve ensuite.
@@ -29,9 +29,9 @@ les sursis partiels qui sont inclus dans cette série. On en compte
 
 11.2.10.- PSUCOSIM (S9 - 1959 à 1978).
 
-Nombre de condamnés (ou condamnations) à des peines
+**Nombre de condamnés (ou condamnations) à des peines
 d'emprisonnement assorties du sursis simple qui ont été prononcées
-par les tribunaux correctionnels (et les cours d'appel).
+par les tribunaux correctionnels (et les cours d'appel).**
 
 Cette série a été relevée de 1959 à 1976. Ensuite, le Compte
 général distingue les sursis ne portant que sur une partie de la
@@ -43,10 +43,10 @@ gnées ou non de l'amende (assortie ou non d'un sursis).
 
 11.2.11.- PSUCOMAE (S10 - 1959 à 1978).
 
-Nombre de condamnés (ou condamnations) à des peines
+**Nombre de condamnés (ou condamnations) à des peines
 d'emprisonnement assorties du sursis avec mise à l'épreuve qui ont
 été prononcées par les tribunaux correctionnels (et les cours
-d'appel).
+d'appel).**
 
 Cette série a été constituée de la même manière que la
 précédente.

@@ -2,8 +2,8 @@
 
 9.2.9.- PPERPET (V23 - 1831 à 1978).
 
-Nombre de condamnés (condamnations) à des peines privatives
-de liberté à perpétuité.
+**Nombre de condamnés (condamnations) à des peines privatives
+de liberté à perpétuité.**
 
 Jusqu'en 1959, il s'agit essentiellement de peines de "tra-
 vaux forcés à perpétuité", auxquelles on a ajouté les "réclusions
@@ -19,7 +19,7 @@ tuité et, en 1960, la rubrique est intitulée ainsi : "travaux
 forcés et réclusion criminelle à perpétuité".
 
 A partir de 1961, il ne s'agit plus que de "réclusion crimi-
-nelle à perpétuité". Lorsque les tableaux des Comptes généraux
+nelle à perpétuité". Lorsque les tableaux des *Comptes généraux*
 mentionnaient "réclusion criminelle" et "détention criminelle" à
 perpétuité, nous avons additionné les deux chiffres (de 1972 à
 1975).
@@ -33,7 +33,7 @@ qu'elle remplacera".
 
 9.2.10.- PDEPORTE (V6 - 1831 à 1923*).
 
-Nombre de condamnés (condamnations) à la "déportation".
+**Nombre de condamnés (condamnations) à la "déportation".**
 
 La déportation est une peine utilisée contre les condamnés
 politiques. Elle n'est utilisée qu'épisodiquement et ne doit pas

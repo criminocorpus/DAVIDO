@@ -2,9 +2,9 @@
 
 8.3.2.7.- PLPOFFI (V133 - 1933 à 1943).
 
-Nombre de mises en liberté provisoire d'office par le juge
+**Nombre de mises en liberté provisoire d'office par le juge
 d'instruction ou sur requête du prévenu (sans nécessairement
-obtenir l'accord préalable du ministère public).
+obtenir l'accord préalable du ministère public).**
 
 La série va de 1933 à 1938 (ou 1943 !).
 
@@ -48,6 +48,6 @@ le chapitre sur l'activité des tribunaux correctionnels).
 
 8.4.2.1.- PCOMLPRO (V119 - 1831 à 1929).
 
-Prévenus jugés pour des délits communs arrêtés et mis en
-liberté provisoire jusqu'au jugement.
+**Prévenus jugés pour des délits communs arrêtés et mis en
+liberté provisoire jusqu'au jugement.**
 

@@ -15,17 +15,17 @@ qui n'est juste que pour la partie "contraventions" du tableau.
 De 1960 à 1963, la part des contraventions de cinquième
 classe reste inconnue.
 
-De 1964 à 1969, leur nombre fiqure dans les Archives et est
+De 1964 à 1969, leur nombre fiqure dans les *Archives* et est
 donné plus loin.
 
 De 1970 à 1973, leur nombre n'est pas connu mais pourrait
-être exploité à partir des Cadres des parquets.
+être exploité à partir des *Cadres* des parquets.
 
-En 1974 et 1975, le tableau du Compte général fait réappa-
+En 1974 et 1975, le tableau du *Compte général* fait réappa-
 raître la colonne "R.40" et le titre du tableau est rectifié en
 conséquence.
 
-A partir de 1976, les Cadres des parquets ont été modifiés et
+A partir de 1976, les *Cadres* des parquets ont été modifiés et
 ce renseignement n'a plus été demandé aux juridictions.
 
 b.- Exploitation mécanographique ou informatique des doubles
@@ -50,5 +50,5 @@ de cinquième classe a connu bien des vicissitudes : problèmes de
 collecte, qualité médiocre de l'information, modifications légis-
 latives mal répercutées dans les nomenclatures, toutes ces diffi-
 cultés non résolues n'en font pas une source beaucoup plus fiable
-que les Cadres des parquets.
+que les *Cadres* des parquets.
 

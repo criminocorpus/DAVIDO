@@ -26,29 +26,33 @@ On observe même pendant quelques années (1940-1943) des
 chiffres donnés dans un tableau ne correspondant plus à l'état de
 la législation. En 1944, cette erreur est corrigée dans les
 intitulés mais les chiffres manquent ; en 1945 il y a des
-regroupements et de 1948 à 1955 (volumes groupés du Compte
-général), le tableau disparaît.
+regroupements et de 1948 à 1955 (volumes groupés du *Compte
+général*), le tableau disparaît.
 
 On peut alors plutôt tenter une réorganisation des rubriques.
 Les séries suivantes peuvent être conservées avec une homogénéité
 acceptable :
+
 - PLPTOT : TOTAL des mises en liberté malgré la divergence obser-
-vable à partir de 1940 avec la série PDPLPRO (achèvement de la dé-
-tention préventive par mise en liberté provisoire) ;
+  vable à partir de 1940 avec la série PDPLPRO (achèvement de la dé-
+  tention préventive par mise en liberté provisoire) ;
+
 - PLPRENV : RENVOI devant le tribunal correctionnel ou de simple
-police ;
+  police ;
+
 - PLPMAIN : MAINLEVEE du mandat de dépôt ;
+
 - PLPFLAG : FLAGRANTS DELITS article 5.
 
 Pour les autres séries, on peut envisager un regroupement ou
 une organisation en trois postes :
 - les mises en liberté sur requête, toujours présentes mais de
-contenu variable ;
+  contenu variable ;
 - les mises en liberté de droit qui apparaissent en 1865 et
-prennent un contenu variable après 1933 ;
+  prennent un contenu variable après 1933 ;
 - les mises en liberté d'office prévues pendant la période la plus
-cahotique (1933-1947) que l'on pourra cependant regrouper si
-nécessaire avec les requêtes.
+  cahotique (1933-1947) que l'on pourra cependant regrouper si
+  nécessaire avec les requêtes.
 
 L'ensemble de ces remarques conduit finalement à considérer
 qu'à toutes fins pratiques, par suite d'absence de chiffre ou en

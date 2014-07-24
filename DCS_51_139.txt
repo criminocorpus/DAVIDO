@@ -8,10 +8,10 @@ forcés, de la réclusion et de l'emprisonnement. Le nombre de ces
 divers individus est d'ailleurs fort restreint.".
 
 Il a fallu cependant attendre 1871 pour arriver à la stabili-
-sation de cette définition. Pour cette année, le Rapport (Compte
-général de 1871, page XVII) indique : "jusqu'à présent, la récidi-
+sation de cette définition. Pour cette année, le Rapport (*Compte
+général de 1871*, page XVII) indique : "jusqu'à présent, la récidi-
 ve avait été recherchée et indiquée dans les comptes de la justice
-criminelle pour tous les accusés ou prévenus jugés, quel qu'ait
+criminelle pour *tous* les accusés ou prévenus jugés, quel qu'ait
 été le résultat des poursuites. A partir de 1871, elle ne l'a été
 que pour ceux qui ont été condamnés. Il est, en effet, plus
 rationnel de ne pas considérer comme des récidivistes les indi-
@@ -25,7 +25,7 @@ phique de désigner un condamné comme récidiviste.
 
 b.- Sources et unité de compte.
 
-Jusqu'en 1932, une partie spéciale du Compte général est
+Jusqu'en 1932, une partie spéciale du *Compte général* est
 consacrée aux récidives. Elles sont croisées, selon les périodes,
 avec divers renseignements tels que : peine antérieure, nouvelle
 peine, infraction antérieure, nouvelle infraction, temps écoulé
@@ -46,8 +46,8 @@ nations criminelles ou correctionnelles (à partir de 1871),
 concernant des individus déjà condamnés antérieurement.
 
 Même avec ces définitions, les séries restent criticables.
-Déjà le Rapport sur l'administration de la justice criminelle en
-France de 1826 à 1880, en pages LXXXIII et LXXXIV, apporte cette
+Déjà le *Rapport sur l'administration de la justice criminelle en
+France de 1826 à 1880*, en pages LXXXIII et LXXXIV, apporte cette
 mise en garde : "Comme il importe de ne pas comparer entre eux des
 éléments hétérogènes, l'examen des comptes annuels doit porter
 séparément, au moins, en ce qui concerne les nombres absolus ou

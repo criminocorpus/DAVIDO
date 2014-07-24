@@ -7,15 +7,15 @@
 - "loyers", en 1951 ;
 - "sécurité sociale", de 1952 à 1954.
 Cette liste ne comprend pas, loin de là, toutes les infrac-
-tions à des législations extérieures au Code Pénal que le Compte
-général faisait figurer parmi les "délits communs".
+tions à des législations extérieures au Code Pénal que le *Compte
+général* faisait figurer parmi les "délits communs".
 
 10.3.2.14.- PSPEPREV (V9 - 1831 à 1954).
 
-"Nombre des prévenus" jugés pour des "délits spéciaux" par
-les tribunaux correctionnels.
+**"Nombre des prévenus" jugés pour des "délits spéciaux" par
+les tribunaux correctionnels.**
 
-Cette série a été relevée dans les Comptes généraux.
+Cette série a été relevée dans les *Comptes généraux*.
 Les prévenus mineurs remis à leurs parents ou envoyés dans
 une maison de correction sont inclus dans cette série (voir
 PSPEPARE et PSPEMÀIS).
@@ -30,17 +30,17 @@ et condamnés à d'autres peines que l'emprisonnement ou l'amende
 
 10.3.2.15.- PSPEACQU (V10 - 1831 à 1954).
 
-"Nombre des prévenus acquittés" par les tribunaux correc-
-tionnels qui avaient été poursuivis pour "délits spéciaux".
+**"Nombre des prévenus acquittés" par les tribunaux correc-
+tionnels qui avaient été poursuivis pour "délits spéciaux".**
 
 Cette série a été relevée. Elle comprend la suivante
 (PSPEPARE).
 
 10.3.2.16.- PSPEPARE (X1 - 1832 à 1932).
 
-Nombre des prévenus mineurs "remis à leurs parents ou à un
+**Nombre des prévenus mineurs "remis à leurs parents ou à un
 tiers" par les tribunaux correctionnels qui avaient été poursuivis
-pour des "délits spéciaux".
+pour des "délits spéciaux".**
 
 Cette série ne débute qu'en 1832. Elle représente dans la
 base une partie de PSPEACQU.
@@ -48,7 +48,7 @@ base une partie de PSPEACQU.
 De 1832 à 1845, la part des jeunes vagabonds placés sous
 surveillance de la haute police sans autre peine, dont le chiffre
 était donné dans une colonne distincte, est nulle. Ensuite, les
-tableaux des Comptes généraux ne distinguent plus les deux
+tableaux des *Comptes généraux* ne distinguent plus les deux
 rubriques.
 
 De 1832 à 1839, les valeurs sont donc nulles par addition de

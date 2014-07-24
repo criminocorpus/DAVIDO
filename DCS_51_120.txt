@@ -2,23 +2,23 @@
 
 10.3.2.12.- PAMENDE (X24 - 1831 à 1978).
 
-Nombre de condamnés (condamnations) à une peine d'amende
-seulement.
+**Nombre de condamnés (condamnations) à une peine d'amende
+seulement.**
 
 En 1963, le chiffre diffère de ce qu'on peut relever dans le
-Compte général, une erreur d'impression a en effet dû être recti-
+*Compte général*, une erreur d'impression a en effet dû être recti-
 fiée a posteriori.
 
 Cette série comprend les amendes avec sursis à partir de 1891
 (voir PSUCOAME dans le chapitre sur les sursis).
 
 A partir de 1976, la série n'est plus relevée mais calculée à
-partir des rubriques correspondantes du tableau Compte général.
+partir des rubriques correspondantes du tableau *Compte général*.
 
 10.3.2.13.- ATOTSPE (X43 - 1831 à 1954).
 
-Nombre d'affaires concernant des "délits spéciaux" jugées par
-les tribunaux correctionnels.
+**Nombre d'affaires concernant des "délits spéciaux" jugées par
+les tribunaux correctionnels.**
 
 Ces affaires font l'objet d'un paragraphe à part à la fin de
 la liste des infractions du tableau "Délits jugés par les tribu-

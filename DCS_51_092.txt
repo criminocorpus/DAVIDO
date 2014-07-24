@@ -2,12 +2,12 @@
 
 9.2.3.- PACQUIT (V17 - 1831 à 1981*).
 
-"Nombre des acquittés" par les cours d'assises.
+**"Nombre des acquittés" par les cours d'assises.**
 
-Les chiffres sont relevés dans le Compte général jusqu'en
+Les chiffres sont relevés dans le *Compte général* jusqu'en
 1952, manquants de 1953 à 1955 et relevés dans les Archives
 jusqu'en 1969. A partir de 1970, ils proviennent de l'exploitation
-des Cadres des parquets (statistique criminelle N° 3B bis ou 3
+des *Cadres* des parquets (statistique criminelle N° 3B bis ou 3
 bis).
 
 Sont inclus dans cette série 3 acquittés par contumace en
@@ -17,9 +17,9 @@ En 1975, la cour d'assises de Paris n'ayant pu fournir le
 nombre des acquittés, on a procédé à une estimation.
 
 Pour 1965, 1977 et 1978. les chiffres publiés dans le tableau
-11 du Compte général de 1978, page 25, diffèrent de ceux saisis
+11 du *Compte général de 1978*, page 25, diffèrent de ceux saisis
 dans la base de données. Ils étaient en effet erronés et ont dû
-être rectifiés a posteriori à l'aide des Cadres.
+être rectifiés a posteriori à l'aide des *Cadres*.
 
 De 1832 à 1835, apparaît du côté des condamnés une rubrique
 spécifique intitulée "nombre des individus placés sous la surveil-

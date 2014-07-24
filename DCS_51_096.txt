@@ -1,7 +1,7 @@
 -95-
 
 9.2.7.- PMORT (V22 - 1831 à 1974).
-Nombre de condamnés (condamnations) à la peine de mort.
+**Nombre de condamnés (condamnations) à la peine de mort.**
 
 La série provient du tableau concernant les cours d'assises
 jusqu'en 1974. A partir de 1975, les condamnations à la peine de
@@ -78,8 +78,8 @@ sont alors les suivants :
 +------+----+------+----+------+----+----------+
 
 Les condamnations à mort prononcées de 1945 à 1949 par les
-cours de Justice ou les tribunaux militaires (soit 2 853, Compte
-général de 1947, page 262) n'ont pas été comptées, celles pronon-
+cours de Justice ou les tribunaux militaires (soit 2 853, *Compte
+général de 1947*, page 262) n'ont pas été comptées, celles pronon-
 cées par le Haut Tribunal Militaire, la Cour militaire de Justice
 ou la Cour de Sûreté de 1'Etat (O.A.S.) non plus. Les chiffres
 fournis par le bureau des Grâces pour ces juridictions sont : 8 en

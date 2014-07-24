@@ -11,15 +11,15 @@ A partir de 1955, une note précise que les contraventions
 traitées selon cette procédure sont comptées dans le total des
 contraventions (ACONTRAV).
 
-Pour 1973, une note du Cadre statistique indique que la
+Pour 1973, une note du *Cadre* statistique indique que la
 rubrique ne concerne que les infractions commises avant le
 1er juillet 1972. A partir de cette date s'appliquent l'amende
 pénale fixe et l'ordonnance pénale (PAPFTITR et AORDOPEN).
 
 14.2.14.- ACOMPPAI (P18 - 1947 à 1974).
 
-"Amendes de composition - Nombre d'affaires réglées par le
-paiement de l'amende".
+**"Amendes de composition - Nombre d'affaires réglées par le
+paiement de l'amende".**
 
 Cette série est relevée dans les mêmes conditions que
 PCOMPAVE. Comme l'indique le titre des deux séries, à s'en tenir à
@@ -41,8 +41,8 @@ l'une des séries donnant l'issue du jugement.
 
 14.2.15.- PAPFTITR (P19 - 1972 à 1981).
 
-"Amende pénale fixe - Nombre de titres exécutoires
-individuels établis".
+**"Amende pénale fixe - Nombre de titres exécutoires
+individuels établis".**
 
 La loi du 6 juillet 1966 ajoute à l'amende de composition la
 procédure de l'amende forfaitaire qui permet à l'administration

@@ -2,44 +2,43 @@
 
 10.3.2.24.- ADEFFORE (D3 - 1856 à 1932).
 
-Nombre de jugements rendus par défaut par les tribunaux
+**Nombre de jugements rendus par défaut par les tribunaux
 correctionnels "en matière de contraventions fiscales. forestières
-et autres".
+et autres".**
 
 La mention des contraventions fiscales n'apparaît qu'à partir
 de 1899.
 
 10.3.2.25.- ADEFNOSI (D4 - 1856 à 1932).
 
-Nombre de jugements par défaut prononcés par les tribunaux
+**Nombre de jugements par défaut prononcés par les tribunaux
 correctionnels "non signifiés par suite de l'acquiescement des
-condamnés".
+condamnés".**
 
 En 1895, 1896 et 1904 la cohérence
-ACORRDEF = ADEFNOSI+ADEFSIGN n'est pas respectée par les Comptes
-généraux, mais on a pu régler le problème en rectifiant ADEFNOSI.
+ACORRDEF = ADEFNOSI+ADEFSIGN n'est pas respectée par les *Comptes
+généraux*, mais on a pu régler le problème en rectifiant ADEFNOSI.
 
 Les valeurs saisies dans la base diffèrent donc de celles qui
-apparaissent dans les Comptes généraux pour ces années.
+apparaissent dans les *Comptes généraux* pour ces années.
 
 10.3.2.26.- ADEFSIGN (D5 - 1856 à 1932).
 
-Nombre de jugements par défaut prononcés par les tribunaux
-correctionnels qui "ont été signifiés".
+**Nombre de jugements par défaut prononcés par les tribunaux
+correctionnels qui "ont été signifiés".**
 
 Ces chiffres sont ventilés selon que les jugements ont ou
 n'ont pas été frappés d'opposition et on a ainsi la concordance
 suivante : ADEFSIGN = somme(ADEFNOOP,ADEFOPPO).
 
-Les Comptes généraux ne respectent pas toujours cette concor-
+Les *Comptes généraux* ne respectent pas toujours cette concor-
 dance. C'est le cas en 1867 et 1885, mais le problème a pu être
 réglé en modifiant les valeurs de ADEFSIGN, ce qui explique les
 écarts entre les valeurs saisies dans la base et celles publiées
-dans les Comptes généraux. En 1876, c'est en modifiant la valeur
+dans les *Comptes généraux*. En 1876, c'est en modifiant la valeur
 de ADEFNOOP que nous avons réglé ce problème de concordance.
 
-Par ailleurs, en 1905. le Compte général donne le même
-
+Par ailleurs, en 1905. le *Compte général* donne le même
 chiffre pour ACORRDEF et ADEFSIGN. Afin de respecter la cohérence
 ACORRDEF = ADEFNOSI+ADEFSIGN. nous avons donc rectifié la valeur
 
@@ -47,8 +46,8 @@ de ADEFSIGN pour cette année.
 
 10.3.2.27.- ADEFNOOP (D6 - 1856 à 1932*).
 
-Nombre de jugements qui après avoir été signifiés "ont été
-non suivis d'opposition".
+**Nombre de jugements qui après avoir été signifiés "ont été
+non suivis d'opposition".**
 
 Cette série est relevée de 1856 à 1932 en note du tableau
 d'activité des tribunaux correctionnels ventilé par types
@@ -57,6 +56,6 @@ d'infractions.
 Elle est interrompue entre 1905 et 1909.
 
 En 1876, la valeur saisie dans la base diffère de celle
-publiée dans le Compte général afin de rétablir la cohérence
+publiée dans le *Compte général* afin de rétablir la cohérence
 ADEFSIGN = ADEFNOOP+ADEFOPPO.
 

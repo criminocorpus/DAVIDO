@@ -2,8 +2,8 @@
 
 9.2.8.- PEXEMORT (V8 - 1831 à 1974).
 
-Nombre de condamnés (condamnations) à la peine de mort qui
-ont été exécutés.
+**Nombre de condamnés (condamnations) à la peine de mort qui
+ont été exécutés.**
 
 Ces chiffres figurent dans le tableau "Nature et durée des
 peines" jusqu'en 1932, puis en note au bas du tableau d'activité
@@ -11,8 +11,8 @@ des cours d'assises. Il s'agit d'une partie de PMORT.
 
 Sont exclues les exécutions des condamnations à mort pronon-
 cées au moment de la Libération par les Cours de Justice (soit
-768, la dernière exécution ayant eu lieu en 1952, Compte général
-de 1947, p. 262) ou par les tribunaux militaires (79), ni les
+768, la dernière exécution ayant eu lieu en 1952, *Compte général
+de 1947*, p. 262) ou par les tribunaux militaires (79), ni les
 exécutions sommaires (5 234 avant la Libération, 3 114 après la
 Libération) ou après décisions de juridictions illégales (1 325).
 Ces derniers chiffres proviennent du bureau des Grâces et avaient
@@ -24,7 +24,7 @@ Lorsque la distinction apparaissait, notamment à partir de
 condamnation et non celle de l'exécution.
 
 De même que pour la série PMORT, les résultats communiqués
-par le bureau des Grâces s'écartent du Compte général à partir de
+par le bureau des Grâces s'écartent du *Compte général* à partir de
 1873. Mais le mode de comptage diffère puisque c'est l'année
 d'exécution qui est ici considérée :
 

@@ -10,8 +10,8 @@ série PPARENTA représente une partie de PACQUIT.
 
 9.2.5.- PMAISONA (V20 - 1831 à 1952).
 
-Nombre des "enfants âgés de moins de 16 ans envoyés dans une
-maison de correction (Art. 66 du C.P.)".
+**Nombre des "enfants âgés de moins de 16 ans envoyés dans une
+maison de correction (Art. 66 du C.P.)".**
 
 En 1908, le libellé devient : "enfants âgés de moins de 16
 ans envoyés dans une colonie pénitentiaire (Art. 66 du C.P.)". A
@@ -23,9 +23,9 @@ Elle représente une partie de PCONDASS.
 
 9.2.6.- PCONDASS (V21 - 1831 à 1978).
 
-Nombre de condamnés par les cours d'assises (jusqu'en 1952)
+**Nombre de condamnés par les cours d'assises (jusqu'en 1952)
 ou nombre de condamnations prononcées par les cours d'assises (à
-partir de 1953).
+partir de 1953).**
 
 Cette variation dans le titre à l'occasion du passage à
 l'exploitation des fiches de casier judiciaire n'implique pas de

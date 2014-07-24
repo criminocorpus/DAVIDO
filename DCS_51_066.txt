@@ -44,6 +44,7 @@ Affaires "évoquées par la cour ou terminées sans ordonnance".
 
 Le libellé de cette série varie et selon les périodes, il
 s'agit d'"affaires évoquées par" :
+
 - "la cour royale" (de 1832 à 1846),
 - "la cour d'appel" (de 1847 à 1850),
 - "la cour impériale" (de 1851 à 1869),

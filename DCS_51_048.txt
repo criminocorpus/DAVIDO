@@ -7,7 +7,7 @@ gendarmerie".**
 
 En 1909, il y a une erreur d'impression, c'est pourquoi le
 chiffre saisi diffère de celui qu'on pourrait relever dans le
-Compte général (soit 243 164 au lieu de 243 264).
+*Compte général* (soit 243 164 au lieu de 243 264).
 
 5.2.6.- APOLICE (V88 - 1831 à 1907).
 

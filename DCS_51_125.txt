@@ -2,9 +2,9 @@
 
 10.3.2.28.- ADEFEXEC (D7 - 1877 à 1932*).
 
-Nombre de jugements par défaut prononcés par les tribunaux
+**Nombre de jugements par défaut prononcés par les tribunaux
 correctionnels qui. après avoir été signifiés et "non suivis
-d'opposition", ont été "exécutés".
+d'opposition", ont été "exécutés".**
 
 Cette série va de 1877 à 1932. mais le renseignement est
 manquant pour les années 1905 à 1909.
@@ -13,7 +13,7 @@ Au vu des cohérences, elle semble incluse dans ADEFNOOP et
 donc dans ADEFSIGN jusqu'en 1904.
 
 De 1907 à 1909, les cohérences ne sont plus respectées par
-les Comptes généraux eux-mêmes.
+les *Comptes généraux* eux-mêmes.
 
 En 1910, ADEFEXEC représente une partie de ACORRDEF non
 comprise dans ADEFNOOP et ADEFSIGN, l'intitulé reste cependant
@@ -27,8 +27,8 @@ bizarres, c'est le choix que nous avons fait.
 
 10.3.2.29.- ADEFOPPO (D8 - 1856 à 1932*).
 
-Nombre de jugements par défaut prononcés par les tribunaux
-correctionnels qui ont été signifiés puis "suivis d'opposition".
+**Nombre de jugements par défaut prononcés par les tribunaux
+correctionnels qui ont été signifiés puis "suivis d'opposition".**
 
 La série est relevée de 1856 à 1932 mais le renseignement est
 manquant de 1905 à 1909.
@@ -39,8 +39,8 @@ d'un relevé (cf. ADEFMAIN).
 
 10.3.2.30.- ADEFMAIN (D9 - 1856 à 1932*).
 
-Nombre de jugements par défaut qui ont été signifiés puis
-"suivis d'opposition" et "maintenus".
+**Nombre de jugements par défaut qui ont été signifiés puis
+"suivis d'opposition" et "maintenus".**
 
 Cette série est relevée de 1856 à 1932 mais le renseignement
 manque de 1905 à 1909.

@@ -2,38 +2,38 @@
 
 11.2.12.- PSC<6J (S13 - 1891 à 1932).
 
-Nombre de condamnés (ou condamnations) à des peines d'empri-
+**Nombre de condamnés (ou condamnations) à des peines d'empri-
 sonnement inférieur à six jours assorties du sursis qui ont été
-prononcées par les tribunaux correctionnels.
+prononcées par les tribunaux correctionnels.**
 
 Cette série ne peut être prolongée au delà de 1932.
 Elle représente une partie de PSC<=1AN.
 
 11.2.13.- PSC<=1AN (S14 - 1891 à 1976*).
 
-Nombre de condamnés (ou condamnations) à des peines d'empri-
+**Nombre de condamnés (ou condamnations) à des peines d'empri-
 sonnement inférieur ou égal à un an assorties du sursis qui ont
-été prononcées par les tribunaux correctionnels.
+été prononcées par les tribunaux correctionnels.**
 
 La série s'interrompt de 1933 à 1963.
 
 En 1964 et 1965, la répartition des quanta de sursis avec
-mise à l'épreuve n'apparaît pas dans les Comptes Généraux, nous
+mise à l'épreuve n'apparaît pas dans les *Comptes Généraux*, nous
 les avons estimés en utilisant les répartitions moyennes de 1966
 et 1967. Considérant qu'ils apparaissaient stables, nous en avons
 fait les moyennes que nous avons appliquées aux valeurs de
 PSUCOMAE en 1964 et 1965. Nous avons ajouté les résultats obtenus
 aux différents quanta de sursis simple (cette observation vaut
-pour les deux séries décrites infra).
+pour les deux séries décrites *infra*).
 
 En 1976, le chiffre est calculé à partir de documents infor-
 matiques non publiés.
 
 11.2.14.- PSC>1AN (S15 - 1891 à 1976*).
 
-Nombre de condamnés (ou condamnations) à des peines d'empri-
+**Nombre de condamnés (ou condamnations) à des peines d'empri-
 sonnement supérieur à un an assorties du sursis qui ont été
-prononcées par les tribunaux correctionnels.
+prononcées par les tribunaux correctionnels.**
 
 La série s'interrompt de 1933 à 1963.
 
@@ -42,9 +42,9 @@ matiques non publiés.
 
 11.2.15.- PSUCOSPE (S17 - 1891 à 1954).
 
-Nombre des condamnés (ou condamnations) pour des "délits
+**Nombre des condamnés (ou condamnations) pour des "délits
 spéciaux" par les tribunaux correctionnels et qui ont bénéficié du
-sursis.
+sursis.**
 
 Le tableau donnant le résultat des poursuites correctionnel-
 les par types d'infractions permet de connaître le nombre total de

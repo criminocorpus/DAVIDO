@@ -8,7 +8,7 @@ lire 543 998 au lieu de 543 698.
 
 14.2.3.- APOLDEF (P4 - 1839 à 1975*).
 
-"Nombre des jugements rendus par défaut".
+**"Nombre des jugements rendus par défaut".**
 
 Cette série a été constituée de la même manière que la
 précédente.
@@ -19,21 +19,21 @@ lieu de 108 652 (1).
 
 14.2.4.- APOLIMP (P5 - 1831 à 1975*).
 
-"Nombre des jugements rendus à la requête du ministère
-public".
+**"Nombre des jugements rendus à la requête du ministère
+public".**
 
 La série est relevée de 1831 à 1973, dans le tableau de 1831
 à 1878, puis en note au bas de ce tableau.
 
 En 1974 et 1975, les chiffres n'ont pas été publiés et sont
-reconstitués à partir des Cadres des parquets.
+reconstitués à partir des *Cadres* des parquets.
 Les renseignements ne sont pas disponibles pour les années
 1951 à 1953.
 
 14.2.5.- APOLIPC (P6 - 1831 à 1975*).
 
-"Nombre des jugements rendus à la requête de la partie
-civile".
+**"Nombre des jugements rendus à la requête de la partie
+civile".**
 
 Cette série a été constituée de la même manière que la
 précédente.

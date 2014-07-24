@@ -4,7 +4,7 @@
 
 8.3.2.1.- PLPTOT (V127 - 1854 à 1981*).
 
-Total des mises en liberté provisoire.
+**Total des mises en liberté provisoire.**
 
 Entre 1854 et 1938, cette série fait double emploi avec celle
 des achèvements de la détention préventive par mise en liberté
@@ -29,9 +29,9 @@ plus parmi les mises en liberté provisoire.
 
 8.3.2.2.- PLPRENV (V128 - 1854 à 1947*).
 
-Mise en liberté provisoire par renvoi devant le tribunal de
+**Mise en liberté provisoire par renvoi devant le tribunal de
 police ou devant le tribunal correctionnel sans encourir de peine
-d'emprisonnement.
+d'emprisonnement.**
 
 Cette série vise les articles 129 et 131 du C.I.C., c'est-
 à-dire les renvois devant le tribunal de police ou devant le

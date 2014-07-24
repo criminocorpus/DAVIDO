@@ -2,10 +2,10 @@
 
 10.3.2.5.- PMAISONC (X20 - 1831 à 1932).
 
-"Nombre des prévenus âgés de moins de 16 ans (18 ans à partir
+**"Nombre des prévenus âgés de moins de 16 ans (18 ans à partir
 de 1907) envoyés dans une maison de correction (art. 66 du C.P.)"
-par les tribunaux correctionnels. En 1908, le terme "maison de
-correction" est remplacé par celui de "colonie pénitentiaire".
+par les tribunaux correctionnels.** En 1908, le terme "maison de
+correction" est remplacé par celui de **"colonie pénitentiaire".**
 
 La série s'interrompt après 1932. Dès lors, les mineurs
 envoyés en maison de correction (ou colonie pénitentiaire) sont
@@ -15,8 +15,8 @@ représente une partie de PCONDCOR.
 
 10.3.2.6.- PCONDCOR (X21 - 1831 à 1978).
 
-Prévenus condamnés (condamnations prononcées) par les
-tribunaux correctionnels.
+**Prévenus condamnés (condamnations prononcées) par les
+tribunaux correctionnels.**
 
 En général, cette série correspond au total des séries con-
 cernant le type de peine prononcée. Cependant, pour certaines
@@ -27,8 +27,8 @@ dans quelle rubrique elle a été prise en compte (voir PPREVENU) ;
 - en 1955, on observe un écart de 24 qui pourrait être attribué à
 des peines non mentionnées ;
 - de 1961 à 1976, l'écart est dû aux peines non mentionnées (la
-rubrique existe en tant que telle dans les Comptes généraux de
-1961 à 1971) ;
+rubrique existe en tant que telle dans les *Comptes généraux de
+1961 à 1971*) ;
 - en 1977 et 1978, s'ajoutent à ces peines non mentionnées (10 879
 en 1977 et 1 381 en 1978), les dispenses de peines (2 763 en 1977
 et 4 082 en 1978) et les peines de substitution (3 767 en 1977 et
@@ -41,15 +41,15 @@ nant les peines non mentionnées cités plus haut).
 L'ensemble des observations suivantes valent également pour
 les séries indiquant le type et le quantum de la peine prononcée :
 
-La série PCONDCOR a été relevée dans les Comptes généraux
+La série PCONDCOR a été relevée dans les *Comptes généraux*
 mais dans des tableaux établis à partir de sources diverses : les
-Cadres des parquets de 1831 à 1954, les duplicata anonymes des fi-
+*Cadres* des parquets de 1831 à 1954, les duplicata anonymes des fi-
 ches de casier judiciaire, exploités d'abord mécanographiquement
 de 1955 à 1971, puis informatiquement à partir de 1972.
 
 En 1953 et 1954, les tableaux mécanographiques sont publiés
-dans les Comptes généraux parallèlement aux tableaux établis à
-partir des Cadres des parquets mais, considérant que l'exploita-
+dans les *Comptes généraux* parallèlement aux tableaux établis à
+partir des *Cadres* des parquets mais, considérant que l'exploita-
 tion mécanographique n'en était encore qu'à sa phase expérimentale
 (raison de la double publication), nous avons choisi de relever
 les chiffres provenant de la statistique des parquets.

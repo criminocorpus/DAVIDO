@@ -2,8 +2,8 @@
 
 8.3.2.3.- PLPMAIN (V129 - 1855 à 1981*).
 
-Nombre de mises en liberté provisoire par mainlevée du mandat
-de dépôt ou d'arrêt.
+**Nombre de mises en liberté provisoire par mainlevée du mandat
+de dépôt ou d'arrêt.**
 
 Cette rubrique se réfère d'abord à l'article 94 du C.I.C.,
 puis à l'article 140 du C.P.P. à partir de 1959, enfin à l'article
@@ -22,8 +22,8 @@ C.I.C. n'ait pas été modifié.
 
 8.3.2.4.- PLPFLAG (V130 - 1863 à 1981*).
 
-Nombre de mises en liberté provisoire dans le cadre de
-flagrants délits.
+**Nombre de mises en liberté provisoire dans le cadre de
+flagrants délits.**
 
 La série va de 1863 à 1981.
 

@@ -1,9 +1,9 @@
 -210-
 
 A partir de 1935, cette précision ne figure plus dans le
-titre lui-même et c'est le Rapport qui est "présenté" (parfois
+titre lui-même et c'est le *Rapport* qui est "présenté" (parfois
 sans mention du destinataire ou du titre du signataire, ce dernier
-apparaissant dès lors non plus dans le titre du Rapport mais à la
+apparaissant dès lors non plus dans le titre du *Rapport* mais à la
 fin de celui-ci) :
 
 - au Président de la République française (en 1935) ;
@@ -26,7 +26,7 @@ Conseil Supérieur de la Magistrature (en 1960) ;
 Conseil Supérieur de la Magistrature par le Garde des Sceaux.
 Ministre de la Justice (de 1962 à 1965).
 
-Ensuite, les titres tant du Compte général que de son Rapport
+Ensuite, les titres tant du *Compte général* que de son *Rapport*
 ne les font plus apparaître comme étant "présentés à" ou "par" qui
 que soit.
 
@@ -37,21 +37,21 @@ page du rapport ainsi que le nombre de tableaux statistiques
 d'Outre-Mer) et le nombre de pages qu'ils occupent.
 
 D'une manière générale, la date de parution indiquée est
-celle qui figure dans le Rapport du Compte général en même temps
+celle qui figure dans le *Rapport* du *Compte général* en même temps
 que la signature et on a donc un mois et une année de parution. Le
-mois de parution du Compte général de 1856 est donné en page V du
-Rapport du Compte général de 1857.
+mois de parution du *Compte général de 1856* est donné en page V du
+*Rapport* du *Compte général de 1857*.
 
-Certaines années, le Rapport n'est pas daté, c'est alors l'année
+Certaines années, le *Rapport* n'est pas daté, c'est alors l'année
 de sortie de l'imprimerie qui a été saisie et le mois est inconnu.
 Dans ce cas, la date est à considérer avec prudence : il peut en
 effet y avoir un écart allant jusqu'à deux ans entre la date de
-signature et celle de parution (cf. le Compte général de 1935 par
+signature et celle de parution (cf. le *Compte général de 1935* par
 exemple). Dans le volume pour l'année 1961, aucune date ne figure.
 
 Le nombre des tableaux et le nombre des pages qui leurs sont
 consacrées ont été relevés à la dernière ligne de la table des
-matières de chaque Compte général.
+matières de chaque *Compte général*.
 
 (1).- L'année fait référence bien sûr à la statistique et non à la
 publication.

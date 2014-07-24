@@ -2,9 +2,9 @@
 
 10.3.2.31.- AOLDOPPO (x44 - 1867 à 1944*).
 
-"Nombre de jugements qui ont été rendus sur opposition à des
+**"Nombre de jugements qui ont été rendus sur opposition à des
 jugements par défaut prononcés antérieurement à l'année du
-compte".
+compte".**
 
 Ce chiffre est relevé de 1867 à 1944, en note du tableau
 intitulé "Délits jugés par les tribunaux correctionnels - Mode et
@@ -17,9 +17,9 @@ Le renseignement n'est pas disponible en 1943.
 
 10.3.2.32.- ATRAFORE (D10 - 1860 à 1913).
 
-Nombre de "transactions" que "l'administration forestière a
-consenties, avant jugement, conformément à la loi du
-18 juin 1859".
+**Nombre de "transactions" que "l'administration forestière a
+consenties, *avant jugement*, conformément à la loi du
+18 juin 1859".**
 
 La loi du 18 juin 1859 donne la possibilité à l'adminis-
 tration forestière de régler les affaires sans jugement par

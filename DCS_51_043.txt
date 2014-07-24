@@ -2,13 +2,13 @@
 
 4.2.7.- NMAIRES (V31 - 1876 à 1906).
 
-*Nombre de "maires".*
+**Nombre de "maires".**
 
 Cette rubrique n'existe pas avant 1876.
 
 4.2.8.- NCHAMPET (V32 - 1842 à 1932).
 
-*Nombre de "gardes champêtres communaux".*
+**Nombre de "gardes champêtres communaux".**
 
 Loi du 28 septembre 1791, article 1er : "Pour assurer les
 propriétés et conserver les récoltes, il pourra être établi des
@@ -27,8 +27,8 @@ article 2).
 
 4.2.9.- NPARTIC (V33 - 1842 à 1932).
 
-*Nombre de "gardes particuliers assermentés"*, avec parfois en
-plus l'expression *"en exercice".*
+**Nombre de "gardes particuliers assermentés"**, avec parfois en
+plus l'expression **"en exercice".**
 
 Le décret du 20 messidor an III, article 4, déclare : "Tout
 propriétaire aura le droit d'avoir pour ses domaines un garde

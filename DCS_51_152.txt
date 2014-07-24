@@ -1,7 +1,7 @@
 -151-
 
 14.2.9.- PPOLEMPR (P10 - 1831 à 1981*).
-"Nombre des inculpés condamnés à l'emprisonnement".
+**"Nombre des inculpés condamnés à l'emprisonnement".**
 
 En 1945, le tableau comporte une erreur d'addition ainsi
 qu'une inversion des valeurs de PPOLEMPR et PPOLAMEN pour la cour
@@ -37,13 +37,13 @@ parquets.
 
 14.2.10.- PPOLAMEN (P11 - 1331 à 1931).
 
-"Nombre des inculpés condamnés à l'amende".
+**"Nombre des inculpés condamnés à l'amende".**
 
 En 1945, la valeur saisie diffère de celle qui figure dans le
-Compte général : 350 326 au lieu de 345 761 (cf. PPOLEMPR).
+*Compte général* : 350 326 au lieu de 345 761 (cf. PPOLEMPR).
 
 En 1959, pour la période du 1er mars au 31 décembre, on
-observe une erreur dans les intitulés du tableau du Compte général
+observe une erreur dans les intitulés du tableau du *Compte général*
 et les amendes figurent en fait dans la colonne intitulée "total".
 
 Il convient de tenir compte des effets des amnisties pour les
@@ -61,6 +61,6 @@ de cinquième classe ne sont pas distinguées et figurent donc ici.
 De 1976 à 1981, seules les contraventions des quatre premiè-
 res classes ont été prises en compte.
 
-A partir de 1979, les chiffres proviennent des Cadres des
+A partir de 1979, les chiffres proviennent des *Cadres* des
 parquets.
 

@@ -4,8 +4,8 @@
 
 14.2.1.- ATOTPOLI (P1 - 1831 à 1975).
 
-Nombre total des contraventions jugées par les tribunaux de
-simple police.
+**Nombre total des contraventions jugées par les tribunaux de
+simple police.**
 
 Bien que le tableau parle de contraventions, et donc
 d'infractions, ce sont vraisemblablement des affaires qui sont
@@ -15,7 +15,7 @@ jugements pour arriver au même résultat quant au total jusqu'en
 
 En 1911, une erreur d'addition a dû être rectifiée a poste-
 riori, le chiffre saisi est donc différent de celui qu'on peut
-relever dans le Compte général.
+relever dans le *Compte général*.
 
 De 1831 à 1949, on peut observer les égalités suivantes :
 ATOTPOLI = somme(APOLCONT.APOLDEF) = somme(APOLIMP,APOLIPC). sauf
@@ -38,17 +38,17 @@ Généralités).
 
 14.2.2.- APOLCONT (P3 - 1839 à 1975*).
 
-"Nombre des jugements rendus contradictoirement".
+**"Nombre des jugements rendus contradictoirement".**
 
 Cette série est relevée :
-- en 1839, en page XXIII du Rapport du Compte général ;
+- en 1839, en page XXIII du *Rapport* du *Compte général* ;
 - de 1840 à 1867, en note au bas du tableau d'activité des tribu-
 naux de simple police ;
 - de 1868 à 1878, dans le tableau lui-même :
 - à partir de 1879, de nouveau en note au bas de ce tableau.
 
 En 1974 et 1975, les chiffres n'avaient pas été publiés et
-ont été reconstitués à partir des Cadres des parquets.
+ont été reconstitués à partir des *Cadres* des parquets.
 
 Les chiffres ne sont pas disponibles pour les années 1950 à
 1953.

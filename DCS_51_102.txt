@@ -11,8 +11,8 @@ En 1872, les peines égales à un an sont exclues.
 
 9.2.20.- PEA>1AN (V135 - 1831 à 1933).
 
-Nombre de condamnés (condamnations) à des peines criminelles
-privatives de liberté supérieures à un an.
+**Nombre de condamnés (condamnations) à des peines criminelles
+privatives de liberté supérieures à un an.**
 
 Nous n'avons pas tenu compte ici des peines perpétuelles.
 
@@ -34,8 +34,8 @@ cette série.
 
 9.2.21.- PEA>=5AN (V136 - 1831 à 1932).
 
-Nombre de condamnés (condamnations) à des peines criminelles
-privatives de liberté supérieures ou égales à cinq ans.
+**Nombre de condamnés (condamnations) à des peines criminelles
+privatives de liberté supérieures ou égales à cinq ans.**
 
 Nous n'avons pas tenu compte ici des peines perpétuelles.
 

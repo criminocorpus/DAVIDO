@@ -2,8 +2,8 @@
 
 14.2.11.- APOLCLAS (P12 - 1876 à 1944*).
 
-Nombre de contraventions qui "ont été dénoncées" mais aux-
-quelles il n'"a pas été donné suite".
+**Nombre de contraventions qui "ont été dénoncées" mais aux-
+quelles il n'"a pas été donné suite".**
 
 Ces chiffres ont été relevés de 1876 à 1944 en note au bas du
 tableau concernant l'activité des tribunaux de police. Ces ren-
@@ -16,7 +16,7 @@ plus qu'en 1936.
 La ventilation selon les motifs de classement n'est indiquée
 que de 1876 à 1883. La circulaire sur les statistiques du
 3 décembre 1877 précise que ces rubriques sont souvent restées
-sans réponse dans les Cadres des parquets de 1876. Les chiffres en
+sans réponse dans les *Cadres* des parquets de 1876. Les chiffres en
 sont les suivants :
 
 +-------+----------------------+-------------+---------------+
@@ -43,9 +43,9 @@ sont les suivants :
 
 14.2.12.- APOLINFO (P16 - 1842 à 1932).
 
-"Nombre d'informations au criminel faites par les juges de
+**"Nombre d'informations au criminel faites par les juges de
 paix. soit en cas de flagrant délit, soit par délégation ou en
-vertu de commission rogatoire".
+vertu de commission rogatoire".**
 
 Dans le tableau concernant l'activité des tribunaux de simple
 police de 1842 à 1932, la rubrique se subdivise en deux colonnes :

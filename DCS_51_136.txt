@@ -12,8 +12,8 @@ d'estimer PDPEMPRI.
 
 12.2.7.- PEXEGRAC (Y18 - 1831 à 1942*).
 
-Nombre de prévenus condamnés à l'emprisonnement ferme dont le
-jugement n'a pas été mis à exécution.
+**Nombre de prévenus condamnés à l'emprisonnement ferme dont le
+jugement n'a pas été mis à exécution.**
 
 De 1831 à 1856, ce chiffre est donné par une note rédigée
 comme suit : "Les jugements qui condamnaient ces ... prévenus à
@@ -30,9 +30,9 @@ saisie.
 
 12.2.8.- PEXESTOP (Y16 - 1831 à 1942*).
 
-Nombre des prévenus condamnés à l'emprisonnement et non
+**Nombre des prévenus condamnés à l'emprisonnement et non
 écroués car en fuite ou pour d'autres motifs que ceux énumérés
-dans PEXEGRAC.
+dans PEXEGRAC.**
 
 En 1865, apparaît la rubrique "en fuite", d'abord en note du
 chiffre "non encore écroués" ("dont ..."), puis dans une colonne
@@ -51,8 +51,8 @@ somme(PEXESTOP,PEXEGRAC).
 
 12.2.9.- PEXEFUIT (Y17 - 1865 à 1942*).
 
-Nombre de prévenus condamnés à l'emprisonnement et non
-écroués car en fuite.
+**Nombre de prévenus condamnés à l'emprisonnement et non
+écroués car en fuite.**
 
 Ces chiffres sont déjà comptés dans la série PEXESTOP.
 La série n'apparaît qu'à partir de 1865.

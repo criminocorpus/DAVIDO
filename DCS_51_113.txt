@@ -2,8 +2,8 @@
 
 10.2.2.13.- PADRELA (Y23 - 1831 à 1932).
 
-"Nombre des prévenus poursuivis à la requête d'une
-administration ou d'un établissement public acquittés".
+**"Nombre des prévenus poursuivis à la requête d'une
+administration ou d'un établissement public acquittés".**
 
 En 1837, on rencontre une valeur aberrante (ou présentant un
 écart inexpliqué avec les valeurs des années précédentes ou
@@ -11,38 +11,38 @@ suivantes) : 10 262 prévenus.
 
 10.2.2.14.- PADEMP (Y24 - 1831 a 1932).
 
-"Nombre des prévenus poursuivis à la requête d'une adminis-
+**"Nombre des prévenus poursuivis à la requête d'une adminis-
 tration ou d'un établissement public condamnés à l'emprison-
-nement".
+nement".**
 
 A partir de 1891, le sursis est compris.
 
 10.2.2.15.- PADAMEN (Y25 - 1831 a 1932).
 
-"Nombre des prévenus poursuivis à la requête d'une adminis-
+**"Nombre des prévenus poursuivis à la requête d'une adminis-
 tration ou d'un établissement public condamnés à l'amende
-(seulement)".
+(seulement)".**
 
-En 1927, il y a une erreur d'impression dans le Compte
-général et il faut lire 3 995 au lieu de 3 955.
+En 1927, il y a une erreur d'impression dans le *Compte
+général* et il faut lire 3 995 au lieu de 3 955.
 
 10.2.2.16.- PPCRELA (Y26 - 1831 a 1932).
 
-"Nombre des prévenus poursuivis à la requête d'une partie
-civile acquittés".
+**"Nombre des prévenus poursuivis à la requête d'une partie
+civile acquittés".**
 
 10.2.2.17.- PPCEMP (Y27 - 1831 à 1932).
 
-"Nombre des prévenus poursuivis à la requête d'une partie
-civile condamnés à l'emprisonnement".
+**"Nombre des prévenus poursuivis à la requête d'une partie
+civile condamnés à l'emprisonnement".**
 
 A partir de 1891, le sursis est compris.
 
 10.2.2.18.- PPCAMEN (Y28 - 1831 à 1932).
 
-"Nombre des prévenus poursuivis à la requête d'une partie
-civile condamnés à l'amende (seulement)".
+**"Nombre des prévenus poursuivis à la requête d'une partie
+civile condamnés à l'amende (seulement)".**
 
-En 1920, il y a une erreur d'impression dans le Compte
-général et il convient de lire 2 210 au lieu de 2 110.
+En 1920, il y a une erreur d'impression dans le *Compte
+général* et il convient de lire 2 210 au lieu de 2 110.
 

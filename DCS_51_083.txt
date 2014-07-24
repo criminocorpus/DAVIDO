@@ -2,8 +2,8 @@
 
 8.2.2.15.- PDPSURS (V116 - 1956 à 1981).
 
-Nombre d'individus dont la détention préventive s'est achevée
-par une condamnation à l'emprisonnement avec sursis.
+**Nombre d'individus dont la détention préventive s'est achevée
+par une condamnation à l'emprisonnement avec sursis.**
 
 La série est relevée dans le tableau sur l'achèvement de la
 détention provisoire. Elle concerne les condamnations criminelles
@@ -15,10 +15,10 @@ chapitre de l'exécution des peines d'emprisonnement correctionnel
 
 8.2.2.16.- PDPAUTR (V117 - 1856 à 1981*).
 
-Nombre d'individus dont la détention préventive s'est achevée
-pour toute autre cause.
+**Nombre d'individus dont la détention préventive s'est achevée
+pour toute autre cause.**
 
-La liste, lorsqu'elle est fournie dans le Compte général,
+La liste, lorsqu'elle est fournie dans le *Compte général*,
 énumère les renvois devant une autre juridiction (autre que
 chambre d'accusation ou tribunal correctionnel, notamment
 militaire ou maritime), les mises en liberté sans ordonnance ni
@@ -40,7 +40,7 @@ renvoi de la chambre d'accusation figurant alors ailleurs).
 
 8.3.1.- Généralités.
 
-Avant 1854, le Compte général ne mentionne les mises en
+Avant 1854, le *Compte général* ne mentionne les mises en
 liberté provisoire que pour les prévenus jugés par les tribunaux
 correctionnels (Cf. PCOMLPRO et PCORLPRO).
 

@@ -2,8 +2,8 @@
 
 10.2.2.3.- AMPPARTI (V73 - 1831 à 1854).
 
-"Affaires poursuivies à la requête du Ministère public avec
-l'intervention ou dans l'intérêt des parties ci-contre".
+**"Affaires poursuivies à la requête du Ministère public avec
+l'intervention ou dans l'intérêt des parties ci-contre".**
 
 Il s'agit des affaires où le ministère public est assisté
 d'une partie civile qui intervient d'une manière quelconque dans
@@ -15,21 +15,21 @@ Cette rubrique disparaît après 1854.
 
 10.2.2.4.- AMPSEUL (V74 - 1831 à 1854).
 
-"Affaires poursuivies à la requête du Ministère public seul".
+**"Affaires poursuivies à la requête du Ministère public seul".**
 
 Cette rubrique disparaît après 1854.
 
 10.2.2.5.- AMPCIDIR (V75 - 1855 à 1975).
 
-"Affaires poursuivies à la requête du Ministère public sur
-citation directe".
+**"Affaires poursuivies à la requête du Ministère public sur
+citation directe".**
 
 La rubrique apparaît en 1855.
 
 10.2.2.6.- AMPINST (V76 - 1855 à 1975).
 
-"Affaires poursuivies à la requête du Ministère public après
-instruction préalable".
+**"Affaires poursuivies à la requête du Ministère public après
+instruction préalable".**
 
 Cette rubrique apparaît en 1855.
 
@@ -38,9 +38,9 @@ général, il convient de lire 45 159 au lieu de 45 119.
 
 10.2.2.7.- AMPBARRE (V78 - 1863 à 1929).
 
-"Affaires poursuivies à la requête du Ministère public" en
+**"Affaires poursuivies à la requête du Ministère public" en
 application de la "loi du 20 mai 1863" (flagrant délit) avec
-"conduite de l'inculpé à la barre".
+"conduite de l'inculpé à la barre".**
 
 Cette rubrique existe de 1863 à 1929. Ensuite la distinction
 des flagrants délits en "conduite à la barre " et "citation

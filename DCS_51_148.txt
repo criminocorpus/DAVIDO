@@ -59,10 +59,10 @@ classe.
 +------+-----------+----------+---------+----------+----------+---------+----------+
 
 (1).- Y compris les peines non mentionnées.
-(2).- Relevé dans le Compte général.
-(3).- Relevé dans les Archives.
-(4).- Non exploité, mais disponible dans les Cadres des parquets.
-(5).- Calculé à partir du Compte général.
+(2).- Relevé dans le *Compte général*.
+(3).- Relevé dans les *Archives*.
+(4).- Non exploité, mais disponible dans les *Cadres* des parquets.
+(5).- Calculé à partir du *Compte général*.
 (6).- La distinction entre les "R40" et les "autres que R40" ne
 peut être faite, le total en est le suivant : 133 442, dont 3 583
 ont été condamnés à l'emprisonnement, 126 468 à l'amende, 109 à

@@ -25,7 +25,7 @@ quantes puisque le tableau ne suit pas la législation. De 1948 à
 
 8.3.2.6.- PLPDROIT (V132 - 1865 à 1970*).
 
-Nombre de mises en liberté provisoire de droit.
+**Nombre de mises en liberté provisoire de droit.**
 
 Cette série est également reconstituée au fil des modifica-
 tions législatives concernant la mise en liberté de droit des

@@ -2,8 +2,8 @@
 
 10.3.2.3.- PRELAXE (X17 - 1831 à 1981).
 
-"Nombre des prévenus acquittés" par les tribunaux
-correctionnels.
+**"Nombre des prévenus acquittés" par les tribunaux
+correctionnels.**
 
 Cette série est relevée dans les mêmes conditions que
 PPREVENU.
@@ -29,9 +29,9 @@ jusqu'en 1932, ce qui a été fait ici.
 
 10.3.2.4.- PPARENTC (X19 - 1832 à 1932).
 
-"Nombre des prévenus âgés de moins de 16 ans (18 ans à partir
+**"Nombre des prévenus âgés de moins de 16 ans (18 ans à partir
 de 1907 -1oi du 12 avril 1906) remis à leurs parents ou à un
-tiers" par les tribunaux correctionnels.
+tiers" par les tribunaux correctionnels.**
 
 Cette série est relevée jusqu'en 1839, calculée de 1840 à
 1845 et de nouveau relevée jusqu'en 1932.

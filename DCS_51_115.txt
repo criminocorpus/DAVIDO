@@ -1,7 +1,7 @@
 -114-
 
 nels N° 3B bis provenant des parquets. Cette série ne peut être
-prolongée au delà de 1975, les Cadres des parquets ne demandant
+prolongée au delà de 1975, les *Cadres* des parquets ne demandant
 plus ce renseignement ensuite.
 
 Les majeurs et les mineurs y sont confondus jusqu'en 1951. A
@@ -9,11 +9,11 @@ partir de 1952, seuls les majeurs sont pris en compte.
 
 10.3.2.2.- PPREVENU (X16 - 1831 à 1981).
 
-"Nombre des prévenus" jugés par les tribunaux correctionnels.
+**"Nombre des prévenus" jugés par les tribunaux correctionnels.**
 
-Jusqu'en 1954, les chiffres sont relevés dans les Comptes
-généraux. De 1955 à 1969, ils sont relevés dans les Archives.
-Ensuite ils proviennent de l'exploitation directe des Cadres des
+Jusqu'en 1954, les chiffres sont relevés dans les *Comptes
+généraux*. De 1955 à 1969, ils sont relevés dans les Archives.
+Ensuite ils proviennent de l'exploitation directe des *Cadres* des
 parquets.
 
 A partir de 1851, on observe l'égalité suivante :
@@ -53,7 +53,7 @@ ceux à l'emprisonnement (et dans cette éventualité, à quel
 quantum).
 
 A partir de 1955, les séries PPREVENU et PRELAXE proviennent
-de l'exploitation des Cadres des parquets tandis que PCONDCOR
+de l'exploitation des *Cadres* des parquets tandis que PCONDCOR
 provient de l'exploitation des duplicata de fiches de casier
 judiciaire. Il n'y a donc plus concordance entre ces trois séries.
 

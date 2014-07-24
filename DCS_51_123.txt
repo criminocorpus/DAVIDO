@@ -5,14 +5,14 @@ dans la base est 27 au lieu de 13 (cf.PSPEMAIS).
 
 10.3.2.21.- PSPEAMEN (V13 - 1831 à 1954).
 
-"Nombre des prévenus condamnés à l'amende seulement" par les
+**"Nombre des prévenus condamnés à l'amende seulement" par les
 tribunaux correctionnels qui avaient été poursuivis pour des
-"délits spéciaux".
+"délits spéciaux".**
 
 10.3.2.22.- ACORRDEF (D1 - 1856 à 1932).
 
-Nombre de "jugements (qui) ont été rendus par défaut" par les
-tribunaux correctionnels.
+**Nombre de "jugements (qui) ont été rendus par défaut" par les
+tribunaux correctionnels.**
 
 On rappelle qu'un jugement "par défaut" peut être prononcé
 contre quelqu'un qui n'a pas eu connaissance de sa citation. En
@@ -38,7 +38,7 @@ Cependant, on a pu régler ce problème en rectifiant ADEFNOSI (en
 1864, 1895, 1896 et 1904) ou ADEFSIGN(en 1905).
 
 De 1907 à 1909, la cohérence n'est pas non plus respectée par
-les Comptes généraux sans qu'aucune correction de l'une ou l'autre
+les *Comptes généraux* sans qu'aucune correction de l'une ou l'autre
 des séries apparaisse possible.
 
 En 1910, la modification de la cohérence semble être liée à
@@ -46,6 +46,6 @@ la définition de la série ADEFEXEC.
 
 10.3.2.23.- ADEFCOMM (D2 - 1856 à 1932).
 
-Nombre de jugements rendus par défaut par les tribunaux
-correctionnels "en matière de délits communs".
+**Nombre de jugements rendus par défaut par les tribunaux
+correctionnels "en matière de délits communs".**
 
