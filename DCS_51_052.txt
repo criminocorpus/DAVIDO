@@ -31,8 +31,8 @@ fondues sur toute la période.
 
 6.1.2.1.- ATOTPARQ (V59 - 1831 à 1981).
 
-Total des plaintes, dénonciations et procès-verbaux dont ont
-eu à s'occuper les parquets au cours de l'année.
+**Total des plaintes, dénonciations et procès-verbaux dont ont
+eu à s'occuper les parquets au cours de l'année.**
 
 Ces affaires sont ventilées selon le sort qui leur a été
 réservé. Y figurent les affaires non orientées en fin d'année : il

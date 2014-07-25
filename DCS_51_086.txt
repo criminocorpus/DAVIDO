@@ -40,7 +40,7 @@ la détention préventive ; PLPFLAG n'est plus inclus dans PDPLPRO.
 
 8.3.2.5.- PLPREQU (V131 - 1854 à 1981*).
 
-Nombre de mises en liberté provisoire sur requête du prévenu.
+**Nombre de mises en liberté provisoire sur requête du prévenu.**
 
 Comme on l'a exposé plus haut (Cf. généralités), il s'agit
 d'une série reconstruite en fonction de l'évolution de la légis-

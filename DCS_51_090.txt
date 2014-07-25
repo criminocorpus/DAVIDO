@@ -32,8 +32,8 @@ tique séparée.
 
 9.2.1.- ATOTASSI (V15 - 1831 à 1952).
 
-*"Nombre total des accusations" jugées par les cours
-d'assises.*
+**"Nombre total des accusations" jugées par les cours
+d'assises.**
 
 Il s'agit ici d'un comptage en affaires (voir le chapitre 1.3
 sur les unités de compte). Une affaire pouvant compter plusieurs
