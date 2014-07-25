@@ -303,6 +303,5 @@
 | 1978   | 1982   | 0    | S.E.P.C             | 66                           | 119                          | 24                 |
 +--------+--------+------+---------------------+------------------------------+------------------------------+--------------------+
 
-(1).- L'année fait référence bien sûr à la statistique et non à la
-publication.
+.. [#] L'année fait référence bien sûr à la statistique et non à la publication.
 
