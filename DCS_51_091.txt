@@ -1,6 +1,7 @@
 -90-
 
 9.2.2.- PACCUSE (V16 = 1831 à 1981*).
+
 **"Nombre total des accusés" jugés par les cours d'assises.**
 
 Il s'agit d'un comptage en personnes (voir le chapitre 1.3
