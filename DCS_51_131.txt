@@ -23,7 +23,7 @@ Ces chiffres sont relevés jusqu'en 1932 et de 1955 à 1958.
 Ensuite, ils sont calculés de la manière suivante :
 PSUCOEMP = somme(PSUCOSIM,PSUCOMAE).
 
-A partir de 1977. l'exploitation informatique fait apparaître
+A partir de 1977, l'exploitation informatique fait apparaître
 les sursis partiels qui sont inclus dans cette série. On en compte
 12 208 en 1977 et 13 873 en 1978.
 
@@ -51,7 +51,7 @@ d'appel).**
 Cette série a été constituée de la même manière que la
 précédente.
 
-A partir de 1977. l'exploitation informatique fait apparaître
+A partir de 1977, l'exploitation informatique fait apparaître
 les sursis partiels qui sont inclus dans cette série. On en compte
 4 950 en 1977 et 5 585 en 1978.
 
