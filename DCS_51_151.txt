@@ -16,7 +16,7 @@ de l'amende de composition, instaurée en 1945. La même note figure
 ensuite dans les *Cadres* des parquets jusqu'en 1975.
 
 A partir de 1959, les contraventions de cinquième classe sont
-prises en considération pour le comptaqe des inculpés même si
+prises en considération pour le comptage des inculpés même si
 elles sont exclues du total des affaires.
 
 On observe la cohérence suivante :
@@ -60,11 +60,9 @@ ment aux juridictions.
 En 1896. l'importance du chiffre est principalement due à une
 forte augmentation (ou valeur aberrante ?) enregistrée au niveau
 de la cour d'appel d'Aix-en-Provence (5 532) et plus particulière-
-ment des tribunaux de Marseille (auqmentation de 2 542 par rapport
-à l'année précédente) et de Toulon (auqmentation de 1 517 par
+ment des tribunaux de Marseille (augmentation de 2 542 par rapport
+à l'année précédente) et de Toulon (augmentation de 1 517 par
 rapport à l'année précédente). Ces chiffres, par tribunal et non
 par cour d'appel, ont été relevés dans les *Comptes généraux de
 l'administration de la justice civile*.
-
- 
 

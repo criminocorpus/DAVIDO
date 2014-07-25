@@ -12,6 +12,7 @@ Les mineurs.
 
 En ce qui concerne leur prise en compte dans cette série, la
 solution varie au cours de la période :
+
 - de 1831 à 1923, il y a dans les tableaux des *Comptes généraux*
 une colonne unique intitulée "acquittés" dans laquelle mineurs et
 majeurs sont confondus. C'est le chiffre qui a été relevé. Il est

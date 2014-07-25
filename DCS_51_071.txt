@@ -20,6 +20,7 @@ ventilation en affaires criminelles et délictuelles dont le total
 devrait correspondre au total des arrêts de non-lieu trouvé dans
 le tableau donnant le résultat des affaires renvoyées devant la
 chambre d'accusation. Nous avons rencontré quelques écarts :
+
 - en 1891, le tableau sur la chambre d'accusation donne un total
 de 121, que l'on a ventilé en 113 crimes et 8 délits, alors que le
 tableau "ANL" donne 111 et 7 ;

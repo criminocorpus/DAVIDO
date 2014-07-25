@@ -18,7 +18,7 @@ riori, le chiffre saisi est donc différent de celui qu'on peut
 relever dans le *Compte général*.
 
 De 1831 à 1949, on peut observer les égalités suivantes :
-ATOTPOLI = somme(APOLCONT.APOLDEF) = somme(APOLIMP,APOLIPC). sauf
+ATOTPOLI = somme(APOLCONT,APOLDEF) = somme(APOLIMP,APOLIPC). sauf
 en 1880, 1920, 1934. 1941, 1944 et 1945.
 
 En 1944, on a une égalité aberrante :
@@ -33,7 +33,7 @@ jugements. Il est donc normal qu'après 1949, la cohérence précé-
 dente ne soit plus respectée.
 
 De 1959 à 1973, les contraventions de cinquième classe
-prévues par l'article R.4O du Code Pénal sont exclues (cf.
+prévues par l'article R.40 du Code Pénal sont exclues (cf.
 Généralités).
 
 14.2.2.- APOLCONT (P3 - 1839 à 1975*).
@@ -52,3 +52,4 @@ ont été reconstitués à partir des *Cadres* des parquets.
 
 Les chiffres ne sont pas disponibles pour les années 1950 à
 1953.
+

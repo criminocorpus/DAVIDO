@@ -33,10 +33,12 @@ public".**
 
 De 1863 à 1870, cette série est éclatée en trois rubriques
 sur les tableaux du *Compte général* :
+
 - conduite immédiate à la barre,
 - citation d'urgence avec mandat,
-- citation directe (C.I.C.) ;
-c'est le total de ces trois colonnes qui a alors été saisi.
+- citation directe (C.I.C.).
+
+C'est le total de ces trois colonnes qui a alors été saisi.
 
 En effet, après 1870, cette distinction est supprimée dans
 les *Cadres* des parquets (circulaire sur les statistiques du

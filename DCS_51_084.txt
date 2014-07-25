@@ -36,16 +36,14 @@ acceptable :
 - PLPTOT : TOTAL des mises en liberté malgré la divergence obser-
   vable à partir de 1940 avec la série PDPLPRO (achèvement de la dé-
   tention préventive par mise en liberté provisoire) ;
-
 - PLPRENV : RENVOI devant le tribunal correctionnel ou de simple
   police ;
-
 - PLPMAIN : MAINLEVEE du mandat de dépôt ;
-
 - PLPFLAG : FLAGRANTS DELITS article 5.
 
 Pour les autres séries, on peut envisager un regroupement ou
 une organisation en trois postes :
+
 - les mises en liberté sur requête, toujours présentes mais de
   contenu variable ;
 - les mises en liberté de droit qui apparaissent en 1865 et

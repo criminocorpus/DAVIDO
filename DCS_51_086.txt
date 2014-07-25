@@ -45,6 +45,7 @@ la détention préventive ; PLPFLAG n'est plus inclus dans PDPLPRO.
 Comme on l'a exposé plus haut (Cf. généralités), il s'agit
 d'une série reconstruite en fonction de l'évolution de la légis-
 lation. Selon les textes applicables, on devrait y trouver :
+
 - de 1854 à 1864, l'article 114 du C.I.C. ;
 - de 1865 à 1932, l'article 113, alinéa 1. du C.I.C. modifié par
 la loi du 14 juillet 1865 ;

@@ -10,6 +10,7 @@ PPREVENU.
 
 En ce qui concerne les mineurs la situation varie au cours de
 la période :
+
 - de 1832 à 1932, les mineurs acquittés sont pris en compte dans
 la colonne "acquittés", mais pas ceux "remis à parents", ni ceux
 "placés sous surveillance" lorsqu'il s'agit d'une mesure

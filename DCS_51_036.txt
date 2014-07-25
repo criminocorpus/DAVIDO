@@ -21,6 +21,7 @@ rant l'établissement d'une série. Le paragraphe concernant en
 propre une série ne contient donc pas toutes ses caractéristiques.
 
 On y trouve systématiquement :
+
 - dans le titre du paragraphe, le nom donné à la série, son
 code dans la base informatique, les années de début et de fin.
 Le nom de la série, limité à huit caractères par les logiciels
@@ -45,7 +46,7 @@ général*) sont figurées dans la base de données par un point.
 - les commentaires propres à une série donnent en particulier
 les valeurs aberrantes et les corrections apportées ainsi que les
 estimations que l'on a pu tenter pour combler des valeurs man-
-quantes .
+quantes.
 
 On trouvera en annexe deux listes récapitulatives des séries
 classées l'une selon les tableaux de chiffres dont le découpage

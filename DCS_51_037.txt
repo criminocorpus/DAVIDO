@@ -20,8 +20,8 @@ les statistiques publiées ("champ statistique").
 +===========+===============================+================================+
 |Avant      |Les départements de            |Le champ "statistique" est      |
 |1860       |Savoie, Haute-Savoie et        |identique au "champ             |
-|           |une partie des Alpes-          |géographique".                  |
-|           |Maritimes (le Comté de         |                                |
+|           |une partie des Alpes-Maritimes |géographique".                  |
+|           |(le Comté de                   |                                |
 |           |Nice) sont exclus.             |                                |
 +-----------+-------------------------------+--------------------------------+
 |De 1860 à  |Le territoire métropolitain    |En 1860, le "champ statistique" |

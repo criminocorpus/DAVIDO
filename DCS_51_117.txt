@@ -21,6 +21,7 @@ tribunaux correctionnels.**
 En général, cette série correspond au total des séries con-
 cernant le type de peine prononcée. Cependant, pour certaines
 années cette égalité n'est pas observée :
+
 - en 1844, 1 condamnation pour contravention forestière subsiste
 au niveau de la répartition par peine, sans qu'on puisse savoir
 dans quelle rubrique elle a été prise en compte (voir PPREVENU) ;
@@ -58,3 +59,4 @@ En 1955 et 1956, l'exploitation mécanographique donne séparé-
 ment les condamnations de première instance non suivies d'appel et
 celles qui sont prononcées par la cour d'appel. Nous les avons
 additionnées dans la base.
+
