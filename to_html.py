@@ -62,6 +62,8 @@ with open('intro.html', 'w') as f:
     f.write(rst_to_html(intro))
 
 liste_comptes = to_rst(208, 209)
+with open('DAVIDO/DCS_51_211-213.rst') as f:
+    liste_comptes += f.read()
 
 with open('liste_comptes.rst', 'w') as f:
     f.write(liste_comptes)

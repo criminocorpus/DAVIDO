@@ -34,7 +34,7 @@ les statistiques publiées ("champ statistique").
 |           |                               |1861, les deux coïncident.      |
 +-----------+-------------------------------+--------------------------------+
 |De 1870 à  |Sont exclus les arrondissements|Les arrondissements ne          |
-|1913 [#]_  |de Colmar,                     |faisant pas partie du           |
+|1913 [13]_ |de Colmar,                     |faisant pas partie du           |
 |           |Saverne, Strasbourg,           |territoire national sont        |
 |           |Schelestadt, Wissembourg,      |exclus également du "champ      |
 |           |Belfort et Mulhouse (du        |statistique". De plus, en       |
@@ -43,10 +43,10 @@ les statistiques publiées ("champ statistique").
 |           |ressort de Metz), ceux de      |du département de               |
 |           |Sarrebourg et Vic (du          |la Seine sont exclues en        |
 |           |ressort de Nancy) - soit       |raison de l'incendie du         |
-|           |l'Alsace et la Lorraine.       |palais de justice de            |
+|           |l'Alsace et la Lorraine. [13]_ |palais de justice de            |
 |           |                               |Paris. En 1870, est aussi       |
 |           |                               |exclue la statistique du        |
 |           |                               |tribunal de Remiremont en       |
 |           |                               |raison également de l'incendie  |
-|           |                               |du palais de justice [#]_.      |
+|           |                               |du palais de justice [14]_.     |
 +-----------+-------------------------------+--------------------------------+
