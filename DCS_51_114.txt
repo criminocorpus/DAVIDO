@@ -39,8 +39,8 @@ des écarts entre les totaux des différents tableaux".
 
 10.3.2.1.- ATOTCORR (X15 - 1831 à 1975).
 
-"Nombre des affaires" poursuivies par les tribunaux
-correctionnels.
+**"Nombre des affaires" poursuivies par les tribunaux
+correctionnels.**
 
 Les relevés ont été faits dans les *Comptes généraux* jusqu'en
 1954. dans les *Archives* de 1955 à 1969. puis les chiffres ont été
