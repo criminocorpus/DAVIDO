@@ -1,6 +1,6 @@
 -23-
 
-2.- CONSTRUCTION DE LA BASE DE DONNEES.
+2.- Construction de la base de données.
 
 2.1.- Le choix des séries.
 
