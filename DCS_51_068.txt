@@ -45,9 +45,10 @@ On a donc l'égalité PONLARRE = PDPONL.
 **Nombre total des affaires terminées par des ordonnances de
 non-lieu non frappées d'opposition.**
 
-On observe les égalités suivantes :
-AONLDEFI = somme(ANICNID2,AINSUFF2,AINCONN2,AMENTAL2)
-         = somme(ANOLICRI,ANOLIDEL).
+On observe les égalités suivantes : ::
+
+  AONLDEFI = somme(ANICNID2,AINSUFF2,AINCONN2,AMENTAL2)
+           = somme(ANOLICRI,ANOLIDEL).
          
 Pour obtenir l'ensemble des affaires terminées par un
 non-lieu i1 convient d'ajouter les arrêts de non-lieu rendus par

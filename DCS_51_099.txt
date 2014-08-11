@@ -5,8 +5,9 @@
 **Nombre de condamnés (condamnations) à des peines afllictives
 ou infamantes à temps.**
 
-Cette série est calculée de la manière suivante :
-PTEMPS = somme(PFORCE,PRECLUS,PDETENT,PCARCAN,PBANNI,PDEGRADE).
+Cette série est calculée de la manière suivante : ::
+
+  PTEMPS = somme(PFORCE,PRECLUS,PDETENT,PCARCAN,PBANNI,PDEGRADE).
 
 9.2.12.- PFORCE (V1 - 1831 à 1959).
 

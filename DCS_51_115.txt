@@ -16,10 +16,10 @@ généraux*. De 1955 à 1969, ils sont relevés dans les Archives.
 Ensuite ils proviennent de l'exploitation directe des *Cadres* des
 parquets.
 
-A partir de 1851, on observe l'égalité suivante :
+A partir de 1851, on observe l'égalité suivante : ::
 
-PPREVENU = somme(PRELAXE,PCONDCOR)
-         = somme(PMPRELA,PMPEMP,PMPAMEN... PPCAMEN),
+  PPREVENU = somme(PRELAXE,PCONDCOR)
+           = somme(PMPRELA,PMPEMP,PMPAMEN... PPCAMEN),
 
 De 1831 à 1850, à l'exception de 1843 et 1847, on observe une
 différence venant des prévenus poursuivis pour des contraventions

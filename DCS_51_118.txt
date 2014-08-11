@@ -24,7 +24,6 @@ dont on ne sait rien ici.
 
 Cette série n'est pas relevée mais calculée de la manière
 suivante jusqu'en 1976 :
-
 PPRISON = somme(PEC<=1AN,PEC>1AN).
 
 A partir de 1977, elle est obtenue par sommation des rubriques

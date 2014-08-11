@@ -35,8 +35,9 @@ suspension de fonctions publiques (art. 374 et 682 du C.P. sarde
 de 1859)". Le chiffre saisi diffère donc de celui donné par le
 *Compte général* (soit 4 812 au lieu de 4 813).
 
-On observe jusqu'en 1952 l'égalité suivante :
-PACCUSE = somme(PACQUIT,PCONDASS).
+On observe jusqu'en 1952 l'égalité suivante : ::
+
+  PACCUSE = somme(PACQUIT,PCONDASS).
 
 Les mineurs remis à parents ou envoyés en maison de cor-
 rection sont donc inclus dans ce comptage (cf. PPARENTA et

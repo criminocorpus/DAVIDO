@@ -37,6 +37,7 @@ En revanche, ils sont inclus dans la série des acquittés
 placés sous surveillance *sans autre peine*, au titre des articles
 100 ou 138 du C.P. (de 1832 à 1913).
 
-On observe l'égalité suivante :
-PCONDASS = somme(PMORT,PPERPET,PTEMPS,PCORRECT).
+On observe l'égalité suivante : ::
+
+  PCONDASS = somme(PMORT,PPERPET,PTEMPS,PCORRECT).
 

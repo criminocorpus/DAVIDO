@@ -16,9 +16,9 @@ distinguer.
 
 Le total des séries décrites ci-après correspond à une
 ventilation de la série ATOTPARQ (décrite dans le chapitre
-suivant) et on a l'égalité suivante :
+suivant) et on a l'égalité suivante : ::
 
-ATOTPARQ = somme(APVRESTE,ANOUVMP,ANOUVJI,ATOTORPV).
+  ATOTPARQ = somme(APVRESTE,ANOUVMP,ANOUVJI,ATOTORPV).
 
 5.2.- Les séries de la base.
 
@@ -44,8 +44,9 @@ pendant l'année par les juges d'instruction".**
 public.**
 
 Cette série est calculée et correspond à la somme des séries
-qui suivent, soit :
-ATOTORPV = somme(AGENDARM,APOLICE,APOLICOM,APOLIMOB,APOLIFER,
-                 AJUGE,AMAIRE,ACHAMPET,APONPECH,APARTIC,
-                 AIMPDOUA,AORPVALT).
+qui suivent, soit : ::
+
+  ATOTORPV = somme(AGENDARM,APOLICE,APOLICOM,APOLIMOB,APOLIFER,
+                   AJUGE,AMAIRE,ACHAMPET,APONPECH,APARTIC,
+                   AIMPDOUA,AORPVALT).
 

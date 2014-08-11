@@ -29,8 +29,9 @@ renvoyées par les chambres du Conseil aux chambres d'accusation
 que de celles dont ces dernières chambres ont été saisies par
 suite d'évocation (art. 235 du C.I.C.) ou en vertu d'oppositions
 formées contre des ordonnances de non-lieu (art. 135 du C.I.C.)".
-Ce total, non relevé, peut être obtenu en faisant :
-somme(AANLCRIM,AANLDELI,AACCASS,AACCCOR,AACCPOL).
+Ce total, non relevé, peut être obtenu en faisant : ::
+
+  somme(AANLCRIM,AANLDELI,AACCASS,AACCCOR,AACCPOL).
 
 Le tableau ne comprend pas d'équation "flux-stock" puisque
 les restes de fin d'année sont absents. Un tableau supplémentaire

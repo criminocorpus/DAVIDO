@@ -10,9 +10,10 @@ formule de cohérence implicitement ou explicitement adoptée par le
 *Compte général* pour l'année considérée : sa définition varie donc
 dans le temps (cf. généralités). Elle n'est pas toujours relevée.
 
-Avant 1842 ce total a été calculé selon la formule :
-PDPTOTAL = somme(PDPLPRO,PDPONL,PANLARRE,PDPACQUI,PDPCONAS,
-                 PDPRELA,PDPEMPRI,PDPAMEN).
+Avant 1842 ce total a été calculé selon la formule : ::
+
+  PDPTOTAL = somme(PDPLPRO,PDPONL,PANLARRE,PDPACQUI,PDPCONAS,
+                   PDPRELA,PDPEMPRI,PDPAMEN).
 
 A partir de 1842 et jusqu'en 1853 on trouve ce total mention-
 né dans le rapport qui jusque là ne s'intéressait qu'aux prévenus
@@ -40,10 +41,11 @@ De 1948 à 1955, ce total des sorties ne peut être ni relevé
 ni reconstitué.
 
 En 1956, il réapparaît avec un contenu largement modifié et
-on a alors l'égalité suivante :
-PDPTOTAL = somme(PDPMAIN,PDPLPRO,PDPRENV,PDPONL,PDPRELA,
-                 PDPEMPRI,PDPAMEN,PDPSURS,PDPAUTR,
-                 restes de fin d'année (non relevés)).
+on a alors l'égalité suivante : ::
+
+  PDPTOTAL = somme(PDPMAIN,PDPLPRO,PDPRENV,PDPONL,PDPRELA,
+                   PDPEMPRI,PDPAMEN,PDPSURS,PDPAUTR,
+                   restes de fin d'année (non relevés)).
 
 8.2.2.4.- PDPMAIN (V103 - 1956 à 1981).
 

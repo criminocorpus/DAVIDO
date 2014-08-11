@@ -35,8 +35,9 @@ d'abandon de poursuite par affaires et non plus par personnes.
 Les séries concernant les prévenus sont croisées avec les
 cours d'appel, mais pas celles concernant les affaires.
 
-On observe l'égalité suivante :
-ATOTCOR = somme(APARTCIV,AADMIN,AMPPARTI,AMPSEUL,AMPINST,AMPFLAG).
+On observe l'égalité suivante : ::
+
+  ATOTCOR = somme(APARTCIV,AADMIN,AMPPARTI,AMPSEUL,AMPINST,AMPFLAG).
 
 10.2.2.- Les séries de la base.
 

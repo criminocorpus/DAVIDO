@@ -38,10 +38,10 @@ hiérarchie entre les modalités n'est prévue.
 Majeurs et mineurs sont confondus sur toute la période sans
 qu'il soit possible de les distinguer.
 
-On peut vérifier les égalités suivantes :
+On peut vérifier les égalités suivantes : ::
 
-ATOTCLAS = somme(ANICNID1,AINCONN1,APAGRAV1,AMENTAL1,AINSUFF1,AAUTRE1)
-         = somme(ACLASCRI,ACLASDEL).
+  ATOTCLAS = somme(ANICNID1,AINCONN1,APAGRAV1,AMENTAL1,AINSUFF1,AAUTRE1)
+           = somme(ACLASCRI,ACLASDEL).
 
 6.2.2.- Les séries de la base.
 

@@ -37,9 +37,10 @@ en faveur des tribunaux militaires (cf. AEVOCOUR).
 
 Ainsi, si la série ne correspond pas toujours au total donné
 par le *Compte général*, on obtient par ces modifications une cohé-
-rence qu'il s'est cependant dans l'ensemble efforcé de respecter :
-ATOTINST = somme(ATOTNOLI,ARENVACC,ARENVTC,ARENVTP,ARENVTE,
-                 AJONCDES,ARENVALT,AEVOCOUR,ARESINST).
+rence qu'il s'est cependant dans l'ensemble efforcé de respecter : ::
+
+  ATOTINST = somme(ATOTNOLI,ARENVACC,ARENVTC,ARENVTP,ARENVTE,
+                   AJONCDES,ARENVALT,AEVOCOUR,ARESINST).
 
 7.2.2.2.- ATOTNOLI (V62 - 1831 à 1981).
 

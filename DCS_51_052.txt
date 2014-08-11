@@ -47,7 +47,8 @@ rent de ceux publiés dans les *Comptes généraux* correspondants en
 raison des modifications apportées au nombre des affaires communi-
 quées aux juges d'instruction (cf. ACOMMUJI).
 
-On observera l'égalité suivante :
-ATOTPARQ = somme(ACOMMUJI,AAUDIMP,AAUDIPC,ACOMMUAL,ACOMMUJE,
-                 ACOMMUTP,ATOTCLAS,ARESPARQ).
+On observera l'égalité suivante : ::
+
+  ATOTPARQ = somme(ACOMMUJI,AAUDIMP,AAUDIPC,ACOMMUAL,ACOMMUJE,
+                   ACOMMUTP,ATOTCLAS,ARESPARQ).
 
