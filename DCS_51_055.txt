@@ -13,7 +13,7 @@ De 1962 à 1977, la rubrique existe dans les tableaux.
 A partir de 1978, le renseignement est obtenu en totalisant
 les deux rubriques concernant d'une part, les contraventions des
 quatre premières classes (ACOMMTP4), d'autre part, celles des
-cinquièmes classes (ACOMMTPS).
+cinquièmes classes (ACOMMTP5).
 
 6.1.2.8.- ATOTCLAS (X3 - 1831 à 1981).
 
